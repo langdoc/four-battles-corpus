@@ -1,0 +1,5052 @@
+# sent_id = kpv_four_battles.001
+# text = Став челядь миян странаын тӧдӧны Климент Ефремович Ворошиловӧс, Советскӧй Союзса маршалӧс, Оборона кузя Народнӧй Комиссарӧс.
+# text_rus = Все ребята нашей страны знают Климента Ефремовича Ворошилова, маршала Советского Союза, Народного Комиссара Обороны.
+1	Став	став	PRON	Pron	Sg|Nom	2	det	_	_
+2	челядь	челядь	NOUN	N	Sg|Nom	5	nsubj	_	_
+3	миян	ми	PRON	Pron	Pers|Pl1|Gen	4	nmod	_	_
+4	странаын	страна	NOUN	N	Sg|Ine	5	obl	_	_
+5	тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+6	Климент	Климент	PROPN	N	Sg|Nom|Prop	5	obj	_	_
+7	Ефремович	Ефрем	PROPN	N	Sg|Nom|Prop	6	flat	_	_
+8	Ворошиловӧс	Ворошилов	PROPN	N	Sg|Acc|Prop	7	flat	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	10	punct	_	_
+10	Советскӧй	Советскӧй	ADJ	A	Sg|Nom	11	amod	_	_
+11	Союзса	союз	ADJ	A	Sg|Nom	12	amod	_	_
+12	маршалӧс	маршал	NOUN	N	Sg|Acc	6	appos	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	Оборона	оборона	PROPN	N	Sg|Nom|Prop	17	nmod	_	_
+15	кузя	кузя	ADV	Adv	_	14	advmod	_	_
+16	Народнӧй	народнӧй	ADJ	A	Sg|Nom	17	amod	_	_
+17	Комиссарӧс	комиссар	NOUN	N	Sg|Acc	6	appos	_	SpaceAfter=No
+18	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.002
+# text = Тӧдӧны сійӧс и радейтӧны.
+# text_rus = Знают его и любят.
+1	Тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+2	сійӧс	сійӧ	PRON	Pron	Pers|Sg3|Acc	1	obj	_	_
+3	и	и	CCONJ	CC	_	4	cc	_	_
+4	радейтӧны	радейтны	VERB	V	Ind|Prs|Pl3	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.003
+# text = И, дерт, кӧсйӧны тӧдны сы йылысь дзик ставсӧ.
+# text_rus = И, конечно, хотят знать о нем решительно все.
+1	И	и	SCONJ	CS	_	5	cc	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	5	punct	_	_
+3	дерт	дерт	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	кӧсйӧны	кӧсйыны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+6	тӧдны	тӧдны	VERB	V	Inf	5	xcomp	_	_
+7	сы	сійӧ	PRON	Pron	Pers|Sg3	6	obl	_	_
+8	йылысь	йылысь	ADP	Po	Sg|Ela	7	case	_	_
+9	дзик	дзик	ADV	Adv	_	10	advmod	_	_
+10	ставсӧ	став	PRON	Pron	Sg|Acc|PxSg3	6	obj	_	SpaceAfter=No
+11	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.004
+# text = Кыдзи сійӧ оліс ичӧтдырйиыс?
+# text_rus = Как жил он в детстве?
+1	Кыдзи	кыдзи	ADV	Adv	_	3	advmod	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_
+3	оліс	овны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	ичӧтдырйиыс	ичӧтдырйи	ADV	Adv	PxSg3	3	obl	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.005
+# text = Кыдзи сійӧ лои большевикӧн?
+# text_rus = Как он стал большевиком?
+1	Кыдзи	кыдзи	ADV	Adv	_	3	advmod	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_
+3	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	большевикӧн	большевик	NOUN	N	Sg|Ins	3	obl	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.006
+# text = Кыдзи лои Краснӧй Армияса командирӧн?
+# text_rus = Как стал командиром Красной армии?
+1	Кыдзи	кыдзи	ADV	Adv	_	2	advmod	_	_
+2	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	Краснӧй	краснӧй	ADJ	A	Sg|Nom	4	amod	_	_
+4	Армияса	армияса	ADJ	A	Sg|Nom	5	amod	_	_
+5	командирӧн	командир	NOUN	N	Sg|Ins	2	obl	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.007
+# text = Кыдзи нуӧдіс бойӧ миянлысь армияясӧс белӧйяслы паныд?
+# text_rus = Как вел в бой против белых наши армии?
+1	Кыдзи	кыдзи	ADV	Adv	_	2	advmod	_	_
+2	нуӧдіс	нуӧдны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	бойӧ	бой	NOUN	N	Sg|Ill	2	obl	_	_
+4	миянлысь	ми	PRON	Pron	Pers|Pl1|Abl	5	nmod	_	_
+5	армияясӧс	армия	NOUN	N	Pl|Acc	2	obj	_	_
+6	белӧйяслы	белӧй	NOUN	N	Pl|Dat	2	obl	_	_
+7	паныд	паныд	ADP	Po	_	6	case	_	SpaceAfter=No
+8	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.008
+# text = Кыдзи вермывліс врагъясӧс?
+# text_rus = Как побеждал врагов?
+1	Кыдзи	кыдзи	ADV	Adv	_	2	advmod	_	_
+2	вермывліс	вермывлыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	врагъясӧс	враг	NOUN	N	Pl|Acc	2	obj	_	SpaceAfter=No
+4	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.009
+# text = И мый вӧсна получитіс сійӧ орденъяссӧ, кодъяс сылӧн дзирдалӧны морӧс вылас, кор первомайскӧй парад дырйи сійӧ петас аслас вӧв вылын Московскӧй Кремльса Спасскӧй башня важ воротаысь?
+# text_rus = И за что получил те ордена, которые горят у него на груди, когда в час первомайского парада выезжает он на своем коне из-под старых ворот Спасской башни Московского Кремля?
+1	И	и	CCONJ	CC	_	2	cc	_	_
+2	мый	мый	PRON	Pron	Nom|Rel	4	obl	_	_
+3	вӧсна	вӧсна	ADP	Po	_	2	case	_	_
+4	получитіс	получитны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+5	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	6	det	_	_
+6	орденъяссӧ	орден	NOUN	N	Pl|Nom|Clt/сӧ	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	кодъяс	коді	PRON	Pron	Pl|Nom|Rel	10	nsubj	_	_
+9	сылӧн	сійӧ	PRON	Pron	Pers|Sg3|Gen	10	nmod	_	_
+10	дзирдалӧны	дзирдавны	VERB	V	Ind|Prs|Pl3	4	acl	_	_
+11	морӧс	морӧс	NOUN	N	Sg|Nom	10	obl	_	_
+12	вылас	вылын	ADP	Po	Sg|Ine|PxSg3	11	case	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	кор	кор	ADV	Adv	Rel|Temp	19	mark	_	_
+15	первомайскӧй	первомайскӧй	ADJ	A	Sg|Nom|PxSg1	16	amod	_	_
+16	парад	парад	NOUN	N	Sg|Nom	19	advcl	_	_
+17	дырйи	дырйи	ADP	Po	_	16	case	_	_
+18	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	19	nsubj	_	_
+19	петас	петны	VERB	V	Ind|Fut|Sg3	4	advcl	_	_
+20	аслас	ас	ADJ	A	Refl|Sg3|Gen	21	amod	_	_
+21	вӧв	вӧв	NOUN	N	Sg|Nom	19	obl	_	_
+22	вылын	вылын	ADP	Po	Spat|Sg|Ine	21	case	_	_
+23	Московскӧй	московскӧй	ADJ	A	Sg|Nom	24	amod	_	_
+24	Кремльса	Кремль	ADJ	A	Sg|Nom	25	amod	_	_
+25	Спасскӧй	спасскӧй	ADJ	A	Sg|Nom	26	amod	_	_
+26	башня	башня	NOUN	N	Sg|Nom	27	nmod	_	Check
+27	важ	важ	ADJ	A	Sg|Nom	28	amod	_	_
+28	воротаысь	ворота	NOUN	N	Sg|Ela	19	obl	_	SpaceAfter=No
+29	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.012
+# text = Медым висьтавны кӧть медся главнӧйтор йывсьыс, мый лолывліс Ворошилов ёртлӧн замечательнӧй олӧмас, ковмас не ӧти кыз книга.
+# text_rus = Чтобы рассказать хотя бы о самом главном из того, что случилось в замечательной жизни товарища Ворошилова, понадобится не одна толстая книга.
+1	Медым	медым	SCONJ	CS	_	2	mark	_	_
+2	висьтавны	висьтавны	VERB	V	Inf	0	root	_	_
+3	кӧть	кӧть	ADV	Adv	_	5	advmod	_	_
+4	медся	медся	ADV	Adv	AdA	5	advmod	_	_
+5	главнӧйтор	главнӧйтор	NOUN	N	Sg|Nom	2	obj	_	_
+6	йывсьыс	йывсьыс	ADP	Po	Sg|Ela|PxSg3	5	case	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	мый	мый	CCONJ	CC	_	9	advmod	_	_
+9	лолывліс	лолывлыны	VERB	V	Ind|Prt1|Sg3	5	acl	_	_
+10	Ворошилов	Ворошилов	PROPN	N	Prop|Sg|Nom	11	nmod	_	_
+11	ёртлӧн	ёрт	NOUN	N	Sg|Gen	13	nmod	_	_
+12	замечательнӧй	замечательнӧй	ADJ	A	Sg|Nom	13	amod	_	_
+13	олӧмас	олӧм	NOUN	N	Sg|Ine|PxSg3	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	ковмас	ковмыны	VERB	V	Ind|Fut|Sg3	5	acl	_	_
+16	не	не	PART	Pcle	Neg	17	discourse	_	_
+17	ӧти	ӧти	NUM	Num	Card|Attr	19	nummod	_	_
+18	кыз	кыз	ADJ	A	Sg|Nom	19	amod	_	_
+19	книга	книга	NOUN	N	Sg|Nom	15	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.013
+# text = Дженьыдик висьтӧ ыджыд мортлӧн олӧмыс оз тӧр.
+# text_rus = Жизнь большого человека не укладывается в короткий рассказ.
+1	Дженьыдик	дженьыдик	ADJ	A	Sg|Nom	2	amod	_	_
+2	висьтӧ	висьт	NOUN	N	Sg|Ill	7	obl	_	_
+3	ыджыд	ыджыд	ADJ	A	Sg|Nom	4	amod	_	_
+4	мортлӧн	морт	NOUN	N	Sg|Gen	5	nmod	_	_
+5	олӧмыс	олӧм	NOUN	N	Sg|Nom|PxSg3	7	nsubj	_	_
+6	оз	оз	AUX	V	Neg|Ind|Prs|Sg3	7	aux	_	_
+7	тӧр	тӧрны	VERB	V	ConNeg|Sg	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = kpv_four_battles.014
+# text = Тайӧ жӧ книгаас ми висьталам сӧмын нёль самӧй обыкновеннӧй боевӧй случай йылысь, кодъяс коркӧ, гражданскӧй война лунъясын, вӧвліны фронт вылын Климент Ефремовичкӧд.
+# text_rus = В этой же книжке мы расскажем только о четырех самых обыкновенных боевых случаях, которые когда-то, в далекие дни гражданской войны, произошли с Климентом Ефремовичем на фронте.
+1	Тайӧ	тайӧ	PRON	Pron	Dem|Sg|Nom	3	det	_	_
+2	жӧ	жӧ	PART	Pcle	_	3	discourse	_	_
+3	книгаас	книга	NOUN	N	Sg|Ill|PxSg3	5	obl	_	_
+4	ми	ми	PRON	Pron	Pers|Pl1|Nom	5	nsubj	_	_
+5	висьталам	висьтавны	VERB	V	Ind|Prs|Pl1	0	root	_	_
+6	сӧмын	сӧмын	ADV	Adv	_	5	advmod	_	_
+7	нёль	нёль	NUM	Num	Card|Attr	8	nummod	_	_
+8	самӧй	самӧй	PART	Pcle	_	9	amod	_	_
+9	обыкновеннӧй	обыкновеннӧй	ADJ	A	Sg|Nom	10	amod	_	_
+10	боевӧй	боевӧй	ADJ	A	Sg|Nom	11	amod	_	_
+11	случай	случай	NOUN	N	Sg|Nom	5	obj	_	_
+12	йылысь	йылысь	ADP	Po	Sg|Ela	11	case	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	кодъяс	коді	PRON	Pron	Pl|Nom|Rel	21	nsubj	_	_
+15	коркӧ	коркӧ	ADV	Adv	_	21	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	CLB	_	17	punct	_	_
+17	гражданскӧй	гражданскӧй	ADJ	A	Sg|Nom	18	amod	_	_
+18	война	война	NOUN	N	Sg|Nom	19	nmod	_	_
+19	лунъясын	лун	NOUN	N	Pl|Ine	15	conj	_	SpaceAfter=No
+20	,	,	PUNCT	CLB	_	21	punct	_	_
+21	вӧвліны	вӧвлыны	VERB	V	Ind|Prt1|Pl3	5	acl	_	_
+22	фронт	фронт	NOUN	N	Sg|Nom	21	obl	_	_
+23	вылын	вылын	ADP	Po	Sg|Ine	22	case	_	_
+24	Климент	Климент	PROPN	N	Prop|Sg|Nom	21	obl	_	_
+25	Ефремовичкӧд	Ефрем	PROPN	N	Prop|Sg|Com	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.016
+# text = Лун и вой мунісны бойяс, лун и вой красноармейскӧй частьяс писькӧдчисны рытыввывлань, Волгалань, Царицын карлань (ӧні сійӧ шусьӧ Сталинградӧн).
+# text_rus = Днем и ночью шли бои, днем и ночью пробивались красноармейские части на восток, к Волге, к городу Царицыну (теперь он называется Сталинградом).
+1	Лун	лун	NOUN	N	Sg|Nom	4	obl	_	_
+2	и	и	CCONJ	CC	_	3	cc	_	_
+3	вой	вой	NOUN	N	Sg|Nom	1	conj	_	_
+4	мунісны	мунны	VERB	V	Ind|Prt1|Pl3	0	root	_	_
+5	бойяс	бой	NOUN	N	Pl|Nom	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	лун	лун	NOUN	N	Sg|Nom	12	obl	_	_
+8	и	и	CCONJ	CC	_	9	cc	_	_
+9	вой	вой	NOUN	N	Sg|Nom	7	conj	_	_
+10	красноармейскӧй	красноармейскӧй	ADJ	A	Sg|Nom	11	amod	_	_
+11	частьяс	часть	NOUN	N	Pl|Nom	12	nsubj	_	_
+12	писькӧдчисны	писькӧдчыны	VERB	V	Ind|Prt1|Pl3	4	conj	_	_
+13	рытыввывлань	рытыввыв	NOUN	N	Sg|Apr	12	obl	_	SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	Волгалань	Волга	PROPN	N	Prop|Sg|Apr	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	CLB	_	17	punct	_	_
+17	Царицын	Царицын	PROPN	N	Prop|Sg|Nom	18	nmod	_	_
+18	карлань	кар	NOUN	N	Sg|Apr	13	conj	_	_
+19	(	(	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
+20	ӧні	ӧні	ADV	Adv	_	22	advmod	_	_
+21	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	22	nsubj	_	_
+22	шусьӧ	шусьыны	VERB	V	Ind|Prs|Sg3	18	parataxis	_	Note=Check
+23	Сталинградӧн	Сталинград	PROPN	N	Prop|Sg|Ins	22	obl	_	SpaceAfter=No
+24	)	)	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
+25	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.017
+# text = Туйыс вӧлі сьӧкыд, белӧйяс потшисны быд боксянь.
+# text_rus = Путь был трудный, белые наседали со всех сторон.
+1	Туйыс	туй	NOUN	N	Sg|Nom|PxSg3	3	nsubj	_	_
+2	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	3	cop	_	_
+3	сьӧкыд	сьӧкыд	ADJ	A	Sg|Nom	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	белӧйяс	белӧй	NOUN	N	Pl|Nom	6	nsubj	_	_
+6	потшисны	потшны	VERB	V	Ind|Prt1|Pl3	3	ccomp	_	_
+7	быд	быд	DET	Det	_	8	det	_	_
+8	боксянь	боксянь	ADP	Po	Spat|Sg|Egr	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.018
+# text = Быдлаысь кыліс винтовкаяслӧн трачӧдчӧм, орудиеысь лыйлӧм, взрывъяслӧн грымгӧм…
+# text_rus = Отовсюду слышалась трескотня винтовок, стрельба орудий, грохот взрывов…
+1	Быдлаысь	быдла	ADV	Adv	Spat|Ela	2	advmod	_	_
+2	кыліс	кывны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	винтовкаяслӧн	винтовка	NOUN	N	Pl|Gen	4	nmod	_	_
+4	трачӧдчӧм	трачӧдчӧм	VERB	V	PastPtc	2	csubj	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	орудиеысь	орудие	NOUN	N	Sg|Ela	7	nmod	_	_
+7	лыйлӧм	лыйлӧм	NOUN	N	PastPtc	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	взрывъяслӧн	взрыв	NOUN	N	Pl|Gen	10	nmod	_	_
+10	грымгӧм	грымгӧм	NOUN	N	PastPtc	4	conj	_	SpaceAfter=No
+11	…	…	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.019
+# text = И друг, кор миян войскаяс ас водзсьыныс ылысь аддзисны неыджыд казацкӧй сикт, Пятиизбеннӧй станица, ставыс гӧгӧр виччысьтӧг лӧнис.
+# text_rus = И вдруг, когда вдали перед собой наши войска увидели небольшую казачью деревню, станицу Пятиизбенную, всё вокруг неожиданно смолкло.
+1	И	и	CCONJ	CC	_	10	mark	_	_
+2	друг	друг	ADV	Adv	_	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	кор	кор	ADV	Adv	Rel|Temp	10	advmod	_	_
+5	миян	ми	PRON	Pron	Pers|Pl1|Gen	6	nmod	_	_
+6	войскаяс	войска	NOUN	N	Pl|Nom	10	nsubj	_	_
+7	ас	ас	ADJ	A	Refl|Attr	8	nmod	_	_
+8	водзсьыныс	водз	ADP	Po	Sg|Ela|PxPl3	10	obl	_	_
+9	ылысь	ылын	ADP	Po	Spat|Ela	8	case	_	_
+10	аддзисны	аддзыны	VERB	V	Ind|Prt1|Pl3	21	advcl	_	_
+11	неыджыд	неыджыд	ADJ	A	Neg	12	amod	_	_
+12	казацкӧй	казацкӧй	ADJ	A	Sg|Nom	13	amod	_	_
+13	сикт	сикт	NOUN	N	Sg|Nom	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	Пятиизбеннӧй	пятиизбеннӧй	ADJ	A	Sg|Nom|PxSg1	16	amod	_	_
+16	станица	станица	NOUN	N	Sg|Nom	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	CLB	_	18	punct	_	_
+18	ставыс	став	DET	Det	Sg|Nom|PxSg3	21	nsubj	_	_
+19	гӧгӧр	гӧгӧр	ADV	Adv	_	21	advmod	_	_
+20	виччысьтӧг	виччысьны	VERB	V	Ger|Neg	21	advcl	_	_
+21	лӧнис	лӧньны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	CLB	_	21	punct	_	_
+
+# sent_id = kpv_four_battles.020
+# text = Ни горзӧмъяс, ни лыйсьӧмъяс.
+# text_rus = Ни криков, ни выстрелов.
+1	Ни	ни	PART	Pcle	_	2	advmod	_	_
+2	горзӧмъяс	горзӧм	VERB	V	PastPtc	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	ни	ни	PART	Pcle	_	5	advmod	_	_
+5	лыйсьӧмъяс	лыйсьӧм	VERB	V	PastPtc	2	conj	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.021
+# text = Враг быттьӧ сыліс кытчӧкӧ.
+# text_rus = Враг точно бесследно провалился куда-то.
+1	Враг	враг	NOUN	N	Sg|Nom	3	nsubj	_	_
+2	быттьӧ	быттьӧ	PART	Pcle	_	3	advmod	_	_
+3	сыліс	сывны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	кытчӧкӧ	кытчӧ	ADV	Adv	Ill	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.022
+# text = Кытчӧ сійӧ воши?
+# text_rus = Куда он делся?
+1	Кытчӧ	кытчӧ	ADV	Adv	Ill	3	advmod	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_
+3	воши	вошны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.023
+# text = Кытысь лэбыштас выльысь?
+# text_rus = Откуда налетит вновь?
+1	Кытысь	кытысь	ADV	Adv	Interr|Ela	2	advmod	_	_
+2	лэбыштас	лэбыштны	VERB	V	Ind|Fut|Sg3	0	root	_	_
+3	выльысь	выльысь	ADV	Adv	Ela	2	advmod	_	SpaceAfter=No
+4	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.024
+# text = Некод оз тӧд!
+# text_rus = Неизвестно!
+1	Некод	некод	PRON	Pron	Neg|Sg|Nom	3	nsubj	_	_
+2	оз	оз	AUX	V	Neg|Ind|Prs|Sg3	3	aux	_	_
+3	тӧд	тӧдны	VERB	V	ConNeg|Sg	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.025
+# text = Война вылын татшӧм гӧгӧрвотӧмыс лёкджык медся ён бойысь.
+# text_rus = На войне такая непонятность хуже самого жестокого боя.
+1	Война	война	NOUN	N	Sg|Nom	5	obl	_	_
+2	вылын	вылын	ADP	Po	Spat|Sg|Ine	1	case	_	_
+3	татшӧм	татшӧм	DET	Det	_	4	det	_	_
+4	гӧгӧрвотӧмыс	гӧгӧрвоны	VERB	V	PastPtc|PxSg3|Neg	5	csubj	_	_
+5	лёкджык	лёк	ADJ	A	Comp	0	root	_	_
+6	медся	медся	ADV	Adv	AdA	7	advmod	_	_
+7	ён	ён	ADJ	A	Sg|Nom	8	amod	_	_
+8	бойысь	бой	NOUN	N	Sg|Ela	5	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.026
+# text = Неприятель страшнӧй, бура кӧ он тӧд, кӧні сійӧ и мый сійӧ вӧчӧ.
+# text_rus = Неприятель страшен, если не знаешь в точности, где он и что он делает.
+1	Неприятель	неприятель	NOUN	N	Sg|Nom|Neg	2	nsubj	_	_
+2	страшнӧй	страшнӧй	ADJ	A	Sg|Nom	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	бура	бура	ADV	Adv	_	7	advmod	_	_
+5	кӧ	кӧ	SCONJ	CS	_	7	advmod	_	_
+6	он	оз	AUX	V	Neg|Ind|Prs|Sg2	7	aux	_	_
+7	тӧд	тӧдны	VERB	V	ConNeg|Sg	2	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	кӧні	кӧні	ADV	Adv	Ine|Sg|Rel	10	advmod	_	_
+10	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	7	acl	_	_
+11	и	и	SCONJ	CS	_	12	punct	_	_
+12	мый	мый	PRON	Pron	Nom|Rel	14	obj	_	_
+13	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	14	nsubj	_	_
+14	вӧчӧ	вӧчны	VERB	V	Ind|Prs|Sg3	7	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.027
+# text = Колӧ вӧлі ӧні жӧ мунны смелӧй разведкаӧ, воӧдчыны ылі пемыд посёлокӧ, тӧдмавны, оз-ӧ дзебсясь сэні враг.
+# text_rus = Надо было сейчас же итти на смелую разведку, ворваться в темневший вдали поселок, узнать, не прячется ли там враг.
+1	Колӧ	ковны	VERB	V	Ind|Prs|Sg3	0	root	_	_
+2	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	1	cop	_	_
+3	ӧні	ӧні	ADV	Adv	_	1	advmod	_	_
+4	жӧ	жӧ	PART	Pcle	_	1	discourse	_	_
+5	мунны	мунны	VERB	V	Inf	1	xcomp	_	_
+6	смелӧй	смел	ADJ	A	Sg|Nom|PxSg1	7	amod	_	_
+7	разведкаӧ	разведка	NOUN	N	Sg|Ill	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	воӧдчыны	воӧдчыны	VERB	V	Inf	5	conj	_	_
+10	ылі	ылі	ADJ	A	Sg|Nom	11	amod	_	_
+11	пемыд	пемыд	ADJ	A	Sg|Nom	12	amod	_	_
+12	посёлокӧ	посёлок	NOUN	N	Sg|Ill	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	тӧдмавны	тӧдмавны	VERB	V	Inf	5	conj	_	SpaceAfter=No
+15	,	,	PUNCT	CLB	_	16	punct	_	_
+16	оз-ӧ	оз	AUX	V	Neg|Ind|Prs|Sg3|Clt/ӧ	17	aux	_	_
+17	дзебсясь	дзебсясьны	VERB	V	ConNeg|Sg	14	ccomp	_	_
+18	сэні	сэні	ADV	Adv	_	17	advmod	_	_
+19	враг	враг	NOUN	N	Sg|Nom	17	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.028
+# text = Тайӧ вӧлі вывті опаснӧй могӧн, но коланаӧн.
+# text_rus = Это было делом очень опасным, но необходимым.
+1	Тайӧ	тайӧ	PRON	Pron	Dem|Sg|Nom	5	det	_	_
+2	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	5	cop	_	_
+3	вывті	вывті	ADV	Adv	Tra	4	advmod	_	_
+4	опаснӧй	опаснӧй	ADJ	A	Sg|Nom|PxSg1	5	amod	_	_
+5	могӧн	могӧн	NOUN	N	Sg|Ins	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	но	но	CCONJ	CC	_	8	cc	_	_
+8	коланаӧн	колана	ADJ	A	Sg|Ins	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.029
+# text = Решитісны ыстыны разведкаӧ броневичок — пулемёта бронированнӧй боевӧй автомобиль.
+# text_rus = Решили послать на разведку броневичок — боевой бронированный автомобиль с пулеметом.
+1	Решитісны	решитны	VERB	V	Ind|Prt1|Pl3	0	root	_	_
+2	ыстыны	ыстыны	VERB	V	Inf	1	xcomp	_	_
+3	разведкаӧ	разведка	NOUN	N	Sg|Ill	2	obl	_	_
+4	броневичок	броневичок	NOUN	N	Sg|Nom	2	obj	_	_
+5	—	—	PUNCT	PUNCT	_	6	punct	_	_
+6	пулемёта	пулемёт	ADJ	A	Sg|Nom	7	amod	_	_
+7	бронированнӧй	бронированнӧй	ADJ	A	Sg|Nom	8	amod	_	_
+8	боевӧй	боевӧй	ADJ	A	Sg|Nom	9	amod	_	_
+9	автомобиль	автомобиль	NOUN	N	Sg|Nom	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.030
+# text = Броневик вӧлі важ да жугласьӧм, но мӧдтор нинӧм кипод уланыс эз вӧв.
+# text_rus = Броневик был старый и потрепанный, но ничего другого под рукой не было.
+1	Броневик	броневик	NOUN	N	Sg|Nom	3	nsubj	_	_
+2	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	3	cop	_	_
+3	важ	важ	ADJ	A	Sg|Nom	0	root	_	_
+4	да	да	CCONJ	CC	_	5	cc	_	_
+5	жугласьӧм	жугласьӧм	VERB	V	PastPtc	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	но	но	CCONJ	CC	_	13	cc	_	_
+8	мӧдтор	мӧдтор	NOUN	N	Sg|Nom	9	nmod	_	_
+9	нинӧм	нинӧм	PRON	Pron	Neg|Sg|Nom	13	nsubj	_	_
+10	кипод	кипод	NOUN	N	Sg|Nom	13	obl	_	_
+11	уланыс	ув	ADP	Po	Sg|Ill|PxPl3	10	case	_	_
+12	эз	оз	AUX	V	Neg|Ind|Sg3	13	aux	_	_
+13	вӧв	вӧвны	VERB	V	ConNeg|Sg	3	conj	_	SpaceAfter=No
+14	.	_	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.031
+# text = Эрд вылӧ петігӧн лои известнӧ, мый броневикса командирӧн мунӧ армияӧн командуйтысь Климент Ефремович Ворошилов.
+# text_rus = Перед самым выходом в поле стало известно, что командиром броневика поедет командующий армией Климент Ефре﻿мович Ворошилов.
+1	Эрд	эрд	NOUN	N	Sg|Nom	3	ccomp	_	_
+2	вылӧ	вылын	ADP	Po	Spat|Sg|Ill	1	case	_	_
+3	петігӧн	петны	VERB	V	Ger|Sg|Ins	4	acl	_	_
+4	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+5	известнӧ	известнӧ	NOUN	N	Sg|Nom	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	мый	мый	CCONJ	CC	_	10	mark	_	_
+8	броневикса	броневикса	ADJ	A	Sg|Nom	9	amod	_	_
+9	командирӧн	командир	NOUN	N	Sg|Ins	10	obl	_	_
+10	мунӧ	мунны	VERB	V	Ind|Prs|Sg3	5	advcl	_	_
+11	армияӧн	армия	NOUN	N	Sg|Ins	12	nmod	_	_
+12	командуйтысь	командуйтысь	VERB	V	ActPrsPtc	13	nmod	_	_
+13	Климент	Климент	PROPN	N	Prop|Sg|Nom	10	nsubj	_	_
+14	Ефремович	Ефрем	PROPN	N	Prop|Sg|Nom	13	flat:name	_	_
+15	Ворошилов	Ворошилов	PROPN	N	Prop|Sg|Nom	13	flat:name	_	SpaceAfter=No
+16	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.032
+# text = Тыдалӧ, разведкаыс сійӧ луннас вӧлі сэтшӧм важнӧй делӧӧн, мый Ворошилов решитчис мунны ачыс.
+# text_rus = Очевидно разведка в тот день была таким важным делом, что Ворошилов решил ехать на нее лично. Сам.
+1	Тыдалӧ	тыдавны	VERB	V	Ind|Prs|Sg3	8	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	разведкаыс	разведка	NOUN	N	Sg|Nom|PxSg3	8	nsubj	_	_
+4	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	5	det	_	_
+5	луннас	лун	NOUN	N	Sg|Ins|PxSg3	8	advmod	_	_
+6	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	8	cop	_	_
+7	сэтшӧм	сэтшӧм	DET	Det	_	8	det	_	_
+8	важнӧй	важнӧй	ADJ	A	Sg|Nom	0	root	_	_
+9	делӧӧн	делӧ	NOUN	N	Sg|Ins	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	CLB	_	11	punct	_	_
+11	мый	мый	CCONJ	CC	_	13	cc	_	_
+12	Ворошилов	Ворошилов	PROPN	N	Prop|Sg|Nom	13	nsubj	_	_
+13	решитчис	решитчыны	VERB	V	Ind|Prt1|Sg3	9	advcl	_	_
+14	мунны	мунны	VERB	V	Inf	13	xcomp	_	_
+15	ачыс	ас	PRON	Pron	Refl|Sg3|Nom	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	CLB	_	8	punct	_	_
+
+# sent_id = kpv_four_battles.033
+# text = Броневик ӧдйӧ муніс паськыд восьса эрд вывсӧ, коді торйӧдіс краснӧй боецъясӧс ичӧтик сиктысь, да зэв ӧдйӧ пырис посёлокас.
+# text_rus = Броневик быстро пробежал широкое пустое поле, отделявшее красных бойцов от деревушки, и на полном ходу ворвался в поселок.
+1	Броневик	броневик	NOUN	N	Sg|Nom	3	nsubj	_	_
+2	ӧдйӧ	ӧдйӧ	ADV	Adv	Ill	3	advmod	_	_
+3	муніс	мунны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	паськыд	паськыд	ADJ	A	Sg|Nom	5	amod	_	_
+5	восьса	восьса	ADJ	A	Sg|Nom	6	amod	_	_
+6	эрд	эрд	NOUN	N	Sg|Nom	7	nmod	_	_
+7	вывсӧ	выв	NOUN	N	Sg|Nom|Clt/сӧ	3	obj	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	коді	коді	PRON	Pron	Sg|Nom|Rel	10	nsubj	_	_
+10	торйӧдіс	торйӧдны	VERB	V	Ind|Prt1|Sg3	7	acl	_	_
+11	краснӧй	краснӧй	ADJ	A	Sg|Nom	12	amod	_	_
+12	боецъясӧс	боец	NOUN	N	Pl|Acc	10	obj	_	_
+13	ичӧтик	ичӧтик	ADJ	A	Sg|Nom	14	amod	_	_
+14	сиктысь	сикт	NOUN	N	Sg|Ela	10	obl	_	SpaceAfter=No
+15	,	,	PUNCT	CLB	_	16	punct	_	_
+16	да	да	CCONJ	CC	_	19	cc	_	_
+17	зэв	зэв	ADV	Adv	_	18	advmod	_	_
+18	ӧдйӧ	ӧдйӧ	ADV	Adv	Ill	19	advmod	_	_
+19	пырис	пырны	VERB	V	Ind|Prt1|Sg3	3	conj	_	_
+20	посёлокас	посёлок	NOUN	N	Sg|Ill|PxSg3	19	obl	_	SpaceAfter=No
+21	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.034
+# text = Главнӧй уличаыс сылӧн вӧлі куш.
+# text_rus = Главная улица его была пуста.
+1	Главнӧй	главнӧй	ADJ	A	Sg|Nom	2	amod	_	_
+2	уличаыс	улича	NOUN	N	Sg|Nom|PxSg3	5	nsubj	_	_
+3	сылӧн	сійӧ	PRON	Pron	Pers|Sg3|Gen	2	nmod	_	_
+4	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	5	cop	_	_
+5	куш	куш	ADJ	A	Sg|Nom	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.035
+# text = Но врагъяс вермисны дзебсьыны бокиса переулокъясас.
+# text_rus = Но враги могли спрятаться в боковых переулках.
+1	Но	но	CCONJ	CC	_	3	cc	_	_
+2	врагъяс	враг	NOUN	N	Pl|Nom	3	nsubj	_	_
+3	вермисны	вермыны	VERB	V	Ind|Prt1|Pl3	0	root	_	_
+4	дзебсьыны	дзебсьыны	VERB	V	Inf	3	xcomp	_	_
+5	бокиса	бокиса	ADJ	A	Sg|Nom	6	amod	_	_
+6	переулокъясас	переулок	NOUN	N	Pl|Ill|PxSg3	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.036
+# text = Одсӧ чинтытӧг, шоферыс машинасӧ веськӧдіс ӧти татшӧм переулокӧ, коді вӧлі зэв крутӧя кежӧ.
+# text_rus = Не замедляя хода, водитель направил машину в один из таких переулочков, изгибавшийся крутым коленом.
+# questions = What is the pos tag of татшӧм?
+1	Одсӧ	од	NOUN	N	Sg|Nom|Clt/сӧ	2	nmod	_	_
+2	чинтытӧг	чинтыны	VERB	V	Ger|Neg	6	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	шоферыс	шофёр	NOUN	N	Sg|Nom|PxSg3	6	nsubj	_	_
+5	машинасӧ	машина	NOUN	N	Sg|Nom|Clt/сӧ	6	obj	_	_
+6	веськӧдіс	веськӧдны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+7	ӧти	ӧти	NUM	Num	Card|Attr	9	nummod	_	_
+8	татшӧм	татшӧм	DET	Det	_	9	det	_	_
+9	переулокӧ	переулок	NOUN	N	Sg|Ill	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	CLB	_	11	punct	_	_
+11	коді	коді	CCONJ	CC	_	15	nsubj	_	_
+12	вӧлі	вӧвны	AUX	V	Ind|Prt1|Sg3	15	aux	_	_
+13	зэв	зэв	ADV	Adv	_	14	advmod	_	_
+14	крутӧя	крутӧя	ADV	Adv	_	15	advmod	_	_
+15	кежӧ	кежны	VERB	V	Ind|Prs|Sg3	6	acl	_	SpaceAfter=No
+16	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = kpv_four_battles.037
+# text = Но ӧдва на машинаыс воис бергӧдчанінӧдзыс, кыдз шоферыс став вынсьыс кутчысис тормоз дінас.
+# text_rus = Однако едва машина долетела до поворота, как водитель изо всех сил схватился за тормоз.
+1	Но	но	CCONJ	CC	_	5	cc	_	_
+2	ӧдва	ӧдва	ADV	Adv	_	5	advmod	_	_
+3	на	на	ADV	Adv	_	5	advmod	_	_
+4	машинаыс	машина	NOUN	N	Sg|Nom|PxSg3	5	nsubj	_	_
+5	воис	воны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+6	бергӧдчанінӧдзыс	бергӧдчанін	NOUN	N	Sg|Ter|PxSg3	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	кыдз	кыдз	ADV	Adv	_	12	advmod	_	_
+9	шоферыс	шофёр	NOUN	N	Sg|Nom|PxSg3	12	nsubj	_	_
+10	став	став	DET	Det	_	11	det	_	_
+11	вынсьыс	вын	NOUN	N	Sg|Ela|PxSg3	12	obl	_	_
+12	кутчысис	кутчысьны	VERB	V	Ind|Prt1|Sg3	5	advcl	_	_
+13	тормоз	тормоз	NOUN	N	Sg|Nom	12	obl	_	_
+14	дінас	дінын	ADP	Po	Sg|Ine|PxSg3	13	case	_	SpaceAfter=No
+15	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.038
+# text = Сійӧ пыр жӧ гӧгӧрвоис, мый лоис лёктор.
+# text_rus = Он сразу понял, что случилась страшная вещь.
+1	Сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	4	nsubj	_	_
+2	пыр	пыр	ADV	Adv	_	4	advmod	_	_
+3	жӧ	жӧ	PART	Pcle	_	2	discourse	_	_
+4	гӧгӧрвоис	гӧгӧрвоны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	мый	мый	CCONJ	CC	_	7	nsubj	_	_
+7	лоис	лоны	VERB	V	Ind|Prt1|Sg3	4	advcl	_	_
+8	лёктор	лёктор	NOUN	N	Sg|Nom	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.039
+# text = Переулокыс помасис тупикӧн.
+# text_rus = Переулок кончался тупиком.
+1	Переулокыс	переулок	NOUN	N	Sg|Nom|PxSg3	2	nsubj	_	_
+2	помасис	помасьны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	тупикӧн	тупик	NOUN	N	Sg|Ins	2	obl	_	SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.040
+# text = Мӧд петанін сэтысь эз вӧв.
+# text_rus = Второго выхода из него не было.
+1	Мӧд	мӧд	PRON	Pron	Dem	2	nmod	_	_
+2	петанін	петанін	NOUN	N	Sg|Nom	0	root	_	_
+3	сэтысь	сэтысь	ADV	Adv	Ela	2	obl	_	_
+4	эз	оз	AUX	V	Neg|Ind|Sg3	5	aux	_	_
+5	вӧв	вӧвны	AUX	V	ConNeg|Sg	2	cop	_	SpaceAfter=No
+6	.	_	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.041
+# text = Сэні, переулок помас, пу заборъяс дінӧ домавлӧмаӧсь седлӧа казацкӧй вӧвъясӧс.
+# text_rus = Там, в конце переулка, у деревянных заборов были привязаны оседланные казачьи лошади.
+1	Сэні	сэні	ADV	Adv	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	переулок	переулок	NOUN	N	Sg|Nom	1	conj	_	_
+4	помас	помын	ADP	Po	Sg|Ine|PxSg3	3	case	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	7	punct	_	_
+6	пу	пу	NOUN	N	Sg|Nom	7	nmod	_	_
+7	заборъяс	забор	NOUN	N	Pl|Nom	1	conj	_	_
+8	дінӧ	дінӧ	ADP	Po	Spat|Sg|Ill	7	case	_	_
+9	домавлӧмаӧсь	домавлыны	VERB	V	Ind|Prt2|Pl3	0	root	_	_
+10	седлӧа	седлӧ	ADJ	A	Sg|Nom	11	amod	_	_
+11	казацкӧй	казацкӧй	ADJ	A	Sg|Nom	12	amod	_	_
+12	вӧвъясӧс	вӧв	NOUN	N	Pl|Acc	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	9	punct	_	_
+
+# sent_id = kpv_four_battles.042
+# text = А став ӧдзӧсъяссьыс, воротаяссьыс, калиткаяссьыс мотор шум вылӧ котӧртісны нин вооружитчӧм йӧз.
+# text_rus = А из всех дверей, из ворот, из калиток уже выбегали на шум мотора вооруженные люди.
+1	А	а	SCONJ	CS	_	11	cc	_	_
+2	став	став	DET	Det	Sg|Nom	3	det	_	_
+3	ӧдзӧсъяссьыс	ӧдзӧс	NOUN	N	Pl|Ela|PxSg3	11	obl	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	воротаяссьыс	ворота	NOUN	N	Pl|Ela|PxSg3	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	калиткаяссьыс	калитка	NOUN	N	Pl|Ela|PxSg3	3	conj	_	_
+8	мотор	мотор	NOUN	N	Sg|Nom	9	nmod	_	_
+9	шум	шум	NOUN	N	Sg|Nom	11	obl	_	_
+10	вылӧ	вылӧ	ADP	Po	Sg|Ill	9	case	_	_
+11	котӧртісны	котӧртны	VERB	V	Ind|Prt1|Pl3	0	root	_	_
+12	нин	нин	ADV	Adv	_	14	advmod	_	_
+13	вооружитчӧм	вооружитчӧм	VERB	V	PastPtc	14	acl	_	_
+14	йӧз	йӧз	NOUN	N	Sg|Nom	11	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	CLB	_	11	punct	_	_
+
+# sent_id = kpv_four_battles.043
+# text = Казакъяс!
+# text_rus = Казаки!
+1	Казакъяс	казак	NOUN	N	Pl|Nom	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.044
+# text = Белӧйяс!
+# text_rus = Белые!
+1	Белӧйяс	белӧй	NOUN	N	Pl|Nom	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.045
+# text = Шоферыс сувтӧдіс машинасӧ.
+# text_rus = Водитель остановил машину.
+1	Шоферыс	шофёр	NOUN	N	Sg|Nom|PxSg3	2	nsubj	_	_
+2	сувтӧдіс	сувтӧдны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+3	машинасӧ	машина	NOUN	N	Sg|Acc|PxSg3	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.046
+# text = Чужӧмыс сылӧн лои мел кодь еджыд.
+# text_rus = Лицо его стало белым, как мел.
+1	Чужӧмыс	чужӧм	NOUN	N	Sg|Nom|PxSg3	3	nsubj	_	_
+2	сылӧн	сійӧ	PRON	Pron	Pers|Sg3|Gen	1	nmod	_	_
+3	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	мел	мел	NOUN	N	Sg|Nom	6	nmod	_	_
+5	кодь	кодь	ADP	Po	_	4	case	_	Note=Check
+6	еджыд	еджыд	ADJ	A	Sg|Nom	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.047
+# text = — Мый тэ вӧчан?
+# text_rus = — Что ты делаешь?
+1	—	—	PUNCT	PUNCT	_	4	punct	_	_
+2	Мый	мый	CCONJ	CC	_	4	obj	_	_
+3	тэ	тэ	PRON	Pron	Pers|Sg2|Nom	4	nsubj	_	_
+4	вӧчан	вӧчны	VERB	V	Ind|Prs|Sg2	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.048
+# text = Мыйла тормозитін? — горӧдіс Ворошилов.
+# text_rus = Почему затормозил? — крикнул Ворошилов.
+1	Мыйла	мыйла	ADV	Adv	_	2	advmod	_	_
+2	тормозитін	тормозитны	VERB	V	Ind|Prt1|Sg2	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+4	—	—	PUNCT	PUNCT	_	5	punct	_	_
+5	горӧдіс	горӧдны	VERB	V	Ind|Prt1|Sg3	2	parataxis	_	_
+6	Ворошилов	Ворошилов	PROPN	N	Prop|Sg|Nom	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.049
+# text = — Векни!
+# text_rus = — Узко!
+1	—	—	PUNCT	PUNCT	_	2	punct	_	_
+2	Векни	векни	ADJ	A	Sg|Nom	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.050
+# text = Мунігмозыс он тӧр бергӧдчыныс, командир ёрт!
+# text_rus = С ходу не развернешься, товарищ командир!
+1	Мунігмозыс	мунны	VERB	V	Ger|PxSg3	3	advcl	_	_
+2	он	оз	AUX	V	Neg|Ind|Prs|Sg2	3	aux	_	_
+3	тӧр	тӧрны	VERB	V	ConNeg|Sg	0	root	_	_
+4	бергӧдчыныс	бергӧдчыны	VERB	V	Inf|Px3	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	командир	командир	NOUN	N	Sg|Nom	7	nmod	_	_
+7	ёрт	ёрт	NOUN	N	Sg|Nom	3	vocative	_	SpaceAfter=No
+8	!	!	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.051
+# text = Сійӧ эз на удит шуны тайӧс, кыдз казакъяс горзігтырйи уськӧдчисны машиналань.
+# text_rus = Он не успел еще выговорить это, как казаки с ревом кинулись к машине.
+1	Сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	4	nsubj	_	_
+2	эз	оз	AUX	V	Neg|Ind|Sg3	4	aux	_	_
+3	на	на	ADV	Adv	_	2	advmod	_	_
+4	удит	удитны	VERB	V	ConNeg|Sg	0	root	_	_
+5	шуны	шуны	VERB	V	Inf	4	xcomp	_	_
+6	тайӧс	тайӧ	PRON	Pron	Dem|Sg|Acc	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	кыдз	кыдз	ADV	Adv	Manner|Rel	11	advmod	_	_
+9	казакъяс	казак	NOUN	N	Pl|Nom	11	nsubj	_	_
+10	горзігтырйи	горзыны	VERB	V	Ger	11	advcl	_	_
+11	уськӧдчисны	уськӧдчыны	VERB	V	Ind|Prt1|Pl3	4	advcl	_	_
+12	машиналань	машина	NOUN	N	Sg|Apr	11	obl	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.052
+# text = И пыр жӧ броневик пытшкас пондіс шумитны, тратшкакывны да чеччавны: тайӧ мӧдіс уджавны краснӧйяслӧн дзик ӧти пулемёт.
+# text_rus = И сейчас же всё внутри броневика загрохотало, заколотилось и запрыгало: это заговорил единственный пулемет красных.
+1	И	и	SCONJ	CS	_	6	mark	_	_
+2	пыр	пыр	ADV	Adv	_	6	advmod	_	_
+3	жӧ	жӧ	PART	Pcle	_	2	discourse	_	_
+4	броневик	броневик	NOUN	N	Sg|Nom	6	nsubj	_	_
+5	пытшкас	пытш	ADP	Po	Spat|Sg|Ine|PxSg3	4	case	_	_
+6	пондіс	пондыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+7	шумитны	шумитны	VERB	V	Inf	6	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	тратшкакывны	тратшкакывны	VERB	V	Inf	7	conj	_	_
+10	да	да	CCONJ	CC	_	11	cc	_	_
+11	чеччавны	чеччавны	VERB	V	Inf	7	conj	_	SpaceAfter=No
+12	:	:	PUNCT	CLB	_	13	punct	_	_
+13	тайӧ	тайӧ	PRON	Pron	Dem|Sg|Nom	14	nsubj	_	_
+14	мӧдіс	мӧдны	VERB	V	Ind|Prt1|Sg3	6	parataxis	_	Note=Check
+15	уджавны	уджавны	VERB	V	Inf	14	xcomp	_	_
+16	краснӧйяслӧн	краснӧӥ	NOUN	N	Pl|Gen	19	nmod	_	_
+17	дзик	дзик	ADV	Adv	AdA	18	advmod	_	_
+18	ӧти	ӧти	NUM	Num	Card|Attr	19	nummod	_	_
+19	пулемёт	пулемёт	NOUN	N	Sg|Nom	15	obj	_	SpaceAfter=No
+20	.	.	PUNCT	CLB	_	6	punct	_	_
+
+# sent_id = kpv_four_battles.053
+# text = — Ага!
+# text_rus = — Ага!
+1	—	—	PUNCT	CLB	_	2	punct	_	_
+2	Ага	Ага	INTJ	Interj	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.054
+# text = Эз кажитчы!
+# text_rus = Не понравилось?
+1	Эз	оз	AUX	V	Neg|Ind|Sg3	2	aux	_	_
+2	кажитчы	кажитчыны	VERB	V	ConNeg|Sg	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.055
+# text = Водінныд пуляяс улӧ, бандитъяс?
+# text_rus = Залегли под пулями, бандиты?
+1	Водінныд	водны	VERB	V	Ind|Prt1|Pl2	0	root	_	_
+2	пуляяс	пуля	NOUN	N	Pl|Nom	1	obl	_	_
+3	улӧ	ув	ADP	Po	Sg|Ill	2	case	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	бандитъяс	бандит	NOUN	N	Pl|Nom	1	vocative	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.056
+# text = Шоферыс паръяссӧ курччӧмӧн тракнитіс задньӧй ходлысь рычагсӧ.
+# text_rus = Водитель, закусив губу, рванул рычаг заднего хода.
+1	Шоферыс	шофёр	NOUN	N	Sg|Nom|PxSg3	4	nsubj	_	_
+2	паръяссӧ	пар	NOUN	N	Pl|Acc	3	obj	_	_
+3	курччӧмӧн	курччыны	VERB	V	PastPtc|Ins	4	advcl	_	_
+4	тракнитіс	тракнитны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+5	задньӧй	задньӧй	ADJ	A	Sg|Nom	6	amod	_	_
+6	ходлысь	ход	NOUN	N	Sg|Abl	7	nmod	_	_
+7	рычагсӧ	рычаг	NOUN	N	Sg|Acc	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.057
+# text = — Ох, командир ёрт, беда!
+# text_rus = — Ох, товарищ командир, беда!
+1	—	—	PUNCT	PUNCT	_	2	punct	_	_
+2	Ох	ох	INTJ	Interj	_	7	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	командир	командир	NOUN	N	Sg|Nom	5	nmod	_	_
+5	ёрт	ёрт	NOUN	N	Sg|Nom	7	vocative	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	беда	беда	ADV	Adv	_	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	CLB	_	7	punct	_	_
+
+# sent_id = kpv_four_battles.058
+# text = Задньӧй ходыс портитчис…
+# text_rus = Задний ход испортился…
+1	Задньӧй	задньӧй	ADJ	A	Sg|Nom	2	amod	_	_
+2	ходыс	ход	NOUN	N	Sg|Nom|PxSg3	3	obl	_	_
+3	портитчис	портитчыны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
+4	…	…	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.059
+# text = Крукасис мыйкӧ.
+# text_rus = Заело что-то.
+1	Крукасис	крукасьны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+2	мыйкӧ	мыйкӧ	PRON	Pron	Nom|Der/кӧ|Indef	1	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.060
+# text = Не петны миянлы…
+# text_rus = Не выбраться нам…
+1	Не	не	PART	Pcle	Neg	2	advmod	_	_
+2	петны	петны	VERB	V	Inf	0	root	_	_
+3	миянлы	ми	PRON	Pron	Pers|Pl1|Dat	2	obl	_	SpaceAfter=No
+4	…	…	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.061
+# text = Казакъяс пыр жӧ гӧгӧрвоисны, мый броневикыс сибдіс.
+# text_rus = Казаки сразу же поняли, что броневичок застрял.
+1	Казакъяс	казак	NOUN	N	Pl|Nom	4	nsubj	_	_
+2	пыр	пыр	ADV	Adv	_	4	advmod	_	_
+3	жӧ	жӧ	PART	Pcle	_	2	discourse	_	_
+4	гӧгӧрвоисны	гӧгӧрвоны	VERB	V	Ind|Prt1|Pl3	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	мый	мый	CCONJ	CC	_	8	mark	_	_
+7	броневикыс	броневик	NOUN	N	Sg|Nom|PxSg3	8	nsubj	_	_
+8	сибдіс	сибдыны	VERB	V	Ind|Prt1|Sg3	4	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.062
+# text = — Мый?
+# text_rus = — Что?
+1	—	—	PUNCT	PUNCT	_	2	punct	_	_
+2	Мый	мый	PRON	Pron	Nom|Interr	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.063
+# text = Сюринныд краснӧй чӧртъяс?
+# text_rus = Попались, черти красные?..
+1	Сюринныд	сюрны	VERB	V	Ind|Prt1|Pl2	0	root	_	_
+2	краснӧй	краснӧӥ	ADJ	A	Sg|Nom	3	amod	_	_
+3	чӧртъяс	чӧрт	NOUN	N	Pl|Nom	1	vocative	_	SpaceAfter=No
+4	?	?	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = kpv_four_battles.064
+# text = Ну, ӧні ми тіянӧс!
+# text_rus = Ну, сейчас мы вас!
+1	Ну	ну	PART	Pcle	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
+4	ми	ми	PRON	Pron	Pers|Pl1|Nom	0	root	_	_
+5	тіянӧс	ті	PRON	Pron	Pers|Pl2|Acc	4	orphan	_	SpaceAfter=No|Note=Check
+6	!	!	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.065
+# text = И вот найӧ шыбласьӧны нин канаваӧ, кыссьӧны турун пӧвстті, старайтчӧны воӧдчыны кыдз позьӧ матӧджык.
+# text_rus = И вот они уже кидаются в канавы, ползут по траве, ста-﻿раются подобраться как можно ближе.
+1	И	и	PART	Pcle	_	4	discourse	_	_
+2	вот	вот	PART	Pcle	_	1	discourse	_	_
+3	найӧ	найӧ	PRON	Pron	Pers|Pl3|Nom	4	advmod	_	_
+4	шыбласьӧны	шыбласьны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+5	нин	нин	ADV	Adv	_	4	advmod	_	_
+6	канаваӧ	канава	NOUN	N	Sg|Ill	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	кыссьӧны	кыссьыны	VERB	V	Ind|Prs|Pl3	4	conj	_	_
+9	турун	турун	NOUN	N	Sg|Nom	8	obl	_	_
+10	пӧвстті	пӧвст	ADP	Po	Sg|Tra	9	case	_	SpaceAfter=No
+11	,	,	PUNCT	CLB	_	12	punct	_	_
+12	старайтчӧны	старайтчыны	VERB	V	Ind|Prs|Pl3	4	conj	_	_
+13	воӧдчыны	воӧдчыны	VERB	V	Inf	12	xcomp	_	_
+14	кыдз	кыдз	ADV	Adv	_	15	advmod	_	_
+15	позьӧ	позьны	VERB	V	Ind|Prs|Sg3	13	ccomp	_	_
+16	матӧджык	матӧ	ADV	Adv	Ill|Comp	15	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.066
+# text = Налӧн пуляясыс сяргӧны броневикӧ сідз, мый пельяссьыс перепонкаясыс машина пытшса йӧзлӧн чуть оз потласьны.
+# text_rus = Их пули бьют по броневику так, что у людей в машине от грохота чуть не лопаются перепонки в ушах.
+1	Налӧн	найӧ	PRON	Pron	Pers|Pl3|Gen	2	nmod	_	_
+2	пуляясыс	пуля	NOUN	N	Pl|Nom|PxSg3	3	nsubj	_	_
+3	сяргӧны	сяргыны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+4	броневикӧ	броневик	NOUN	N	Sg|Ill	3	obl	_	_
+5	сідз	сідз	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	мый	мый	SCONJ	CS	_	15	mark	_	_
+8	пельяссьыс	пель	NOUN	N	Pl|Ela|PxSg3	15	obl	_	_
+9	перепонкаясыс	перепонка	NOUN	N	Pl|Ela|PxSg3	15	obl	_	_
+10	машина	машина	NOUN	N	Sg|Nom	11	nmod	_	_
+11	пытшса	пытшса	ADJ	A	Sg|Nom	12	amod	_	_
+12	йӧзлӧн	йӧз	NOUN	N	Sg|Gen	13	nmod	_	_
+13	чуть	чуть	ADV	Adv	_	15	advmod	_	_
+14	оз	оз	AUX	V	Neg|Ind|Prs	15	aux	_	_
+15	потласьны	потласьны	VERB	V	ConNeg|Pl3	3	acl	_	SpaceAfter=No
+16	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.067
+# text = Пуляясыс жугласьӧны зэв уна посньыд пӧсь свинец да сталь торпыригъяс вылӧ.
+# text_rus = Пули рассыпаются на множество мелких горячих брызг свинца и стали.
+1	Пуляясыс	пуля	NOUN	N	Pl|Nom|PxSg3	2	nsubj	_	_
+2	жугласьӧны	жугласьны	VERB	V	Refl|Ind|Prs|Pl3	0	root	_	_
+3	зэв	зэв	ADV	Adv	_	4	advmod	_	_
+4	уна	уна	ADV	Adv	_	2	advmod	_	_
+5	посньыд	посньыд	ADJ	A	Sg|Nom	6	amod	_	_
+6	пӧсь	пӧсь	ADJ	A	Sg|Nom	7	amod	_	_
+7	свинец	свинец	NOUN	N	_	2	obl	_	_
+8	да	да	CCONJ	CC	_	10	cc	_	_
+9	сталь	сталь	NOUN	N	Sg|Nom	10	nmod	_	_
+10	торпыригъяс	торпыриг	NOUN	N	Pl|Nom	7	conj	_	_
+11	вылӧ	вылӧ	ADP	Po	Sg|Ill	10	case	_	SpaceAfter=No
+12	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.068
+# text = Тайӧ торпыригъясыс пырӧны боевӧй ӧшинь векньыдик щельясӧд, ранитӧны кияснысӧ, чужӧмнысӧ, соталӧны паськӧмнысӧ пырыс…
+# text_rus = Эти брызги врываются в узкие щели боевых окошек, ранят руки, лицо, прожигают насквозь одежду…
+1	Тайӧ	тайӧ	PRON	Pron	Dem|Sg|Nom	2	det	_	_
+2	торпыригъясыс	торпыриг	NOUN	N	Pl|Nom|PxSg3	3	obl	_	_
+3	пырӧны	пырны	VERB	V	Ind|Prs|Pl3	0	root	_	_
+4	боевӧй	боевӧй	ADJ	A	Sg|Nom	5	amod	_	_
+5	ӧшинь	ӧшинь	NOUN	N	Sg|Nom	7	nmod	_	_
+6	векньыдик	векньыдик	ADJ	A	Sg|Nom	7	amod	_	_
+7	щельясӧд	щель	NOUN	N	Pl|Prl	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	ранитӧны	ранитны	VERB	V	Ind|Prs|Pl3	3	conj	_	_
+10	кияснысӧ	ки	NOUN	N	Pl|Acc|PxPl3	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	CLB	_	10	punct	_	_
+12	чужӧмнысӧ	чужӧм	NOUN	N	Sg|Acc|PxPl3	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	12	punct	_	_
+14	соталӧны	сотавны	VERB	V	Ind|Prs|Pl3	3	conj	_	_
+15	паськӧмнысӧ	паськӧм	NOUN	N	Sg|Acc|PxPl3	14	obj	_	_
+16	пырыс	пыр	ADP	Po	PxSg3	15	case	_	SpaceAfter=No
+17	…	…	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = kpv_four_battles.069
+# text = Шоферыс, том зонка на, дзикӧдз растеряйтчис.
+# text_rus = Водитель машины, еще молодой парнишка, совсем растерялся.
+1	Шоферыс	шофёр	NOUN	N	Sg|Nom	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	том	том	ADJ	A	Sg|Nom	4	amod	_	_
+4	зонка	зонка	NOUN	N	Sg|Nom	1	appos	_	_
+5	на	на	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	дзикӧдз	дзикӧдз	ADV	Adv	Ter	8	advmod	_	_
+8	растеряйтчис	растеряйтчыны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	8	punct	_	_
+
+# sent_id = kpv_four_battles.070
+# text = Мый вӧчны?
+# text_rus = Что делать?
+1	Мый	мый	PRON	Pron	_	2	obj	_	_
+2	вӧчны	вӧчны	VERB	V	Inf	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.071
+# text = Командир ёрт?
+# text_rus = Товарищ командир?
+1	Командир	командир	NOUN	N	Sg|Nom	2	nmod	_	_
+2	ёрт	ёрт	NOUN	N	Sg|Nom	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.072
+# text = Кыдз лоны?
+# text_rus = Как быть-то?
+1	Кыдз	кыдз	ADV	Adv	_	2	advmod	_	_
+2	лоны	лоны	VERB	V	Inf	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = kpv_four_battles.073
+# text = Вошим ми, — шӧпкӧдіс сійӧ.
+# text_rus = Пропали-мы, — бормотал он.
+1	Вошим	вошны	VERB	V	Ind|Prt1|Pl1	0	root	_	_
+2	ми	ми	PRON	Pron	Pers|Pl1|Nom	1	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	2	punct	_	_
+4	—	—	PUNCT	PUNCT	_	5	punct	_	_
+5	шӧпкӧдіс	шӧпкӧдны	VERB	V	Ind|Prt1|Sg3	1	parataxis	_	_
+6	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = kpv_four_battles.074
+# text = Чорыд киыс Ворошиловлӧн усис сылы пельпом вылас.
+# text_rus = Твердая рука Ворошилова легла ему на плечо.
+1	Чорыд	чорыд	ADJ	A	Sg|Nom	2	amod	_	_
+2	киыс	ки	NOUN	N	Sg|Nom|PxSg3	4	nsubj	_	_
+3	Ворошиловлӧн	Ворошилов	NOUN	N	Sg|Gen	2	nmod	_	_
+4	усис	усьны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+5	сылы	сійӧ	PRON	Pron	Pers|Sg3|Dat	6	nmod	_	_
+6	пельпом	пельпом	NOUN	N	Sg|Nom	4	obl	_	_
+7	вылас	вылын	ADP	Po	Sg|Ill|PxSg3	6	case	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = kpv_four_battles.075
+# text = — Да мый тэ, друг, мый тэ!
+# ft_rus = — Да что ты, друг, что ты!
+1	—	_	_	_	_	_	_	_	_
+2	Да	_	_	_	_	_	_	_	_
+3	мый	_	_	_	_	_	_	_	_
+4	тэ	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	друг	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	мый	_	_	_	_	_	_	_	_
+9	тэ	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.076
+# text = Мыйысь повзин.
+# ft_rus = Чего испугался?
+1	Мыйысь	_	_	_	_	_	_	_	_
+2	повзин	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.077
+# text = Кутчысь чорыдджыка.
+# ft_rus = Держись крепче!
+1	Кутчысь	_	_	_	_	_	_	_	_
+2	чорыдджыка	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.078
+# text = Видлы, вермас лоны, кӧть неуна машинаыс босьтас бӧрлань?
+# ft_rus = Попробуй, может быть, хоть немножко возьмет машина назад?
+1	Видлы	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	вермас	_	_	_	_	_	_	_	_
+4	лоны	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кӧть	_	_	_	_	_	_	_	_
+7	неуна	_	_	_	_	_	_	_	_
+8	машинаыс	_	_	_	_	9	nsubj	_	_
+9	босьтас	_	_	_	_	_	_	_	v1
+10	бӧрлань	_	_	_	_	9	obl	_	_
+11	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.080
+# text = Давай, давай, бергӧдчы ньӧжйӧникӧн…
+# ft_rus = Давай, давай, разворачивайся понемножку…
+1	Давай	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	давай	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	бергӧдчы	_	_	_	_	_	_	_	_
+6	ньӧжйӧникӧн	_	_	_	_	_	_	_	_
+7	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.081
+# text = Да эн пов, нинӧм на страшнӧйыс абу!
+# ft_rus = Да не бойся, ничего еще нет страшного!
+1	Да	_	_	_	_	_	_	_	_
+2	эн	_	_	_	_	_	_	_	_
+3	пов	_	_	_	_	_	_	_	v1
+4	,	_	_	_	_	_	_	_	_
+5	нинӧм	_	_	_	_	_	_	_	_
+6	на	_	_	_	_	_	_	_	_
+7	страшнӧйыс	_	_	_	_	_	_	_	_
+8	абу	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.082
+# text = Лыйлам, чеччыштам!
+# ft_rus = Отстреляемся, выскочим!
+1	Лыйлам	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	чеччыштам	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.083
+# text = Пыр жӧ!
+# ft_rus = Живо!
+1	Пыр	_	_	_	_	_	_	_	_
+2	жӧ	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.084
+# text = Быдӧн тіян пиысь аддзыліс, кыдзи бергӧдчӧ векни переулокын либӧ ӧшинь улын сьӧкыд грузовик.
+# ft_rus = Каждый из вас видел, как разворачивается в узком переулке или во дворе тяжелый грузовик.
+1	Быдӧн	_	_	_	_	4	nsubj	_	_
+2	тіян	_	_	_	_	_	_	_	_
+3	пиысь	_	_	_	_	_	_	_	_
+4	аддзыліс	_	_	_	_	_	_	_	v1
+5	,	_	_	_	_	_	_	_	_
+6	кыдзи	_	_	_	_	_	_	_	_
+7	бергӧдчӧ	_	_	_	_	_	_	_	v2
+8	векни	_	_	_	_	_	_	_	_
+9	переулокын	_	_	_	_	_	_	_	_
+10	либӧ	_	_	_	_	_	_	_	_
+11	ӧшинь	_	_	_	_	_	_	_	_
+12	улын	_	_	_	_	_	_	_	_
+13	сьӧкыд	_	_	_	_	_	_	_	_
+14	грузовик	_	_	_	_	7	nsubj	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.085
+# text = Таысь ӧдйӧ некыдз он вӧч.
+# ft_rus = Быстро этого никак не сделаешь.
+1	Таысь	_	_	_	_	_	_	_	_
+2	ӧдйӧ	_	_	_	_	_	_	_	_
+3	некыдз	_	_	_	_	_	_	_	_
+4	он	_	_	_	_	5	aux	_	_
+5	вӧч	_	_	_	_	_	_	_	v1
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.086
+# text = Воськов водзӧ, воськов бӧрӧ…
+# ft_rus = Шаг вперед, шаг назад…
+1	Воськов	_	_	_	_	_	_	_	_
+2	водзӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	воськов	_	_	_	_	_	_	_	_
+5	бӧрӧ	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.087
+# text = Неуна шуйгавылӧ, неуна веськыдвылӧ…
+# ft_rus = Чуть-чуть влево, чуть-чуть вправо…
+1	Неуна	_	_	_	_	_	_	_	_
+2	шуйгавылӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	неуна	_	_	_	_	_	_	_	_
+5	веськыдвылӧ	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.088
+# text = Кык метр водзлань, кык бӧрлань и бара метрджын веськыдвылӧ…
+# ft_rus = Два метра вперед, два назад, и опять полметра вправо…
+1	Кык	_	_	_	_	_	_	_	_
+2	метр	_	_	_	_	_	_	_	_
+3	водзлань	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	кык	_	_	_	_	_	_	_	_
+6	бӧрлань	_	_	_	_	_	_	_	_
+7	и	_	_	_	_	_	_	_	_
+8	бара	_	_	_	_	_	_	_	_
+9	метрджын	_	_	_	_	_	_	_	_
+10	веськыдвылӧ	_	_	_	_	_	_	_	_
+11	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.089
+# text = Минута, мӧд, коимӧд…
+# ft_rus = Минута, другая, третья…
+1	Минута	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	мӧд	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	коимӧд	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.090
+# text = Тадз вӧлі и ӧні.
+# ft_rus = Так было и сейчас.
+1	Тадз	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	и	_	_	_	_	_	_	_	_
+4	ӧні	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.091
+# text = А пуляясыс тайӧ минутаясас зэрӧн киссис, сплошнӧя.
+# ft_rus = А пули в эти минуты сыпались дождем, сплошняком.
+1	А	_	_	_	_	_	_	_	_
+2	пуляясыс	_	_	_	_	6	nsubj	_	_
+3	тайӧ	_	_	_	_	_	_	_	_
+4	минутаясас	_	_	_	_	_	_	_	_
+5	зэрӧн	_	_	_	_	_	_	_	_
+6	киссис	_	_	_	_	_	_	_	v1
+7	,	_	_	_	_	_	_	_	_
+8	сплошнӧя	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.092
+# text = А казакъяс турун пӧвстті кыссисны нин куимӧн-куимӧн, нёльӧн-нёльӧн, ӧткӧн-ӧткӧн.
+# ft_rus = А казаки уже перебегали вдоль узкой улочки по-трое, по-четверо, по одному.
+1	А	_	_	_	_	_	_	_	_
+2	казакъяс	_	_	_	_	5	nsubj	_	_
+3	турун	_	_	_	_	5	obl	_	_
+4	пӧвстті	_	_	_	_	3	case	_	_
+5	кыссисны	_	_	_	_	_	_	_	v1
+6	нин	_	_	_	_	_	_	_	_
+7	куимӧн-куимӧн	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	нёльӧн-нёльӧн	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ӧткӧн-ӧткӧн	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.093
+# text = Найӧ то водавлісны, то чеччывлісны, найӧ асьнысӧ ярмӧдісны горзӧмъясӧн, омлялӧмӧн, да дугдывтӧг лыйлісны.
+# ft_rus = Они то ложились, то вскакивали; они подбадривали себя криками, воем, улюлюканьем и непрерывно стреляли.
+1	Найӧ	_	_	_	_	3	nsubj	_	_
+2	то	_	_	_	_	_	_	_	_
+3	водавлісны	_	_	_	_	_	_	_	v1
+4	,	_	_	_	_	_	_	_	_
+5	то	_	_	_	_	_	_	_	_
+6	чеччывлісны	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	найӧ	_	_	_	_	10	nsubj	_	_
+9	асьнысӧ	_	_	_	_	_	_	_	_
+10	ярмӧдісны	_	_	_	_	_	_	_	v2
+11	горзӧмъясӧн	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	омлялӧмӧн	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	да	_	_	_	_	_	_	_	_
+16	дугдывтӧг	_	_	_	VerbForm=Conv	17	advcl	_	_
+17	лыйлісны	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.094
+# text = И быд здукӧн найӧ матыстчисны век матӧджык.
+# ft_rus = И с каждым мигом они подвигались все ближе.
+1	И	_	_	_	_	_	_	_	_
+2	быд	_	_	_	_	_	_	_	_
+3	здукӧн	_	_	_	_	_	_	_	_
+4	найӧ	_	_	_	_	5	nsubj	_	_
+5	матыстчисны	_	_	_	_	_	_	_	v1
+6	век	_	_	_	_	_	_	_	_
+7	матӧджык	_	_	_	_	5	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.096
+# text = — Эх, сӧмын мед эз гӧгӧрвоны котӧртны мӧдар боксяньыс.
+# ft_rus = — Эх, только бы они не догадались забежать с другой стороны.
+1	—	_	_	_	_	_	_	_	_
+2	Эх	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	сӧмын	_	_	_	_	_	_	_	_
+5	мед	_	_	_	_	_	_	_	_
+6	эз	_	_	_	_	7	aux	_	_
+7	гӧгӧрвоны	_	_	_	_	_	_	_	v1
+8	котӧртны	_	_	_	_	7	xcomp	_	_
+9	мӧдар	_	_	_	_	_	_	_	_
+10	боксяньыс	_	_	_	_	8	obl	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.097
+# text = Сӧмын эськӧ мед эз думыштны орӧдны туйсӧ.
+# ft_rus = Только бы не вздумали отрезать путь.
+1	Сӧмын	_	_	_	_	_	_	_	_
+2	эськӧ	_	_	_	_	_	_	_	_
+3	мед	_	_	_	_	_	_	_	_
+4	эз	_	_	_	_	5	aux	_	_
+5	думыштны	_	_	_	_	_	_	_	v1
+6	орӧдны	_	_	_	_	5	xcomp	_	_
+7	туйсӧ	_	_	_	_	6	obj	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.098
+# text = Кодйыны туй вомӧныс канава либӧ тыртны сійӧс керъясӧн…
+# ft_rus = Перерыть дорогу канавой, завалить ее бревном…
+1	Кодйыны	_	_	_	_	_	_	_	v1
+2	туй	_	_	_	_	_	_	_	_
+3	вомӧныс	_	_	_	_	1	obl	_	_
+4	канава	_	_	_	_	1	obj	_	_
+5	либӧ	_	_	_	_	_	_	_	_
+6	тыртны	_	_	_	_	_	_	_	v2
+7	сійӧс	_	_	_	_	6	obj	_	_
+8	керъясӧн	_	_	_	_	_	_	_	_
+9	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.099
+# text = Сэки ставыс вошӧ!
+# ft_rus = Тогда—все пропало!
+1	Сэки	_	_	_	_	_	_	_	_
+2	ставыс	_	_	_	_	3	nsubj	_	_
+3	вошӧ	_	_	_	_	_	_	_	v1
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.100
+# text = Ещӧ кӧ куим минута…
+# ft_rus = Еще бы три минуты…
+1	Ещӧ	_	_	_	_	_	_	_	_
+2	кӧ	_	_	_	_	_	_	_	_
+3	куим	_	_	_	_	_	_	_	_
+4	минута	_	_	_	_	_	_	_	_
+5	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.101
+# text = Ещӧ кӧ кык…
+# ft_rus = Еще бы две…
+1	Ещӧ	_	_	_	_	_	_	_	_
+2	кӧ	_	_	_	_	_	_	_	_
+3	кык	_	_	_	_	_	_	_	_
+4	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.102
+# text = Ещӧ ӧти…
+# ft_rus = Еще одну…
+1	Ещӧ	_	_	_	_	_	_	_	_
+2	ӧти	_	_	_	_	_	_	_	_
+3	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.103
+# text = Пулемёт шыблаліс нин медбӧръя очередъяс.
+# ft_rus = Между тем пулемет выбраоывал уже последние очереди.
+1	Пулемёт	_	_	_	_	2	nsubj	_	_
+2	шыблаліс	_	_	_	_	_	_	_	v1
+3	нин	_	_	_	_	_	_	_	_
+4	медбӧръя	_	_	_	_	_	_	_	_
+5	очередъяс	_	_	_	_	2	obj	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.104
+# text = Сійӧ мытшасис.
+# ft_rus = Он задыхался.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	мытшасис	_	_	_	_	_	_	_	v1
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.105
+# text = Патронъяс бырӧны нин.
+# ft_rus = Патроны кончались.
+1	Патронъяс	_	_	_	_	2	nsubj	_	_
+2	бырӧны	_	_	_	_	_	_	_	v1
+3	нин	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.106
+# text = Броневикын лои терпитны позьтӧм жар.
+# ft_rus = В броневике стало невы-в﻿﻿носимо жарко.
+1	Броневикын	_	_	_	_	_	_	_	_
+2	лои	_	_	_	_	_	_	_	_
+3	терпитны	_	_	_	_	_	_	_	_
+4	позьтӧм	_	_	_	_	_	_	_	_
+5	жар	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.107
+# text = Ворошилов лыйліс маузерысь векньыдик боевӧй щельяс костӧд, выбор вылӧ, ӧтикӧн: тайӧс забор дінсьыс…
+# ft_rus = Ворошилов сквозь узкие боевые щели бил врагов из маузера, по одному, на выбор: этого, у забора…
+1	Ворошилов	_	_	_	_	2	nsubj	_	_
+2	лыйліс	_	_	_	_	_	_	_	v1
+3	маузерысь	_	_	_	_	_	_	_	_
+4	векньыдик	_	_	_	_	_	_	_	_
+5	боевӧй	_	_	_	_	_	_	_	_
+6	щельяс	_	_	_	_	_	_	_	_
+7	костӧд	_	_	_	_	2	obl	_	_
+8	,	_	_	_	_	_	_	_	_
+9	выбор	_	_	_	_	_	_	_	_
+10	вылӧ	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ӧтикӧн	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	тайӧс	_	_	_	_	_	_	_	_
+15	забор	_	_	_	_	_	_	_	_
+16	дінсьыс	_	_	_	_	_	_	_	_
+17	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.108
+# text = Ӧні — мӧдӧс!
+# ft_rus = Теперь — второго!
+1	Ӧні	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	мӧдӧс	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.109
+# text = Уси!
+# ft_rus = Упал!
+1	Уси	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.110
+# text = — Сӧмын эськӧ патрон мед тырмис, мед сӧмын удитны…
+# ft_rus = — Только бы патронов хватило, только бы успеть…
+1	—	_	_	_	_	_	_	_	_
+2	Сӧмын	_	_	_	_	_	_	_	_
+3	эськӧ	_	_	_	_	_	_	_	_
+4	патрон	_	_	_	_	6	nsubj	_	_
+5	мед	_	_	_	_	_	_	_	_
+6	тырмис	_	_	_	_	_	_	_	v1
+7	,	_	_	_	_	_	_	_	_
+8	мед	_	_	_	_	_	_	_	_
+9	сӧмын	_	_	_	_	_	_	_	_
+10	удитны	_	_	_	_	_	_	_	v2
+11	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.111
+# text = А ну, ну, ерт!
+# ft_rus = А ну, ну, товарищ!
+1	А	_	_	_	_	_	_	_	_
+2	ну	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ну	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ерт	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.112
+# text = Вай жӧ, вай ещӧ неуна!
+# ft_rus = Давай же, давай еще немного!
+1	Вай	_	_	_	_	_	_	_	_
+2	жӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	вай	_	_	_	_	_	_	_	_
+5	ещӧ	_	_	_	_	_	_	_	_
+6	неуна	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.113
+# text = Спокойнойджыка!
+# ft_rus = Спокойнее!
+1	Спокойнойджыка	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.114
+# text = Ещӧ ӧтчыд…
+# ft_rus = Еще раз…
+1	Ещӧ	_	_	_	_	_	_	_	_
+2	ӧтчыд	_	_	_	_	_	_	_	_
+3	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.115
+# text = Ну… Ну!
+# ft_rus = Ну… Ну!
+1	Ну	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	Ну	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.116
+# text = И со, медбӧрын машинаыс бергӧдчис.
+# ft_rus = И вот, наконец, машина развернулась.
+1	И	_	_	_	_	_	_	_	_
+2	со	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	медбӧрын	_	_	_	_	_	_	_	_
+5	машинаыс	_	_	_	_	6	nsubj	_	_
+6	бергӧдчис	_	_	_	_	_	_	_	v1
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.117
+# text = Осторожнӧ, дзик канава весьтас ӧшӧдчӧмӧн, сійӧ муртса крукасьыштіс кос сёя туй бокас шуйга кӧлесанас…
+# ft_rus = Осторожно, совсем повиснув над канавой, она кое-как зацепилась левым колесом за сухой глиняный край дороги…
+1	Осторожнӧ	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	дзик	_	_	_	_	_	_	_	_
+4	канава	_	_	_	_	_	_	_	_
+5	весьтас	_	_	_	_	_	_	_	_
+6	ӧшӧдчӧмӧн	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	сійӧ	_	_	_	_	10	nsubj	_	_
+9	муртса	_	_	_	_	_	_	_	_
+10	крукасьыштіс	_	_	_	_	_	_	_	v1
+11	кос	_	_	_	_	_	_	_	_
+12	сёя	_	_	_	_	_	_	_	_
+13	туй	_	_	_	_	_	_	_	_
+14	бокас	_	_	_	_	10	obl	_	_
+15	шуйга	_	_	_	_	_	_	_	_
+16	кӧлесанас	_	_	_	_	_	_	_	_
+17	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.118
+# text = И мӧдіс!
+# ft_rus = И — пошла!
+1	И	_	_	_	_	_	_	_	_
+2	мӧдіс	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.119
+# text = Да, ёртъяс, мӧдіс, мӧдіс!
+# ft_rus = Да, товарищи, пошла, пошла!
+1	Да	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ёртъяс	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	мӧдіс	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	мӧдіс	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.120
+# text = Боевӧй башняыс броневик выліас, дзик шлёма богатырь юр кодь, скӧра бергӧдчис бӧрлань.
+# ft_rus = Боевая башня наверху бронезика, точно голова богатыря в шлеме, грозно обернулась назад.
+1	Боевӧй	_	_	_	_	_	_	_	_
+2	башняыс	_	_	_	_	13	nsubj	_	_
+3	броневик	_	_	_	_	_	_	_	_
+4	выліас	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	дзик	_	_	_	_	_	_	_	_
+7	шлёма	_	_	_	_	_	_	_	_
+8	богатырь	_	_	_	_	_	_	_	_
+9	юр	_	_	_	_	_	_	_	_
+10	кодь	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	скӧра	_	_	_	_	_	_	_	_
+13	бергӧдчис	_	_	_	_	_	_	_	v1
+14	бӧрлань	_	_	_	_	13	obl	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.121
+# text = — А ну, радейтана другъяс, босьтӧй медбӧръя пуляяс.
+# ft_rus = — А ну, дружки любезные, получайте последние пули.
+1	—	_	_	_	_	_	_	_	_
+2	А	_	_	_	_	_	_	_	_
+3	ну	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	радейтана	_	_	_	_	_	_	_	_
+6	другъяс	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	босьтӧй	_	_	_	_	_	_	_	v1
+9	медбӧръя	_	_	_	_	_	_	_	_
+10	пуляяс	_	_	_	_	8	obj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.122
+# text = Вот тіянлы, вот, вот, вот!!!
+# ft_rus = Вот вам, вот, вот, вот!!!
+1	Вот	_	_	_	_	_	_	_	_
+2	тіянлы	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	вот	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	вот	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	вот	_	_	_	_	_	_	_	_
+9	!!!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.123
+# text = Суматоха дырйиыс белӧйяслы и юрас эз волы броневик тылӧ котӧртны, орӧдны сылы бӧр мунан туйсӧ.
+# ft_rus = В суматохе белым и в голову не пришло забежать броневику в тыл, перерезать ему обратный путь.
+1	Суматоха	_	_	_	_	_	_	_	_
+2	дырйиыс	_	_	_	_	_	_	_	_
+3	белӧйяслы	_	_	_	_	_	_	_	_
+4	и	_	_	_	_	_	_	_	_
+5	юрас	_	_	_	_	_	_	_	_
+6	эз	_	_	_	_	7	aux	_	_
+7	волы	_	_	_	_	_	_	_	v1
+8	броневик	_	_	_	_	_	_	_	_
+9	тылӧ	_	_	_	_	10	obl	_	_
+10	котӧртны	_	_	_	_	7	xcomp	_	_
+11	,	_	_	_	_	_	_	_	_
+12	орӧдны	_	_	_	_	_	_	_	v2
+13	сылы	_	_	_	_	_	_	_	_
+14	бӧр	_	_	_	_	_	_	_	_
+15	мунан	_	_	_	_	_	_	_	_
+16	туйсӧ	_	_	_	_	12	obj	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.124
+# text = Туйыс вӧлі восьса!
+# ft_rus = Дорога была свободна!
+1	Туйыс	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	восьса	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.125
+# text = Рада горӧдіс киргысь сирена.
+# ft_rus = Радостно заревела хриплая сирена.
+1	Рада	_	_	_	_	_	_	_	_
+2	горӧдіс	_	_	_	_	_	_	_	v1
+3	киргысь	_	_	_	_	_	_	_	_
+4	сирена	_	_	_	_	2	nsubj	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.126
+# text = Броневик, кыдз вӧля вылӧ мынӧм домйыв вӧв, ставнас чурмуні, бӧръя кӧлесаяснас ылӧ шыблаліс кос турунъяс, бус, чагъяс и ӧдӧбтіс главнӧй улича вылас, асланыс йӧз дорӧ.
+# ft_rus = Броневик, как вырвавшийся на волю конь, весь вздрогнул, далеко швырнул задними колесами облачко сухой травы, пыли, щепок и ринулся на главную улицу, к своим.
+1	Броневик	_	_	_	_	11	nsubj	_	_
+2	,	_	_	_	_	_	_	_	_
+3	кыдз	_	_	_	_	_	_	_	_
+4	вӧля	_	_	_	_	_	_	_	_
+5	вылӧ	_	_	_	_	_	_	_	_
+6	мынӧм	_	_	_	_	_	_	_	_
+7	домйыв	_	_	_	_	_	_	_	_
+8	вӧв	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ставнас	_	_	_	_	_	_	_	_
+11	чурмуні	_	_	_	_	_	_	_	v1
+12	,	_	_	_	_	_	_	_	_
+13	бӧръя	_	_	_	_	_	_	_	_
+14	кӧлесаяснас	_	_	_	_	16	obl	_	_
+15	ылӧ	_	_	_	_	14	case	_	_
+16	шыблаліс	_	_	_	_	_	_	_	v2
+17	кос	_	_	_	_	_	_	_	_
+18	турунъяс	_	_	_	_	16	obj	_	_
+19	,	_	_	_	_	_	_	_	_
+20	бус	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	чагъяс	_	_	_	_	24	obj	_	_
+23	и	_	_	_	_	_	_	_	_
+24	ӧдӧбтіс	_	_	_	_	_	_	_	v3
+25	главнӧй	_	_	_	_	_	_	_	_
+26	улича	_	_	_	_	24	obl	_	_
+27	вылас	_	_	_	_	26	case	_	_
+28	,	_	_	_	_	_	_	_	_
+29	асланыс	_	_	_	_	_	_	_	_
+30	йӧз	_	_	_	_	_	_	_	_
+31	дорӧ	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.127
+# text = Уджыс вӧлі вӧчӧма.
+# ft_rus = Дело было сделано.
+1	Уджыс	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	вӧчӧма	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.128
+# text = Краснӧй войскаяс ӧні зэв бура тӧдісны, кытчӧ сувтіс налӧн врагыс!
+# ft_rus = Красные войска теперь отлично знали, где засел их враг!
+1	Краснӧй	_	_	_	_	_	_	_	_
+2	войскаяс	_	_	_	_	6	nsubj	_	_
+3	ӧні	_	_	_	_	_	_	_	_
+4	зэв	_	_	_	_	_	_	_	_
+5	бура	_	_	_	_	_	_	_	_
+6	тӧдісны	_	_	_	_	_	_	_	v1
+7	,	_	_	_	_	_	_	_	_
+8	кытчӧ	_	_	_	_	9	advmod	_	_
+9	сувтіс	_	_	_	_	_	_	_	v2
+10	налӧн	_	_	_	_	_	_	_	_
+11	врагыс	_	_	_	_	9	nsubj	_	_
+12	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.129
+# text = А бойын тайӧ медся колана.
+# ft_rus = А это в бою всего важнее.
+1	А	_	_	_	_	_	_	_	_
+2	бойын	_	_	_	_	_	_	_	_
+3	тайӧ	_	_	_	_	_	_	_	_
+4	медся	_	_	_	_	_	_	_	_
+5	колана	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.130
+# text = Кык час мысти дзебсьӧм белӧйясӧс вӧлі вӧтлӧма хуторысь.
+# ft_rus = Два часа спустя притаизшиеся беляки были выбиты из хутора.
+1	Кык	_	_	_	_	_	_	_	_
+2	час	_	_	_	_	_	_	_	_
+3	мысти	_	_	_	_	_	_	_	_
+4	дзебсьӧм	_	_	_	_	_	_	_	_
+5	белӧйясӧс	_	_	_	_	7	obj	_	_
+6	вӧлі	_	_	_	_	_	_	_	_
+7	вӧтлӧма	_	_	_	_	_	_	_	_
+8	хуторысь	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.131
+# text = Татшӧм первой случай сы пиысь, мый йылысь ме кӧсъя тіянлы висьтавны.
+# ft_rus = Таков первый случай из тех, про которые я хочу вам рассказать.﻿
+1	Татшӧм	_	_	_	_	_	_	_	_
+2	первой	_	_	_	_	_	_	_	_
+3	случай	_	_	_	_	_	_	_	_
+4	сы	_	_	_	_	_	_	_	_
+5	пиысь	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	мый	_	_	_	_	_	_	_	_
+8	йылысь	_	_	_	_	_	_	_	_
+9	ме	_	_	_	_	10	nsubj	_	_
+10	кӧсъя	_	_	_	_	_	_	_	v1
+11	тіянлы	_	_	_	_	12	obl	_	_
+12	висьтавны	_	_	_	_	10	xcomp	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.132
+# text = СМЕЛОЙ РАЗВЕДКА
+# ft_rus = СМЕЛАЯ РАЗВЕДКА
+1	СМЕЛОЙ	_	_	_	_	_	_	_	_
+2	РАЗВЕДКА	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.133
+# text = Мӧд случай вӧлі нин Царицын дорын, Волга вылын.
+# ft_rus = Второй случай произошел уже около Царицына, на Волге.
+1	Мӧд	_	_	_	_	_	_	_	_
+2	случай	_	_	_	_	_	_	_	_
+3	вӧлі	_	_	_	_	_	_	_	_
+4	нин	_	_	_	_	_	_	_	_
+5	Царицын	_	_	_	_	_	_	_	_
+6	дорын	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Волга	_	_	_	_	_	_	_	_
+9	вылын	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.134
+# text = Белӧйяс, краснӧӥяс бӧрся локтіг, пӧшти дзик матыстчисны Царицын дорӧ, окружитісны найӧс кольчаӧн куимнан боксяньыс.
+# ft_rus = Белые армии, идя по пятам за красными, подошли к Царицыну почти вплотную, окружили его тесным кольцом с трех сторон.
+1	Белӧйяс	_	_	_	_	9	nsubj	_	_
+2	,	_	_	_	_	_	_	_	_
+3	краснӧӥяс	_	_	_	_	_	_	_	_
+4	бӧрся	_	_	_	_	_	_	_	_
+5	локтіг	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	пӧшти	_	_	_	_	_	_	_	_
+8	дзик	_	_	_	_	_	_	_	_
+9	матыстчисны	_	_	_	_	_	_	_	v1
+10	Царицын	_	_	_	_	9	obl	_	_
+11	дорӧ	_	_	_	_	10	case	_	_
+12	,	_	_	_	_	_	_	_	_
+13	окружитісны	_	_	_	_	_	_	_	v2
+14	найӧс	_	_	_	_	13	obj	_	_
+15	кольчаӧн	_	_	_	_	_	_	_	_
+16	куимнан	_	_	_	_	_	_	_	_
+17	боксяньыс	_	_	_	_	13	obl	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.135
+# text = Белӧйяс батарея пиысь ӧти — нёль пушка да сё салдат гӧгӧр — сувтіс бойсӧ виччысьны степас, пригороднӧй сиктъяс сайӧ.
+# ft_rus = Одна из батарей белых — четыре пушки и около сотни солдат — остановилась в ожидании битвы в степи, за пригородными деревнями.
+1	Белӧйяс	_	_	_	_	_	_	_	_
+2	батарея	_	_	_	_	_	_	_	_
+3	пиысь	_	_	_	_	_	_	_	_
+4	ӧти	_	_	_	_	13	nsubj	_	_
+5	—	_	_	_	_	_	_	_	_
+6	нёль	_	_	_	_	_	_	_	_
+7	пушка	_	_	_	_	_	_	_	_
+8	да	_	_	_	_	_	_	_	_
+9	сё	_	_	_	_	_	_	_	_
+10	салдат	_	_	_	_	_	_	_	_
+11	гӧгӧр	_	_	_	_	_	_	_	_
+12	—	_	_	_	_	_	_	_	_
+13	сувтіс	_	_	_	_	_	_	_	v1
+14	бойсӧ	_	_	_	_	15	obj	_	_
+15	виччысьны	_	_	_	_	13	xcomp	_	_
+16	степас	_	_	_	_	15	obl	_	_
+17	,	_	_	_	_	_	_	_	_
+18	пригороднӧй	_	_	_	_	_	_	_	_
+19	сиктъяс	_	_	_	_	_	_	_	_
+20	сайӧ	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.136
+# text = Водз асывнас белӧйяс штабысь тайӧ батареяӧ скачитіс верзьӧма вӧла.
+# ft_rus = Рано поутру из штаба белых на эту батарею прискакал верховой.
+1	Водз	_	_	_	_	_	_	_	_
+2	асывнас	_	_	_	_	_	_	_	_
+3	белӧйяс	_	_	_	_	_	_	_	_
+4	штабысь	_	_	_	_	_	_	_	_
+5	тайӧ	_	_	_	_	_	_	_	_
+6	батареяӧ	_	_	_	_	7	obl	_	_
+7	скачитіс	_	_	_	_	_	_	_	v1
+8	верзьӧма	_	_	_	_	7	nsubj	_	_
+9	вӧла	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.137
+# text = Сійӧ вайис приказ: лоны дасьӧн наступление кежлӧ.
+# ft_rus = Он привез приказ: быть готовыми к наступлению.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	вайис	_	_	_	_	_	_	_	v1
+3	приказ	_	_	_	_	2	obj	_	_
+4	:	_	_	_	_	_	_	_	_
+5	лоны	_	_	_	_	_	_	_	_
+6	дасьӧн	_	_	_	_	_	_	_	_
+7	наступление	_	_	_	_	_	_	_	_
+8	кежлӧ	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.138
+# text = Батареясӧ видзӧдлыны лӧсьӧдчис локны командуйтысь — скӧр да лёк генерал.
+# ft_rus = Для смотра батареи собирался приехать командующий — грозный и свирепый генерал.
+1	Батареясӧ	_	_	_	_	2	obj	_	_
+2	видзӧдлыны	_	_	_	_	4	xcomp	_	_
+3	лӧсьӧдчис	_	_	_	_	_	_	_	v1
+4	локны	_	_	_	_	3	xcomp	_	_
+5	командуйтысь	_	_	_	_	3	nsubj	_	_
+6	—	_	_	_	_	_	_	_	_
+7	скӧр	_	_	_	_	_	_	_	_
+8	да	_	_	_	_	_	_	_	_
+9	лёк	_	_	_	_	_	_	_	_
+10	генерал	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.139
+# text = Батареяын кыптіс страшнӧй ноксьӧм.
+# ft_rus = На батарее поднялась страшная суматоха.
+1	Батареяын	_	_	_	_	2	obl	_	_
+2	кыптіс	_	_	_	_	_	_	_	v1
+3	страшнӧй	_	_	_	_	_	_	_	_
+4	ноксьӧм	_	_	_	_	2	nsubj	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.140
+# text = Батареяса командир сетіс чорыд приказ ичӧтджык чинъяслы, салдатъяслы, — паськӧмъяс лючки лӧсьӧдны, чиститны лыаӧн кизьяс, тасмаяс вылысь пряжкаяс.
+# ft_rus = Командир батареи отдал строгий приказ: нижним чинам, солдатам, — подтянуться, начистить песочком пуговки, пряжки на ремнях.
+1	Батареяса	_	_	_	_	_	_	_	_
+2	командир	_	_	_	_	3	nsubj	_	_
+3	сетіс	_	_	_	_	_	_	_	v1
+4	чорыд	_	_	_	_	_	_	_	_
+5	приказ	_	_	_	_	3	obj	_	_
+6	ичӧтджык	_	_	_	_	_	_	_	_
+7	чинъяслы	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	салдатъяслы	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	—	_	_	_	_	_	_	_	_
+12	паськӧмъяс	_	_	_	_	14	obj	_	_
+13	лючки	_	_	_	_	_	_	_	_
+14	лӧсьӧдны	_	_	_	_	_	_	_	v2
+15	,	_	_	_	_	_	_	_	_
+16	чиститны	_	_	_	_	_	_	_	v3
+17	лыаӧн	_	_	_	_	_	_	_	_
+18	кизьяс	_	_	_	_	16	obj	_	_
+19	,	_	_	_	_	_	_	_	_
+20	тасмаяс	_	_	_	_	_	_	_	_
+21	вылысь	_	_	_	_	_	_	_	_
+22	пряжкаяс	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.141
+# text = Господа офицеръяслы лоны военнӧй видаӧн, бодрӧйӧн.
+# ft_rus = Господам офицерам — выглядеть по-военному, бодро!
+1	Господа	_	_	_	_	_	_	_	_
+2	офицеръяслы	_	_	_	_	_	_	_	_
+3	лоны	_	_	_	_	_	_	_	_
+4	военнӧй	_	_	_	_	_	_	_	_
+5	видаӧн	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	бодрӧйӧн	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.142
+# text = Мед страшнӧй генерал эз скачит аддзывтӧг, вахмистр Владюковлы вӧлі тшӧктӧма пыр пукавны вӧв вылын матысса мыльк йылас да видзӧдны туй вывсьыс — оз-ӧ лок.
+# ft_rus = Чтобы страшный генерал не наскочил как-нибудь невзначай, незаметно, вахмистру Владюкову было велено все время сидеть верхом на лошади на ближайшей горке и смотреть на дорогу —не едет ли.
+1	Мед	_	_	_	_	_	_	_	_
+2	страшнӧй	_	_	_	_	_	_	_	_
+3	генерал	_	_	_	_	5	nsubj	_	_
+4	эз	_	_	_	_	5	aux	_	_
+5	скачит	_	_	_	_	_	_	_	v1
+6	аддзывтӧг	_	_	_	VerbForm=Conv	5	advcl	_	_
+7	,	_	_	_	_	_	_	_	_
+8	вахмистр	_	_	_	_	_	_	_	_
+9	Владюковлы	_	_	_	_	_	_	_	_
+10	вӧлі	_	_	_	_	11	aux	_	_
+11	тшӧктӧма	_	_	_	_	_	_	_	_
+12	пыр	_	_	_	_	_	_	_	_
+13	пукавны	_	_	_	_	11	xcomp	_	_
+14	вӧв	_	_	_	_	_	_	_	_
+15	вылын	_	_	_	_	_	_	_	_
+16	матысса	_	_	_	_	_	_	_	_
+17	мыльк	_	_	_	_	_	_	_	_
+18	йылас	_	_	_	_	_	_	_	_
+19	да	_	_	_	_	_	_	_	_
+20	видзӧдны	_	_	_	_	_	_	_	_
+21	туй	_	_	_	_	_	_	_	_
+22	вывсьыс	_	_	_	_	_	_	_	_
+23	—	_	_	_	_	_	_	_	_
+24	оз-ӧ	_	_	_	_	_	_	_	_
+25	лок	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.143
+# text = Вахмистр вӧлі ыджыд рыжӧй детина.
+# ft_rus = Вахмистр был огромный рыжий детина.
+1	Вахмистр	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	ыджыд	_	_	_	_	_	_	_	_
+4	рыжӧй	_	_	_	_	_	_	_	_
+5	детина	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.144
+# text = Пӧт, кыз гнедӧй вӧв лайкмунӧма вӧлі сы сьӧкта улын.
+# ft_rus = Сытый, толстый﻿ гнедой конь гнулся под его тяжестью.
+1	Пӧт	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	кыз	_	_	_	_	_	_	_	_
+4	гнедӧй	_	_	_	_	_	_	_	_
+5	вӧв	_	_	_	_	6	nsubj	_	_
+6	лайкмунӧма	_	_	_	_	_	_	_	v1
+7	вӧлі	_	_	_	_	6	aux	_	_
+8	сы	_	_	_	_	_	_	_	_
+9	сьӧкта	_	_	_	_	_	_	_	_
+10	улын	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.145
+# text = Мыльк йылас вӧрзьытӧг сулалысь усъяса всадник ылысяньыс вӧлі дзик кутшӧмкӧ памятник кодь.
+# ft_rus = Неподвижно застывший на вершине холма усатый всадник был похож издали на какой-то памятник.
+1	Мыльк	_	_	_	_	4	obl	_	_
+2	йылас	_	_	_	_	1	case	_	_
+3	вӧрзьытӧг	_	_	_	VerbForm=Conv	4	advcl	_	_
+4	сулалысь	_	_	_	_	_	_	_	_
+5	усъяса	_	_	_	_	_	_	_	_
+6	всадник	_	_	_	_	_	_	_	_
+7	ылысяньыс	_	_	_	_	_	_	_	_
+8	вӧлі	_	_	_	_	_	_	_	_
+9	дзик	_	_	_	_	_	_	_	_
+10	кутшӧмкӧ	_	_	_	_	_	_	_	_
+11	памятник	_	_	_	_	_	_	_	_
+12	кодь	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.146
+# text = Вот, медбӧрти, сійӧ лэптіс кисӧ да, вӧвсӧ швичкӧмӧн, скачитіс водзӧ.
+# ft_rus = Вот, наконец, он поднял руку и, пришпорив своего коня, поскакал вперед.
+1	Вот	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	медбӧрти	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	сійӧ	_	_	_	_	6	nsubj	_	_
+6	лэптіс	_	_	_	_	_	_	_	v1
+7	кисӧ	_	_	_	_	6	obj	_	_
+8	да	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	вӧвсӧ	_	_	_	_	11	obj	_	_
+11	швичкӧмӧн	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	скачитіс	_	_	_	_	_	_	_	v3
+14	водзӧ	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.147
+# text = Сійӧ аддзис: ылісянь степь кузя бус тшын локтіс батареялань военнӧй лӧз машина.
+# ft_rus = Он увидел: издалека по степи в клубах пыли неслась к батарее синяя военная машина.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	аддзис	_	_	_	_	_	_	_	v1
+3	:	_	_	_	_	_	_	_	_
+4	ылісянь	_	_	_	_	_	_	_	_
+5	степь	_	_	_	_	_	_	_	_
+6	кузя	_	_	_	_	_	_	_	_
+7	бус	_	_	_	_	_	_	_	_
+8	тшын	_	_	_	_	_	_	_	_
+9	локтіс	_	_	_	_	_	_	_	v2
+10	батареялань	_	_	_	_	9	obl	_	_
+11	военнӧй	_	_	_	_	_	_	_	_
+12	лӧз	_	_	_	_	_	_	_	_
+13	машина	_	_	_	_	9	nsubj	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.148
+# text = Вот сійӧ здук кежлӧ сувтліс туй вылас, вот веськӧдчис сысянь турун вылӧ, сэсся, друг крута бергӧдчӧмӧн, бара мӧдӧдчис батареялань, но мӧдӧдчис мыйлакӧ задньӧй ходӧн.
+# ft_rus = Вот она остановилась на миг на дороге, вот свернула с нее на траву, потом, вдруг круто развернувшись, пошла опять к батарее, но пошла почему-то задним ходом.
+1	Вот	_	_	_	_	_	_	_	_
+2	сійӧ	_	_	_	_	5	nsubj	_	_
+3	здук	_	_	_	_	_	_	_	_
+4	кежлӧ	_	_	_	_	_	_	_	_
+5	сувтліс	_	_	_	_	_	_	_	v1
+6	туй	_	_	_	_	5	obl	_	_
+7	вылас	_	_	_	_	6	case	_	_
+8	,	_	_	_	_	_	_	_	_
+9	вот	_	_	_	_	_	_	_	_
+10	веськӧдчис	_	_	_	_	_	_	_	v2
+11	сысянь	_	_	_	_	_	_	_	_
+12	турун	_	_	_	_	10	obl	_	_
+13	вылӧ	_	_	_	_	12	case	_	_
+14	,	_	_	_	_	_	_	_	_
+15	сэсся	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	друг	_	_	_	_	_	_	_	_
+18	крута	_	_	_	_	_	_	_	_
+19	бергӧдчӧмӧн	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	бара	_	_	_	_	_	_	_	_
+22	мӧдӧдчис	_	_	_	_	_	_	_	v3
+23	батареялань	_	_	_	_	22	obl	_	_
+24	,	_	_	_	_	_	_	_	_
+25	но	_	_	_	_	_	_	_	_
+26	мӧдӧдчис	_	_	_	_	_	_	_	v4
+27	мыйлакӧ	_	_	_	_	_	_	_	_
+28	задньӧй	_	_	_	_	_	_	_	_
+29	ходӧн	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.149
+# text = Вахмистр Владюков гӧнитіс сылы паныд.
+# ft_rus = Вахмистр Владюков скакал ей навстречу.
+1	Вахмистр	_	_	_	_	_	_	_	_
+2	Владюков	_	_	_	_	3	nsubj	_	_
+3	гӧнитіс	_	_	_	_	_	_	_	v1
+4	сылы	_	_	_	_	_	_	_	_
+5	паныд	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.150
+# text = Сійӧ, дерт, эз вермы кывны, сійӧ кадын мый сёрнитісны найӧ, кодъяс мунісны автомобиляс.
+# ft_rus = Он, конечно, не мог слышать, что в это время говорили те, кто ехал в автомобиле.
+1	Сійӧ	_	_	_	_	6	nsubj	_	_
+2	,	_	_	_	_	_	_	_	_
+3	дерт	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	эз	_	_	_	_	6	aux	_	_
+6	вермы	_	_	_	_	_	_	_	v1
+7	кывны	_	_	_	_	6	xcomp	_	_
+8	,	_	_	_	_	_	_	_	_
+9	сійӧ	_	_	_	_	_	_	_	_
+10	кадын	_	_	_	_	_	_	_	_
+11	мый	_	_	_	_	_	_	_	_
+12	сёрнитісны	_	_	_	_	_	_	_	v2
+13	найӧ	_	_	_	_	12	nsubj	_	_
+14	,	_	_	_	_	_	_	_	_
+15	кодъяс	_	_	_	_	16	nsubj	_	_
+16	мунісны	_	_	_	_	_	_	_	v3
+17	автомобиляс	_	_	_	_	16	obl	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.151
+# text = — Валит вай задньӧй ходӧн, Цыбаненко! — шуис ӧти на пиысь.
+# ft_rus = — Вали-ка задним ходом, Цыбаненко!— сказал один из 10 4﻿них.
+1	—	_	_	_	_	_	_	_	_
+2	Валит	_	_	_	_	_	_	_	_
+3	вай	_	_	_	_	_	_	_	_
+4	задньӧй	_	_	_	_	_	_	_	_
+5	ходӧн	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Цыбаненко	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	шуис	_	_	_	_	_	_	_	v1
+11	ӧти	_	_	_	_	10	nsubj	_	_
+12	на	_	_	_	_	_	_	_	_
+13	пиысь	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.152
+# text = — Тадз осторожнӧйджык лоӧ.
+# ft_rus = —Так осторожнее будет.
+1	—	_	_	_	_	_	_	_	_
+2	Тадз	_	_	_	_	_	_	_	_
+3	осторожнӧйджык	_	_	_	_	_	_	_	_
+4	лоӧ	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.153
+# text = Воӧдчим нин ми ёна ылӧдз.
+# ft_rus = Забрались-то мы уж больно далеко.
+1	Воӧдчим	_	_	_	_	_	_	_	v1
+2	нин	_	_	_	_	_	_	_	_
+3	ми	_	_	_	_	1	nsubj	_	_
+4	ёна	_	_	_	_	_	_	_	_
+5	ылӧдз	_	_	_	_	1	obl	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.154
+# text = Код тӧдас, кодлӧн тайӧ батареяыс: миян или белӧйяслӧн.
+# ft_rus = Кто знает, чья это батарея: наша или белая.
+1	Код	_	_	_	_	2	nsubj	_	_
+2	тӧдас	_	_	_	_	_	_	_	v1
+3	,	_	_	_	_	_	_	_	_
+4	кодлӧн	_	_	_	_	_	_	_	_
+5	тайӧ	_	_	_	_	_	_	_	_
+6	батареяыс	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	миян	_	_	_	_	_	_	_	_
+9	или	_	_	_	_	_	_	_	_
+10	белӧйяслӧн	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.155
+# text = Владюков здук кежлӧ сувтліс, ки увтіыс видзӧдліс мунысьяс вылӧ, сэсся гаркнитіс:
+# ft_rus = Владюков задержался на секунду, вгляделся из-под руки в едущих, потом гаркнул:
+1	Владюков	_	_	_	_	4	nsubj	_	_
+2	здук	_	_	_	_	_	_	_	_
+3	кежлӧ	_	_	_	_	_	_	_	_
+4	сувтліс	_	_	_	_	_	_	_	v1
+5	,	_	_	_	_	_	_	_	_
+6	ки	_	_	_	_	_	_	_	_
+7	увтіыс	_	_	_	_	_	_	_	_
+8	видзӧдліс	_	_	_	_	_	_	_	v2
+9	мунысьяс	_	_	_	_	8	obl	_	_
+10	вылӧ	_	_	_	_	9	case	_	_
+11	,	_	_	_	_	_	_	_	_
+12	сэсся	_	_	_	_	_	_	_	_
+13	гаркнитіс	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.156
+# text = — Гей, батарея вылын! — и тӧвныр моз веськыда мӧдӧдчис машиналань.
+# ft_rus = — Гей, на батарее! — и вихрем помчался наперерез машине.
+1	—	_	_	_	_	_	_	_	_
+2	Гей	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	батарея	_	_	_	_	_	_	_	_
+5	вылын	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	—	_	_	_	_	_	_	_	_
+8	и	_	_	_	_	_	_	_	_
+9	тӧвныр	_	_	_	_	_	_	_	_
+10	моз	_	_	_	_	_	_	_	_
+11	веськыда	_	_	_	_	_	_	_	_
+12	мӧдӧдчис	_	_	_	_	_	_	_	v1
+13	машиналань	_	_	_	_	12	obl	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.157
+# text = „Квайтӧн, буракӧ, локтӧны.
+# ft_rus = „Как будто шестеро едут.
+1	„	_	_	_	_	_	_	_	_
+2	Квайтӧн	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	буракӧ	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	локтӧны	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.158
+# text = Военнӧйяс, — думыштіс сійӧ.
+# ft_rus = Военные, — подумал он.
+1	Военнӧйяс	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	—	_	_	_	_	_	_	_	_
+4	думыштіс	_	_	_	_	_	_	_	v1
+5	сійӧ	_	_	_	_	4	nsubj	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.159
+# text = — Сійӧ — генерал! Его превосходительство!"
+# ft_rus = — Значит — генерал! Его превосходительство!”
+1	—	_	_	_	_	_	_	_	_
+2	Сійӧ	_	_	_	_	_	_	_	_
+3	—	_	_	_	_	_	_	_	_
+4	генерал	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	Его	_	_	_	_	_	_	_	_
+7	превосходительство	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	""""	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.160
+# text = Скачитіс дзик матӧ, сійӧ мичаа сувтӧдіс вӧвсӧ, бура кияссӧ пуктіс фуражка кӧзырӧк дінас, восьтіс вомсӧ, медым гораа приветствуйтны генералӧс, и тӧкӧтьӧ седлӧ вывсьыс эз усь:
+# ft_rus = Подскакав совсем близко, он красиво осадил на всем скаку коня, молодцевато взбросил руку к козырьку фуражки, открыл было рот, чтобы зычно приветствовать генерала, и чуть не упал с седла:
+1	Скачитіс	_	_	_	_	_	_	_	v1
+2	дзик	_	_	_	_	_	_	_	_
+3	матӧ	_	_	_	_	1	obl	_	_
+4	,	_	_	_	_	_	_	_	_
+5	сійӧ	_	_	_	_	7	nsubj	_	_
+6	мичаа	_	_	_	_	_	_	_	_
+7	сувтӧдіс	_	_	_	_	_	_	_	v2
+8	вӧвсӧ	_	_	_	_	7	obj	_	_
+9	,	_	_	_	_	_	_	_	_
+10	бура	_	_	_	_	_	_	_	_
+11	кияссӧ	_	_	_	_	12	obj	_	_
+12	пуктіс	_	_	_	_	_	_	_	v3
+13	фуражка	_	_	_	_	_	_	_	_
+14	кӧзырӧк	_	_	_	_	12	obl	_	_
+15	дінас	_	_	_	_	14	case	_	_
+16	,	_	_	_	_	_	_	_	_
+17	восьтіс	_	_	_	_	_	_	_	v4
+18	вомсӧ	_	_	_	_	17	obj	_	_
+19	,	_	_	_	_	_	_	_	_
+20	медым	_	_	_	_	_	_	_	_
+21	гораа	_	_	_	_	_	_	_	_
+22	приветствуйтны	_	_	_	_	_	_	_	v5
+23	генералӧс	_	_	_	_	22	obj	_	_
+24	,	_	_	_	_	_	_	_	_
+25	и	_	_	_	_	_	_	_	_
+26	тӧкӧтьӧ	_	_	_	_	_	_	_	_
+27	седлӧ	_	_	_	_	30	obl	_	_
+28	вывсьыс	_	_	_	_	27	case	_	_
+29	эз	_	_	_	_	30	aux	_	_
+30	усь	_	_	_	_	_	_	_	v6
+31	:	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.161
+# text = Мый татшӧмыс?
+# ft_rus = „Что такое?
+1	Мый	_	_	_	_	_	_	_	_
+2	татшӧмыс	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.162
+# text = Мый?
+# ft_rus = Что?
+1	Мый	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.163
+# text = Мый?
+# ft_rus = Что?“
+1	Мый	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.164
+# text = Автомобильын пукалысь йӧзлӧн фуражкаяс вылас вӧліны гӧрд звездаяс.
+# ft_rus = У людей в автомобиле на фуражках были красные звезды.
+1	Автомобильын	_	_	_	_	_	_	_	_
+2	пукалысь	_	_	_	_	_	_	_	_
+3	йӧзлӧн	_	_	_	_	_	_	_	_
+4	фуражкаяс	_	_	_	_	_	_	_	_
+5	вылас	_	_	_	_	_	_	_	_
+6	вӧліны	_	_	_	_	_	_	_	_
+7	гӧрд	_	_	_	_	_	_	_	_
+8	звездаяс	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.165
+# text = Краснӧйяс!
+# ft_rus = Красные!
+1	Краснӧйяс	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.166
+# text = Вахмистр кыскӧ вӧлі кабурсьыс нагансӧ…
+# ft_rus = Вахмистр рванул было наган из кобуры…
+1	Вахмистр	_	_	_	_	2	nsubj	_	_
+2	кыскӧ	_	_	_	_	_	_	_	v1
+3	вӧлі	_	_	_	_	2	aux	_	_
+4	кабурсьыс	_	_	_	_	_	_	_	_
+5	нагансӧ	_	_	_	_	2	obj	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.167
+# text = Но сёр нин вӧлі: сійӧ, коді машинаас пукаліс ставсьыс водзын, шоферкӧд орччӧн, пыр жӧ чургӧдіс увлань ӧшӧдчӧм винтовкасӧ.
+# ft_rus = Но было уже поздно: тот, кто сидел в машине впереди всех, рядом с шофером, мигом вскинул опущенную вниз винтовку.
+1	Но	_	_	_	_	_	_	_	_
+2	сёр	_	_	_	_	_	_	_	_
+3	нин	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	сійӧ	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	коді	_	_	_	_	10	nsubj	_	_
+9	машинаас	_	_	_	_	10	obl	_	_
+10	пукаліс	_	_	_	_	_	_	_	v1
+11	ставсьыс	_	_	_	_	_	_	_	_
+12	водзын	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	шоферкӧд	_	_	_	_	_	_	_	_
+15	орччӧн	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	пыр	_	_	_	_	_	_	_	_
+18	жӧ	_	_	_	_	_	_	_	_
+19	чургӧдіс	_	_	_	_	_	_	_	v2
+20	увлань	_	_	_	_	19	obl	_	_
+21	ӧшӧдчӧм	_	_	_	_	_	_	_	_
+22	винтовкасӧ	_	_	_	_	19	obj	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.168
+# text = Степь кузя юркнитіс лыйӧм шы…
+# ft_rus = Над степью гулко раскатился выстрел.
+1	Степь	_	_	_	_	3	obl	_	_
+2	кузя	_	_	_	_	1	case	_	_
+3	юркнитіс	_	_	_	_	_	_	_	_
+4	лыйӧм	_	_	_	_	_	_	_	v1
+5	шы	_	_	_	_	3	nsubj	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.169
+# text = Вахмистрлы быттьӧ керйӧн юрас кучкис.
+# ft_rus = Вахмистра точно бревном ударило по голове.
+1	Вахмистрлы	_	_	_	_	_	_	_	_
+2	быттьӧ	_	_	_	_	_	_	_	_
+3	керйӧн	_	_	_	_	_	_	_	_
+4	юрас	_	_	_	_	5	obl	_	_
+5	кучкис	_	_	_	_	_	_	_	v1
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.170
+# text = Домповодсӧ лэдзӧмӧн, вахмистр сьӧкыда бухмуні му вылӧ.
+# ft_rus = Выпустив поводья, вахмистр тяжело рухнул на землю.
+1	Домповодсӧ	_	_	_	_	2	obj	_	_
+2	лэдзӧмӧн	_	_	_	_	_	_	_	v2
+3	,	_	_	_	_	_	_	_	_
+4	вахмистр	_	_	_	_	6	nsubj	_	_
+5	сьӧкыда	_	_	_	_	_	_	_	_
+6	бухмуні	_	_	_	_	_	_	_	v3
+7	му	_	_	_	_	6	obl	_	_
+8	вылӧ	_	_	_	_	7	case	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.171
+# text = Повзьӧм вӧв мӧдӧдчис кык кокйыв да сэсся зэв ӧдйӧ седоктӧг скачитіс степь кузя.
+# ft_rus = Испуганный конь взвился на дыбы и потом уже без седока вихрем понесся по степи…
+1	Повзьӧм	_	_	_	_	_	_	_	_
+2	вӧв	_	_	_	_	3	nsubj	_	_
+3	мӧдӧдчис	_	_	_	_	_	_	_	_
+4	кык	_	_	_	_	_	_	_	_
+5	кокйыв	_	_	_	_	3	obj	_	_
+6	да	_	_	_	_	_	_	_	_
+7	сэсся	_	_	_	_	_	_	_	_
+8	зэв	_	_	_	_	_	_	_	_
+9	ӧдйӧ	_	_	_	_	_	_	_	_
+10	седоктӧг	_	_	_	_	_	_	_	_
+11	скачитіс	_	_	_	_	_	_	_	_
+12	степь	_	_	_	_	11	obl	_	_
+13	кузя	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.172
+# text = Батареяын пыр жӧ ставныс гӧгӧрвоисны, мый лоис.
+# ft_rus = На батарее сразу поняли всё, что случилось.
+1	Батареяын	_	_	_	_	_	_	_	_
+2	пыр	_	_	_	_	_	_	_	_
+3	жӧ	_	_	_	_	_	_	_	_
+4	ставныс	_	_	_	_	5	nsubj	_	_
+5	гӧгӧрвоисны	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	мый	_	_	_	_	_	_	_	_
+8	лоис	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.173
+# text = Места вывсьыс вӧв вылын вӧрзьӧдчисны морт вит, пыр жӧ зэв ӧдйӧ скачитісны машиналань.
+# ft_rus = Человек пять верховых, Сорвавшись с места, во всю прыть поскакали сейчас же к машине.
+1	Места	_	_	_	_	5	obl	_	_
+2	вывсьыс	_	_	_	_	1	case	_	_
+3	вӧв	_	_	_	_	_	_	_	_
+4	вылын	_	_	_	_	_	_	_	_
+5	вӧрзьӧдчисны	_	_	_	_	_	_	_	_
+6	морт	_	_	_	_	5	nsubj	_	_
+7	вит	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	пыр	_	_	_	_	_	_	_	_
+10	жӧ	_	_	_	_	_	_	_	_
+11	зэв	_	_	_	_	_	_	_	_
+12	ӧдйӧ	_	_	_	_	_	_	_	_
+13	скачитісны	_	_	_	_	_	_	_	_
+14	машиналань	_	_	_	_	13	obl	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.174
+# text = Кыптіс полошуйтчӧм.
+# ft_rus = Поднялся отчаянный переполох.
+1	Кыптіс	_	_	_	_	_	_	_	_
+2	полошуйтчӧм	_	_	_	_	1	nsubj	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.175
+# text = — Пулемёт! — равзісны да котралісны белӧйяс.
+# ft_rus = — Пулемет! — орали и бегали белые.
+1	—	_	_	_	_	_	_	_	_
+2	Пулемёт	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	—	_	_	_	_	_	_	_	_
+5	равзісны	_	_	_	_	_	_	_	_
+6	да	_	_	_	_	_	_	_	_
+7	котралісны	_	_	_	_	_	_	_	_
+8	белӧйяс	_	_	_	_	5	nsubj	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.176
+# text = — Ӧдйӧджык!
+# ft_rus = — Живее!
+1	—	_	_	_	_	_	_	_	_
+2	Ӧдйӧджык	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.177
+# text = Татчӧ!
+# ft_rus = Сюда!
+1	Татчӧ	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.178
+# text = Восьтыны би машина кузя!
+# ft_rus = Огонь по машине!
+1	Восьтыны	_	_	_	_	_	_	_	_
+2	би	_	_	_	_	1	nsubj	_	_
+3	машина	_	_	_	_	_	_	_	_
+4	кузя	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.179
+# text = Эх, мунасны!
+# ft_rus = Эх, уйдут!
+1	Эх	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	мунасны	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.180
+# text = Ӧдйӧджык!
+# ft_rus = Скорей!
+1	Ӧдйӧджык	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.181
+# text = Лӧз автомобиль эз на вӧв ылын, но лыйлыны сыӧ пыр жӧ эз кут позьны.
+# ft_rus = Синий автомобиль был еще недалеко, но стрелять по нем сразу же стало невозможно.
+1	Лӧз	_	_	_	_	_	_	_	_
+2	автомобиль	_	_	_	_	_	_	_	_
+3	эз	_	_	_	_	_	_	_	_
+4	на	_	_	_	_	_	_	_	_
+5	вӧв	_	_	_	_	_	_	_	_
+6	ылын	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	но	_	_	_	_	_	_	_	_
+9	лыйлыны	_	_	_	_	15	xcomp	_	_
+10	сыӧ	_	_	_	_	9	obj	_	_
+11	пыр	_	_	_	_	_	_	_	_
+12	жӧ	_	_	_	_	_	_	_	_
+13	эз	_	_	_	_	14	aux	_	_
+14	кут	_	_	_	_	_	_	_	_
+15	позьны	_	_	_	_	14	xcomp	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.182
+# text = Найӧ да батарея костын гӧнитісны нин асланыс йӧз, белӧйяс.
+# ft_rus = Между ним и батареей уже скакали вдогонку свои, белые.
+1	Найӧ	_	_	_	_	_	_	_	_
+2	да	_	_	_	_	_	_	_	_
+3	батарея	_	_	_	_	5	obl	_	_
+4	костын	_	_	_	_	3	case	_	_
+5	гӧнитісны	_	_	_	_	_	_	_	_
+6	нин	_	_	_	_	_	_	_	_
+7	асланыс	_	_	_	_	_	_	_	_
+8	йӧз	_	_	_	_	5	nsubj	_	_
+9	,	_	_	_	_	_	_	_	_
+10	белӧйяс	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.183
+# text = Заводитан лыйлыны — ассьыным виан.
+# ft_rus = Начнешь стрелять — своих перебьешь.
+1	Заводитан	_	_	_	_	_	_	_	_
+2	лыйлыны	_	_	_	_	1	xcomp	_	_
+3	—	_	_	_	_	_	_	_	_
+4	ассьыным	_	_	_	_	5	obj	_	_
+5	виан	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.184
+# text = Мый тан вӧчны?
+# ft_rus = Что тут делать?
+1	Мый	_	_	_	_	_	_	_	_
+2	тан	_	_	_	_	_	_	_	_
+3	вӧчны	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.185
+# text = Верзьӧма вӧлаяс, пельпом вывсьыс винтовкаяссӧ босьтігтыр, мый вӧлі выныс мунісны машина бӧрся.
+# ft_rus = Верховые, срывая с плеч винтовки, что было духу неслись за машиной.
+1	Верзьӧма	_	_	_	_	_	_	_	_
+2	вӧлаяс	_	_	_	_	1	nsubj	_	_
+3	,	_	_	_	_	_	_	_	_
+4	пельпом	_	_	_	_	_	_	_	_
+5	вывсьыс	_	_	_	_	_	_	_	_
+6	винтовкаяссӧ	_	_	_	_	7	obj	_	_
+7	босьтігтыр	_	_	_	_	12	advcl	_	_
+8	,	_	_	_	_	_	_	_	_
+9	мый	_	_	_	_	_	_	_	_
+10	вӧлі	_	_	_	_	_	_	_	_
+11	выныс	_	_	_	_	_	_	_	_
+12	мунісны	_	_	_	_	_	_	_	_
+13	машина	_	_	_	_	12	obl	_	_
+14	бӧрся	_	_	_	_	13	case	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.186
+# text = Но регыд найӧ пондісны вӧвъяссӧ кутны, сувтӧдны — и абу шензьӧдана: зэв ӧдйӧ мунысь автомобильсянь лыйлісны промахтӧг.
+# ft_rus = Но вскоре они стали сдерживать коней, отставать —и не удивительно: из стремительно несущегося﻿﻿автомобиля били без промаха.
+1	Но	_	_	_	_	_	_	_	_
+2	регыд	_	_	_	_	_	_	_	_
+3	найӧ	_	_	_	_	4	nsubj	_	_
+4	пондісны	_	_	_	_	_	_	_	_
+5	вӧвъяссӧ	_	_	_	_	6	obj	_	_
+6	кутны	_	_	_	_	4	xcomp	_	_
+7	,	_	_	_	_	_	_	_	_
+8	сувтӧдны	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	и	_	_	_	_	_	_	_	_
+11	абу	_	_	_	_	_	_	_	_
+12	шензьӧдана	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	зэв	_	_	_	_	_	_	_	_
+15	ӧдйӧ	_	_	_	_	_	_	_	_
+16	мунысь	_	_	_	_	_	_	_	_
+17	автомобильсянь	_	_	_	_	18	obl	_	_
+18	лыйлісны	_	_	_	_	_	_	_	_
+19	промахтӧг	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.187
+# text = Ӧти морт увлань юрӧн уси вӧв вывсьыс.
+# ft_rus = Один всадник кубарем слетел с коня.
+1	Ӧти	_	_	_	_	_	_	_	_
+2	морт	_	_	_	_	5	nsubj	_	_
+3	увлань	_	_	_	_	5	obl	_	_
+4	юрӧн	_	_	_	_	_	_	_	_
+5	уси	_	_	_	_	_	_	_	_
+6	вӧв	_	_	_	_	_	_	_	_
+7	вывсьыс	_	_	_	_	5	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.188
+# text = Мӧдӧс ранитчӧм вӧв таляліс ас улас.
+# ft_rus = Другого подмяла под себя раненая лошадь.
+1	Мӧдӧс	_	_	_	_	4	obj	_	_
+2	ранитчӧм	_	_	_	_	_	_	_	_
+3	вӧв	_	_	_	_	4	nsubj	_	_
+4	таляліс	_	_	_	_	_	_	_	_
+5	ас	_	_	_	_	4	obl	_	_
+6	улас	_	_	_	_	5	case	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.189
+# text = Куимыс тамашитісны вӧвъяссӧ: а но, мед мунӧны!
+# ft_rus = Трое остальных попридержали коней: а ну их, пусть едут!
+1	Куимыс	_	_	_	_	2	nsubj	_	_
+2	тамашитісны	_	_	_	_	_	_	_	_
+3	вӧвъяссӧ	_	_	_	_	2	obj	_	_
+4	:	_	_	_	_	_	_	_	_
+5	а	_	_	_	_	_	_	_	_
+6	но	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	мед	_	_	_	_	_	_	_	_
+9	мунӧны	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.190
+# text = И лӧз машина вывса буса кымӧрыс саялі ылӧ…
+# ft_rus = И пыльное облако над синей машиной, быстро покатилось вдаль…
+1	И	_	_	_	_	_	_	_	_
+2	лӧз	_	_	_	_	_	_	_	_
+3	машина	_	_	_	_	_	_	_	_
+4	вывса	_	_	_	_	_	_	_	_
+5	буса	_	_	_	_	_	_	_	_
+6	кымӧрыс	_	_	_	_	7	nsubj	_	_
+7	саялі	_	_	_	_	_	_	_	_
+8	ылӧ	_	_	_	_	7	obl	_	_
+9	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.191
+# text = Стычкасянь неылӧ муныштӧм бӧрын, кык мыльк костӧ, юкмӧс дорӧ, машина сувтіс.
+# ft_rus = Отъехав немного от места стычки, в лощинке между двух холмов, у колодца, машина с-рала.
+1	Стычкасянь	_	_	_	_	_	_	_	_
+2	неылӧ	_	_	_	_	_	_	_	_
+3	муныштӧм	_	_	_	_	_	_	_	_
+4	бӧрын	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кык	_	_	_	_	_	_	_	_
+7	мыльк	_	_	_	_	14	obl	_	_
+8	костӧ	_	_	_	_	7	case	_	_
+9	,	_	_	_	_	_	_	_	_
+10	юкмӧс	_	_	_	_	_	_	_	_
+11	дорӧ	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	машина	_	_	_	_	14	nsubj	_	_
+14	сувтіс	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.192
+# text = Шофер кватитіс брезентӧвӧй ведра да котӧртіс вала: моторыс вермис вывті шонавны.
+# ft_rus = Шофер, схватив брезентовое ведерко, побежал за водой: мотор мог перегреться.
+1	Шофер	_	_	_	_	2	nsubj	_	_
+2	кватитіс	_	_	_	_	_	_	_	_
+3	брезентӧвӧй	_	_	_	_	_	_	_	_
+4	ведра	_	_	_	_	2	obj	_	_
+5	да	_	_	_	_	_	_	_	_
+6	котӧртіс	_	_	_	_	_	_	_	_
+7	вала	_	_	_	_	_	_	_	_
+8	:	_	_	_	_	_	_	_	_
+9	моторыс	_	_	_	_	10	nsubj	_	_
+10	вермис	_	_	_	_	_	_	_	_
+11	вывті	_	_	_	_	_	_	_	_
+12	шонавны	_	_	_	_	10	xcomp	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.193
+# text = Асъя степь вылын кыліс приятнӧй дук: курыд, свежӧй — тшынӧн, турунӧн.
+# ft_rus = Над утренней степью пахло так славно: горько, свежо — дымком, травой, полынью.
+1	Асъя	_	_	_	_	_	_	_	_
+2	степь	_	_	_	_	4	obl	_	_
+3	вылын	_	_	_	_	2	case	_	_
+4	кыліс	_	_	_	_	_	_	_	_
+5	приятнӧй	_	_	_	_	_	_	_	_
+6	дук	_	_	_	_	4	nsubj	_	_
+7	:	_	_	_	_	_	_	_	_
+8	курыд	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	свежӧй	_	_	_	_	_	_	_	_
+11	—	_	_	_	_	_	_	_	_
+12	тшынӧн	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	турунӧн	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.194
+# text = Шондіыс вылӧ нин вӧлі кыпӧдчӧма.
+# ft_rus = Солнце стояло уже высоко.
+1	Шондіыс	_	_	_	_	5	nsubj	_	_
+2	вылӧ	_	_	_	_	5	obl	_	_
+3	нин	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	5	aux	_	_
+5	кыпӧдчӧма	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.195
+# text = Небесаыс лои чистӧй да лӧз.
+# ft_rus = Небо стало чистым и синим.
+1	Небесаыс	_	_	_	_	_	_	_	_
+2	лои	_	_	_	_	_	_	_	_
+3	чистӧй	_	_	_	_	_	_	_	_
+4	да	_	_	_	_	_	_	_	_
+5	лӧз	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.196
+# text = Сӧмын ылын веськыдвылын, му да небеса ӧтлаасянінас (горизонтас), шлывгис кык ыджыд сьӧдгӧрд кымӧр.
+# ft_rus = Только далеко вправо, на самом горизонте, расплывались два огромных коричневых облака.
+1	Сӧмын	_	_	_	_	_	_	_	_
+2	ылын	_	_	_	_	_	_	_	_
+3	веськыдвылын	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	му	_	_	_	_	_	_	_	_
+6	да	_	_	_	_	_	_	_	_
+7	небеса	_	_	_	_	_	_	_	_
+8	ӧтлаасянінас	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	горизонтас	_	_	_	_	_	_	_	_
+11	),	_	_	_	_	_	_	_	_
+12	шлывгис	_	_	_	_	_	_	_	_
+13	кык	_	_	_	_	_	_	_	_
+14	ыджыд	_	_	_	_	_	_	_	_
+15	сьӧдгӧрд	_	_	_	_	_	_	_	_
+16	кымӧр	_	_	_	_	12	nsubj	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.197
+# text = Тайӧ сотчисны кутшӧмкӧ матыса станцияяс, кодъяс ӧзйӧмаӧсь белӧйяс снарядъясысь.
+# ft_rus = Это горели какие-то ближние станции, подожженные снарядами белых.
+1	Тайӧ	_	_	_	_	_	_	_	_
+2	сотчисны	_	_	_	_	_	_	_	_
+3	кутшӧмкӧ	_	_	_	_	_	_	_	_
+4	матыса	_	_	_	_	_	_	_	_
+5	станцияяс	_	_	_	_	2	nsubj	_	_
+6	,	_	_	_	_	_	_	_	_
+7	кодъяс	_	_	_	_	8	nsubj	_	_
+8	ӧзйӧмаӧсь	_	_	_	_	_	_	_	_
+9	белӧйяс	_	_	_	_	_	_	_	_
+10	снарядъясысь	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.198
+# text = Взволнованнӧй пассажиръяс сералігтыр чеччыштісны му вылӧ — кокъяснысӧ веськӧдыштны.
+# ft_rus = Взволнованные пассажиры, смеясь, соскочили на землю — размять ноги.
+1	Взволнованнӧй	_	_	_	_	_	_	_	_
+2	пассажиръяс	_	_	_	_	4	nsubj	_	_
+3	сералігтыр	_	_	_	_	4	advcl	_	_
+4	чеччыштісны	_	_	_	_	_	_	_	_
+5	му	_	_	_	_	4	obl	_	_
+6	вылӧ	_	_	_	_	5	case	_	_
+7	—	_	_	_	_	_	_	_	_
+8	кокъяснысӧ	_	_	_	_	9	obj	_	_
+9	веськӧдыштны	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.199
+# text = — Ну, ребята, кутшӧмджык? — шуис старшӧйыс.
+# ft_rus = — Ну, ребята, каково? — сказал старший.
+1	—	_	_	_	_	_	_	_	_
+2	Ну	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ребята	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кутшӧмджык	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+8	—	_	_	_	_	_	_	_	_
+9	шуис	_	_	_	_	_	_	_	_
+10	старшӧйыс	_	_	_	_	9	nsubj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.200
+# text = — Чеччылінныд-ӧ, а?
+# ft_rus = — Выскочили, а?
+1	—	_	_	_	_	_	_	_	_
+2	Чеччылінныд-ӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	а	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.201
+# text = — Чеччыштім, Климент Ефремович, — радаа да ӧтвылысь вочавидзисны спутникъяс.
+# ft_rus = — Выскочили, Климент Ефремович, — радостно и наперебой ответили спутники.
+1	—	_	_	_	_	_	_	_	_
+2	Чеччыштім	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Климент	_	_	_	_	_	_	_	_
+5	Ефремович	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	—	_	_	_	_	_	_	_	_
+8	радаа	_	_	_	_	_	_	_	_
+9	да	_	_	_	_	_	_	_	_
+10	ӧтвылысь	_	_	_	_	_	_	_	_
+11	вочавидзисны	_	_	_	_	_	_	_	_
+12	спутникъяс	_	_	_	_	11	nsubj	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.202
+# text = — Но век жӧ, командарм ёрт…
+# ft_rus = — Но все-таки, товарищ командарм…
+1	—	_	_	_	_	_	_	_	_
+2	Но	_	_	_	_	_	_	_	_
+3	век	_	_	_	_	_	_	_	_
+4	жӧ	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	командарм	_	_	_	_	_	_	_	_
+7	ёрт	_	_	_	_	_	_	_	_
+8	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.203
+# text = Тадзи ӧмӧй позьӧ?
+# ft_rus = Разве можно так?
+1	Тадзи	_	_	_	_	_	_	_	_
+2	ӧмӧй	_	_	_	_	_	_	_	_
+3	позьӧ	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.204
+# text = Рискуйтанныд ті ёна: а но — виисны кӧ?
+# ft_rus = Рискуете вы очень: а ну — убили бы?
+1	Рискуйтанныд	_	_	_	_	_	_	_	_
+2	ті	_	_	_	_	1	nsubj	_	_
+3	ёна	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+5	а	_	_	_	_	_	_	_	_
+6	но	_	_	_	_	_	_	_	_
+7	—	_	_	_	_	_	_	_	_
+8	виисны	_	_	_	_	_	_	_	_
+9	кӧ	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.205
+# text = Ворошилов нетшыштіс турунтор, чабраліс сійӧс киас, исыштіс, нюммуні.
+# ft_rus = Ворошилов сорвал пучок травы, растер его в руках, понюхал, улыбнулся.
+1	Ворошилов	_	_	_	_	2	nsubj	_	_
+2	нетшыштіс	_	_	_	_	_	_	_	_
+3	турунтор	_	_	_	_	2	obj	_	_
+4	,	_	_	_	_	_	_	_	_
+5	чабраліс	_	_	_	_	_	_	_	_
+6	сійӧс	_	_	_	_	5	obj	_	_
+7	киас	_	_	_	_	5	obl	_	_
+8	,	_	_	_	_	_	_	_	_
+9	исыштіс	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	нюммуні	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.206
+# text = — Чудакъяс ті, ёртъяс! — шуис сійӧ степас ыліӧ видзӧдігтыр.
+# ft_rus = — Чудаки вы, товарищи! — сказал он, вглядываясь в ясную степную даль.
+1	—	_	_	_	_	_	_	_	_
+2	Чудакъяс	_	_	_	_	_	_	_	_
+3	ті	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ёртъяс	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	—	_	_	_	_	_	_	_	_
+8	шуис	_	_	_	_	_	_	_	_
+9	сійӧ	_	_	_	_	8	nsubj	_	_
+10	степас	_	_	_	_	8	obl	_	_
+11	ыліӧ	_	_	_	_	_	_	_	_
+12	видзӧдігтыр	_	_	_	_	8	advcl	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.207
+# text = — Кыдз нӧ обстановка тӧдмалан рисктӧгыд?
+# ft_rus = — Как же узнаешь обстановку без риска?
+1	—	_	_	_	_	_	_	_	_
+2	Кыдз	_	_	_	_	_	_	_	_
+3	нӧ	_	_	_	_	_	_	_	_
+4	обстановка	_	_	_	_	5	obj	_	_
+5	тӧдмалан	_	_	_	_	_	_	_	_
+6	рисктӧгыд	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.208
+# text = Вот гӧгӧртім ветымын верст гӧгӧр, ӧні и миянлы тӧдса, мый вӧчны.
+# ft_rus = Вот объехали верст пятьдесят, теперь нам и ясно, что делать.
+1	Вот	_	_	_	_	_	_	_	_
+2	гӧгӧртім	_	_	_	_	_	_	_	_
+3	ветымын	_	_	_	_	_	_	_	_
+4	верст	_	_	_	_	2	obl	_	_
+5	гӧгӧр	_	_	_	_	4	case	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ӧні	_	_	_	_	_	_	_	_
+8	и	_	_	_	_	_	_	_	_
+9	миянлы	_	_	_	_	_	_	_	_
+10	тӧдса	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	мый	_	_	_	_	_	_	_	_
+13	вӧчны	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.209
+# text = Сійӧ неуна чӧвмуні, думыштіс, ещӧ ӧтчыд нюммуні.
+# ft_rus = Он помолчал немного, подумал, улыбнулся еще раз.
+1	Сійӧ	_	_	_	_	3	nsubj	_	_
+2	неуна	_	_	_	_	_	_	_	_
+3	чӧвмуні	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	думыштіс	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ещӧ	_	_	_	_	_	_	_	_
+8	ӧтчыд	_	_	_	_	_	_	_	_
+9	нюммуні	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.210
+# text = — Энлӧ, аддзыланныд, кыдз ми найӧс регыд лупитны кутам!
+# ft_rus = — Подождите, увидите, как мы их скоро лупить будем!
+1	—	_	_	_	_	_	_	_	_
+2	Энлӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	аддзыланныд	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кыдз	_	_	_	_	_	_	_	_
+7	ми	_	_	_	_	11	nsubj	_	_
+8	найӧс	_	_	_	_	10	obj	_	_
+9	регыд	_	_	_	_	_	_	_	_
+10	лупитны	_	_	_	_	11	xcomp	_	_
+11	кутам	_	_	_	_	_	_	_	_
+12	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.211
+# text = И збыль.
+# ft_rus = И верно.
+1	И	_	_	_	_	_	_	_	_
+2	збыль	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.212
+# text = Краснӧй частьяс некымын лун мысти вуджисны наступлениеӧ.
+# ft_rus = Через несколько дней красные части перешли в наступление.
+1	Краснӧй	_	_	_	_	_	_	_	_
+2	частьяс	_	_	_	_	6	nsubj	_	_
+3	некымын	_	_	_	_	_	_	_	_
+4	лун	_	_	_	_	_	_	_	_
+5	мысти	_	_	_	_	_	_	_	_
+6	вуджисны	_	_	_	_	_	_	_	_
+7	наступлениеӧ	_	_	_	_	6	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.213
+# text = Татшӧм вӧлі мӧд случай.
+# ft_rus = Таков был второй случай.﻿
+1	Татшӧм	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	мӧд	_	_	_	_	_	_	_	_
+4	случай	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.214
+# text = ПУЛЕМЁТ ДОРЫН
+# ft_rus = У ПУЛЕМЕТА
+1	ПУЛЕМЁТ	_	_	_	_	_	_	_	_
+2	ДОРЫН	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.215
+# text = Коймӧд случай вӧлі Воропоново станцияын, неылын сійӧ жӧ Царицынсянь.
+# ft_rus = Третий случай произошел на станции Воропоново, недалеко от того же Царицына.
+1	Коймӧд	_	_	_	_	_	_	_	_
+2	случай	_	_	_	_	_	_	_	_
+3	вӧлі	_	_	_	_	_	_	_	_
+4	Воропоново	_	_	_	_	_	_	_	_
+5	станцияын	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	неылын	_	_	_	_	_	_	_	_
+8	сійӧ	_	_	_	_	_	_	_	_
+9	жӧ	_	_	_	_	_	_	_	_
+10	Царицынсянь	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.217
+# text = Вот кыдз тайӧ разын вӧлі делӧыс.
+# ft_rus = Вот как на этот раз было дело.
+1	Вот	_	_	_	_	_	_	_	_
+2	кыдз	_	_	_	_	_	_	_	_
+3	тайӧ	_	_	_	_	_	_	_	_
+4	разын	_	_	_	_	_	_	_	_
+5	вӧлі	_	_	_	_	_	_	_	_
+6	делӧыс	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.218
+# text = Арын, октябрь тӧлысьын, фронт вылын бара кутісны гремитны орудиеяс.
+# ft_rus = Осенью, в октябре месяце, на фронте снова загремели орудия.
+1	Арын	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	октябрь	_	_	_	_	_	_	_	_
+4	тӧлысьын	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	фронт	_	_	_	_	_	_	_	_
+7	вылын	_	_	_	_	_	_	_	_
+8	бара	_	_	_	_	_	_	_	_
+9	кутісны	_	_	_	_	_	_	_	_
+10	гремитны	_	_	_	_	9	xcomp	_	_
+11	орудиеяс	_	_	_	_	9	nsubj	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.219
+# text = Белӧйяс нӧшта ӧтчыд решитісны пробуйтлыны счастье, воӧдчыны Волга дорӧ.
+# ft_rus = Белые решили еще раз попытать счастья, прорваться к Волге.
+1	Белӧйяс	_	_	_	_	4	nsubj	_	_
+2	нӧшта	_	_	_	_	_	_	_	_
+3	ӧтчыд	_	_	_	_	_	_	_	_
+4	решитісны	_	_	_	_	_	_	_	_
+5	пробуйтлыны	_	_	_	_	4	xcomp	_	_
+6	счастье	_	_	_	_	5	obj	_	_
+7	,	_	_	_	_	_	_	_	_
+8	воӧдчыны	_	_	_	_	_	_	_	_
+9	Волга	_	_	_	_	8	obl	_	_
+10	дорӧ	_	_	_	_	9	case	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.220
+# text = Ворошилов, кыдз и пыр, эз кӧсйы бойнас веськӧдлыны ылысянь, карсянь.
+# ft_rus = Ворошилов, как всегда, не захотел управлять боем издали, из города.
+1	Ворошилов	_	_	_	_	8	nsubj	_	_
+2	,	_	_	_	_	_	_	_	_
+3	кыдз	_	_	_	_	_	_	_	_
+4	и	_	_	_	_	_	_	_	_
+5	пыр	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	эз	_	_	_	_	8	aux	_	_
+8	кӧсйы	_	_	_	_	_	_	_	_
+9	бойнас	_	_	_	_	_	_	_	_
+10	веськӧдлыны	_	_	_	_	8	xcomp	_	_
+11	ылысянь	_	_	_	_	10	obl	_	_
+12	,	_	_	_	_	_	_	_	_
+13	карсянь	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.221
+# text = Дас кӧкъямысӧд числӧын штабнӧй вагон сійӧс вайис Воропоново станцияӧ.
+# ft_rus = Восемнадцатого числа штабной вагон привез его на станцию Воропоново.
+1	Дас	_	_	_	_	_	_	_	_
+2	кӧкъямысӧд	_	_	_	_	_	_	_	_
+3	числӧын	_	_	_	_	_	_	_	_
+4	штабнӧй	_	_	_	_	_	_	_	_
+5	вагон	_	_	_	_	7	nsubj	_	_
+6	сійӧс	_	_	_	_	7	obj	_	_
+7	вайис	_	_	_	_	_	_	_	_
+8	Воропоново	_	_	_	_	_	_	_	_
+9	станцияӧ	_	_	_	_	7	obl	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.223
+# text = Сэні тайӧ лунъясӧ мый вӧчсьыліс нинӧм он тӧд.
+# ft_rus = Тут в эти дни нивесть что творилось.
+1	Сэні	_	_	_	_	_	_	_	_
+2	тайӧ	_	_	_	_	_	_	_	_
+3	лунъясӧ	_	_	_	_	_	_	_	_
+4	мый	_	_	_	_	_	_	_	_
+5	вӧчсьыліс	_	_	_	_	_	_	_	_
+6	нинӧм	_	_	_	_	_	_	_	_
+7	он	_	_	_	_	8	aux	_	_
+8	тӧд	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.224
+# text = Сэкся кадъясын миян эз тырмывлы не сӧмын оружие.
+# ft_rus = В те времена у нас нехватало не только оружия.
+1	Сэкся	_	_	_	_	_	_	_	_
+2	кадъясын	_	_	_	_	_	_	_	_
+3	миян	_	_	_	_	_	_	_	_
+4	эз	_	_	_	_	5	aux	_	_
+5	тырмывлы	_	_	_	_	_	_	_	_
+6	не	_	_	_	_	_	_	_	_
+7	сӧмын	_	_	_	_	_	_	_	_
+8	оружие	_	_	_	_	5	nsubj	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.225
+# text = Этша вӧлі миян и паровозъясыд.
+# ft_rus = Мало было у нас и паровозов.
+1	Этша	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	миян	_	_	_	_	_	_	_	_
+4	и	_	_	_	_	_	_	_	_
+5	паровозъясыд	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.226
+# text = Неыджыд станцияын сы вӧсна вӧлі полнӧй неразбериха.
+# ft_rus = На небольшой станции царила поэтому полная неразбериха.
+1	Неыджыд	_	_	_	_	_	_	_	_
+2	станцияын	_	_	_	_	_	_	_	_
+3	сы	_	_	_	_	_	_	_	_
+4	вӧсна	_	_	_	_	_	_	_	_
+5	вӧлі	_	_	_	_	_	_	_	_
+6	полнӧй	_	_	_	_	_	_	_	_
+7	неразбериха	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.227
+# text = Туй вывъясӧ чукӧрмис кузьысь-кузь зэв уна поезд, унджыкыс пемыдгӧрд рӧма товарнӧй вагонъяс, теплушкаяс.
+# ft_rus = На путях скопилось множество длиннейших поездов, все больше темно-красные товарные вагоны, теплушки.
+1	Туй	_	_	_	_	_	_	_	_
+2	вывъясӧ	_	_	_	_	3	obl	_	_
+3	чукӧрмис	_	_	_	_	_	_	_	_
+4	кузьысь-кузь	_	_	_	_	_	_	_	_
+5	зэв	_	_	_	_	_	_	_	_
+6	уна	_	_	_	_	_	_	_	_
+7	поезд	_	_	_	_	3	nsubj	_	_
+8	,	_	_	_	_	_	_	_	_
+9	унджыкыс	_	_	_	_	_	_	_	_
+10	пемыдгӧрд	_	_	_	_	_	_	_	_
+11	рӧма	_	_	_	_	_	_	_	_
+12	товарнӧй	_	_	_	_	_	_	_	_
+13	вагонъяс	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	теплушкаяс	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.228
+# text = Штаб ӧшиньяссянь тыдалӧны вӧлі налӧн помтӧм рядъясыс.
+# ft_rus = Из окон штаба видны были их бесконечные ряды.
+1	Штаб	_	_	_	_	_	_	_	_
+2	ӧшиньяссянь	_	_	_	_	_	_	_	_
+3	тыдалӧны	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	3	aux	_	_
+5	налӧн	_	_	_	_	_	_	_	_
+6	помтӧм	_	_	_	_	_	_	_	_
+7	рядъясыс	_	_	_	_	3	nsubj	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.229
+# text = Ӧти теплушкаясын куйлісны раненӧйяс, кодъясӧс сӧмын на вайӧдӧмаӧсь фронт вылысь, кӧні войнас муніс зэв чорыд бой.
+# ft_rus = В одних теплушках лежали раненые, только что привезенные с фронта, где ночью шел жестокий бой.
+1	Ӧти	_	_	_	_	_	_	_	_
+2	теплушкаясын	_	_	_	_	3	obl	_	_
+3	куйлісны	_	_	_	_	_	_	_	_
+4	раненӧйяс	_	_	_	_	3	nsubj	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кодъясӧс	_	_	_	_	9	obj	_	_
+7	сӧмын	_	_	_	_	_	_	_	_
+8	на	_	_	_	_	_	_	_	_
+9	вайӧдӧмаӧсь	_	_	_	_	_	_	_	_
+10	фронт	_	_	_	_	9	obl	_	_
+11	вылысь	_	_	_	_	10	case	_	_
+12	,	_	_	_	_	_	_	_	_
+13	кӧні	_	_	_	_	_	_	_	_
+14	войнас	_	_	_	_	_	_	_	_
+15	муніс	_	_	_	_	_	_	_	_
+16	зэв	_	_	_	_	_	_	_	_
+17	чорыд	_	_	_	_	_	_	_	_
+18	бой	_	_	_	_	15	nsubj	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.230
+# text = Мукӧдъясыс вӧлі дзескыда тыртӧма несчастнӧй пышйысьясӧн. Найӧ пышйисны сійӧ местаясысь, кӧні сэк кӧзяйничайтісны белӧйяс: тайӧ теплушкаясас кызісны пӧрысь старикъяс, ойзісны да ышлолалісны нывбабаяс, чирзісны посни челядь.
+# ft_rus = Другие были битком набиты несчастными беглецами из тех мест, где теперь хозяйничали белые: в этих теплушках кашляли слабые старики, причитали и вздыхали женщины, хныкали и пищали маленькие ребята.
+1	Мукӧдъясыс	_	_	_	_	4	nsubj	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	дзескыда	_	_	_	_	_	_	_	_
+4	тыртӧма	_	_	_	_	_	_	_	_
+5	несчастнӧй	_	_	_	_	_	_	_	_
+6	пышйысьясӧн	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+8	Найӧ	_	_	_	_	9	nsubj	_	_
+9	пышйисны	_	_	_	_	_	_	_	_
+10	сійӧ	_	_	_	_	_	_	_	_
+11	местаясысь	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	кӧні	_	_	_	_	_	_	_	_
+14	сэк	_	_	_	_	_	_	_	_
+15	кӧзяйничайтісны	_	_	_	_	_	_	_	_
+16	белӧйяс	_	_	_	_	15	nsubj	_	_
+17	:	_	_	_	_	_	_	_	_
+18	тайӧ	_	_	_	_	_	_	_	_
+19	теплушкаясас	_	_	_	_	_	_	_	_
+20	кызісны	_	_	_	_	_	_	_	_
+21	пӧрысь	_	_	_	_	_	_	_	_
+22	старикъяс	_	_	_	_	20	nsubj	_	_
+23	,	_	_	_	_	_	_	_	_
+24	ойзісны	_	_	_	_	_	_	_	_
+25	да	_	_	_	_	_	_	_	_
+26	ышлолалісны	_	_	_	_	_	_	_	_
+27	нывбабаяс	_	_	_	_	24	nsubj	_	_
+28	,	_	_	_	_	_	_	_	_
+29	чирзісны	_	_	_	_	_	_	_	_
+30	посни	_	_	_	_	_	_	_	_
+31	челядь	_	_	_	_	29	nsubj	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.231
+# text = Стазыс тайӧ вӧлі мирнӧй йӧз, омӧльтчӧм, мудзӧм йӧз, войнаӧн да лёк врагӧн повзьӧдӧм йӧз.
+# ft_rus = Все это были люди ﻿мирные, ослабевшие, уставшие, на смерть перепуганные войной и жестоким врагом.
+1	Стазыс	_	_	_	_	_	_	_	_
+2	тайӧ	_	_	_	_	_	_	_	_
+3	вӧлі	_	_	_	_	_	_	_	_
+4	мирнӧй	_	_	_	_	_	_	_	_
+5	йӧз	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	омӧльтчӧм	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	мудзӧм	_	_	_	_	_	_	_	_
+10	йӧз	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	войнаӧн	_	_	_	_	_	_	_	_
+13	да	_	_	_	_	_	_	_	_
+14	лёк	_	_	_	_	_	_	_	_
+15	врагӧн	_	_	_	_	_	_	_	_
+16	повзьӧдӧм	_	_	_	_	_	_	_	_
+17	йӧз	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.232
+# text = Ӧд фронтыс вӧлі зэв матын.
+# ft_rus = Ведь фронт был под боком.
+1	Ӧд	_	_	_	_	_	_	_	_
+2	фронтыс	_	_	_	_	_	_	_	_
+3	вӧлі	_	_	_	_	_	_	_	_
+4	зэв	_	_	_	_	_	_	_	_
+5	матын	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.233
+# text = Но век жӧ станцияыс эз вӧв дзик фронт вылас.
+# ft_rus = Но все же станция была не на самом фронте.
+1	Но	_	_	_	_	_	_	_	_
+2	век	_	_	_	_	_	_	_	_
+3	жӧ	_	_	_	_	_	_	_	_
+4	станцияыс	_	_	_	_	_	_	_	_
+5	эз	_	_	_	_	6	aux	_	_
+6	вӧв	_	_	_	_	_	_	_	_
+7	дзик	_	_	_	_	_	_	_	_
+8	фронт	_	_	_	_	_	_	_	_
+9	вылас	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.234
+# text = Сы вӧсна вооружитчӧм красноармеец-боецъяс сэні вӧлі вывті этша.
+# ft_rus = Поэтому вооруженных красноармейцев-бойцов на ней было совсем мало…
+1	Сы	_	_	_	_	_	_	_	_
+2	вӧсна	_	_	_	_	_	_	_	_
+3	вооружитчӧм	_	_	_	_	_	_	_	_
+4	красноармеец-боецъяс	_	_	_	_	_	_	_	_
+5	сэні	_	_	_	_	_	_	_	_
+6	вӧлі	_	_	_	_	_	_	_	_
+7	вывті	_	_	_	_	_	_	_	_
+8	этша	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.235
+# text = Дзик луншӧр кадын аслас вагонӧ Ворошилов чукӧртіс ассьыс помощникъяссӧ совещание вылӧ.
+# ft_rus = Ровно в полдень Ворошилов созвал к себе в вагон своих помощников —на совещание.
+1	Дзик	_	_	_	_	_	_	_	_
+2	луншӧр	_	_	_	_	_	_	_	_
+3	кадын	_	_	_	_	_	_	_	_
+4	аслас	_	_	_	_	_	_	_	_
+5	вагонӧ	_	_	_	_	7	obl	_	_
+6	Ворошилов	_	_	_	_	7	nsubj	_	_
+7	чукӧртіс	_	_	_	_	_	_	_	_
+8	ассьыс	_	_	_	_	_	_	_	_
+9	помощникъяссӧ	_	_	_	_	7	obj	_	_
+10	совещание	_	_	_	_	7	obl	_	_
+11	вылӧ	_	_	_	_	10	case	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.236
+# text = Карта вылӧ ӧшӧдчӧмӧн краснӧй частьясысь командиръяс решитісны, мый колӧ вӧчны, медым дугӧдны белӧйяслысь наступлениесӧ.
+# ft_rus = Наклонясь над картами, командиры красных частей решали, что надо сделать, чтобы отбить наступление белых.
+1	Карта	_	_	_	_	_	_	_	_
+2	вылӧ	_	_	_	_	_	_	_	_
+3	ӧшӧдчӧмӧн	_	_	_	_	_	_	_	_
+4	краснӧй	_	_	_	_	_	_	_	_
+5	частьясысь	_	_	_	_	_	_	_	_
+6	командиръяс	_	_	_	_	7	nsubj	_	_
+7	решитісны	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	мый	_	_	_	_	_	_	_	_
+10	колӧ	_	_	_	_	_	_	_	_
+11	вӧчны	_	_	_	_	10	xcomp	_	_
+12	,	_	_	_	_	_	_	_	_
+13	медым	_	_	_	_	_	_	_	_
+14	дугӧдны	_	_	_	_	_	_	_	_
+15	белӧйяслысь	_	_	_	_	_	_	_	_
+16	наступлениесӧ	_	_	_	_	14	obj	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.237
+# text = Друг ӧшинь сайын быттьӧ струна ори: паськаліс нывбабалӧн отчаяннӧй горӧдӧм:
+# ft_rus = Вдруг за окном точно лопнула струна: раздался отчаянный женский крик:
+1	Друг	_	_	_	_	_	_	_	_
+2	ӧшинь	_	_	_	_	_	_	_	_
+3	сайын	_	_	_	_	_	_	_	_
+4	быттьӧ	_	_	_	_	_	_	_	_
+5	струна	_	_	_	_	6	nsubj	_	_
+6	ори	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	паськаліс	_	_	_	_	_	_	_	_
+9	нывбабалӧн	_	_	_	_	_	_	_	_
+10	отчаяннӧй	_	_	_	_	_	_	_	_
+11	горӧдӧм	_	_	_	_	8	nsubj	_	_
+12	:	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.238
+# text = — Спаситӧй!
+# ft_rus = — Спасите!
+1	—	_	_	_	_	_	_	_	_
+2	Спаситӧй	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.239
+# text = Спаситӧй!
+# ft_rus = Спасите!
+1	Спаситӧй	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.240
+# text = Белӧйяс!
+# ft_rus = Белые!
+1	Белӧйяс	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.241
+# text = Оз позь опишитны, мый лои водзӧсӧ.
+# ft_rus = Нельзя описать, что произошло в следующий миг.
+1	Оз	_	_	_	_	2	aux	_	_
+2	позь	_	_	_	_	_	_	_	_
+3	опишитны	_	_	_	_	2	xcomp	_	_
+4	,	_	_	_	_	_	_	_	_
+5	мый	_	_	_	_	_	_	_	_
+6	лои	_	_	_	_	_	_	_	_
+7	водзӧсӧ	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.242
+# text = Став вагонсьыс, став теплушкасьыс старикъяс, челядь, нывбабаяс шыбытчисны, быттьӧ йӧйяс, котӧртны эрд вылӧ.
+# ft_rus = Из всех вагонов, из всех теплушек старики, дети, женщины бросились, как безумные, бежать в поле.
+1	Став	_	_	_	_	_	_	_	_
+2	вагонсьыс	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	став	_	_	_	_	_	_	_	_
+5	теплушкасьыс	_	_	_	_	_	_	_	_
+6	старикъяс	_	_	_	_	11	nsubj	_	_
+7	,	_	_	_	_	_	_	_	_
+8	челядь	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	нывбабаяс	_	_	_	_	_	_	_	_
+11	шыбытчисны	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	быттьӧ	_	_	_	_	_	_	_	_
+14	йӧйяс	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	котӧртны	_	_	_	_	11	xcomp	_	_
+17	эрд	_	_	_	_	16	obl	_	_
+18	вылӧ	_	_	_	_	17	case	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.243
+# text = Повзьӧмысла юрвежӧръяссӧ воштӧмӧн ставныс найӧ котралісны рельсъяс вывті, горзісны, бӧрдісны, кватлалісны ӧта-мӧднысӧ.
+# ft_rus = Все они, потеряв головы от страха, метались по рельсам, кричали, плакали, хватались друг за друга!
+1	Повзьӧмысла	_	_	_	_	_	_	_	_
+2	юрвежӧръяссӧ	_	_	_	_	3	obj	_	_
+3	воштӧмӧн	_	_	_	_	_	_	_	_
+4	ставныс	_	_	_	_	_	_	_	_
+5	найӧ	_	_	_	_	6	nsubj	_	_
+6	котралісны	_	_	_	_	_	_	_	_
+7	рельсъяс	_	_	_	_	6	obl	_	_
+8	вывті	_	_	_	_	7	case	_	_
+9	,	_	_	_	_	_	_	_	_
+10	горзісны	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	бӧрдісны	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	кватлалісны	_	_	_	_	_	_	_	_
+15	ӧта-мӧднысӧ	_	_	_	_	14	obj	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.244
+# text = — Спаситӧй !
+# ft_rus = — Спасите!
+1	—	_	_	_	_	_	_	_	_
+2	Спаситӧй	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.245
+# text = Спаситӧй !
+# ft_rus = Ратуйте!
+1	Спаситӧй	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.246
+# text = Раненӧйяс, кодъяс вермисны на вӧрнысӧ и кодъяслӧн вӧліны винтовкаяс, тшӧтш жӧ чеччалісны асланыс теплушкаясысь.
+# ft_rus = Раненые, которые еще могли двигаться и у которых были винтовки, тоже выскочили из своих теплушек.
+1	Раненӧйяс	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	кодъяс	_	_	_	_	4	nsubj	_	_
+4	вермисны	_	_	_	_	_	_	_	_
+5	на	_	_	_	_	_	_	_	_
+6	вӧрнысӧ	_	_	_	_	4	xcomp	_	_
+7	и	_	_	_	_	_	_	_	_
+8	кодъяслӧн	_	_	_	_	_	_	_	_
+9	вӧліны	_	_	_	_	_	_	_	_
+10	винтовкаяс	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	тшӧтш	_	_	_	_	_	_	_	_
+13	жӧ	_	_	_	_	_	_	_	_
+14	чеччалісны	_	_	_	_	_	_	_	_
+15	асланыс	_	_	_	_	_	_	_	_
+16	теплушкаясысь	_	_	_	_	14	obl	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.247
+# text = Ӧтияс бинтуйтӧм киясӧн сюялісны штыкъяс, мукӧдъясыс пиньнаныс восьтісны затворъяс, дасьӧсь донӧн вузавны ассьыныс олӧмнысӧ.
+# ft_rus = Одни забинтованными руками наколачивали штыки, другие зубами открывали затворы, готовясь дорого продать свою жизнь.
+1	Ӧтияс	_	_	_	_	4	nsubj	_	_
+2	бинтуйтӧм	_	_	_	_	_	_	_	_
+3	киясӧн	_	_	_	_	_	_	_	_
+4	сюялісны	_	_	_	_	_	_	_	_
+5	штыкъяс	_	_	_	_	4	obj	_	_
+6	,	_	_	_	_	_	_	_	_
+7	мукӧдъясыс	_	_	_	_	9	nsubj	_	_
+8	пиньнаныс	_	_	_	_	_	_	_	_
+9	восьтісны	_	_	_	_	_	_	_	_
+10	затворъяс	_	_	_	_	9	obj	_	_
+11	,	_	_	_	_	_	_	_	_
+12	дасьӧсь	_	_	_	_	_	_	_	_
+13	донӧн	_	_	_	_	_	_	_	_
+14	вузавны	_	_	_	_	_	_	_	_
+15	ассьыныс	_	_	_	_	_	_	_	_
+16	олӧмнысӧ	_	_	_	_	14	obj	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.248
+# text = Но найӧ вӧліны зэв этшаӧнӧсь!..
+# ft_rus = Но их было так мало, так безнадежно мало!..
+1	Но	_	_	_	_	_	_	_	_
+2	найӧ	_	_	_	_	_	_	_	_
+3	вӧліны	_	_	_	_	_	_	_	_
+4	зэв	_	_	_	_	_	_	_	_
+5	этшаӧнӧсь	_	_	_	_	_	_	_	_
+6	!..	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.249
+# text = Ворошилов да сылӧн штабыс пыр жӧ лоины платформа вылын.
+# ft_rus = Ворошилов и его штаб мгновенно тоже оказались на платформе.
+1	Ворошилов	_	_	_	_	_	_	_	_
+2	да	_	_	_	_	_	_	_	_
+3	сылӧн	_	_	_	_	_	_	_	_
+4	штабыс	_	_	_	_	_	_	_	_
+5	пыр	_	_	_	_	_	_	_	_
+6	жӧ	_	_	_	_	_	_	_	_
+7	лоины	_	_	_	_	_	_	_	_
+8	платформа	_	_	_	_	_	_	_	_
+9	вылын	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.250
+# text = Первой коммунистическӧй дивизияса командир, ранитчӧм кока (бинт вывтіыс ӧні вӧлі кӧмалӧма кодлыськӧ ыджыд туфли), шыбытчис платформа вылӧ сувтӧдны пышйысьясӧс.
+# ft_rus = Командир первой коммунистической дивизии, раненный в ногу (на нее теперь поверх бинтов была надета чья-то огромная туфля), бросился на платформу останавливать бегущих.
+1	Первой	_	_	_	_	_	_	_	_
+2	коммунистическӧй	_	_	_	_	_	_	_	_
+3	дивизияса	_	_	_	_	_	_	_	_
+4	командир	_	_	_	_	18	nsubj	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ранитчӧм	_	_	_	_	_	_	_	_
+7	кока	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	бинт	_	_	_	_	_	_	_	_
+10	вывтіыс	_	_	_	_	_	_	_	_
+11	ӧні	_	_	_	_	_	_	_	_
+12	вӧлі	_	_	_	_	_	_	_	_
+13	кӧмалӧма	_	_	_	_	_	_	_	_
+14	кодлыськӧ	_	_	_	_	_	_	_	_
+15	ыджыд	_	_	_	_	_	_	_	_
+16	туфли	_	_	_	_	13	obj	_	_
+17	),	_	_	_	_	_	_	_	_
+18	шыбытчис	_	_	_	_	_	_	_	_
+19	платформа	_	_	_	_	18	obl	_	_
+20	вылӧ	_	_	_	_	19	case	_	_
+21	сувтӧдны	_	_	_	_	18	xcomp	_	_
+22	пышйысьясӧс	_	_	_	_	21	obj	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.251
+# text = Сійӧ юасис, сёрнитӧдіс, грӧзитіс, но весьшӧрӧ.
+# ft_rus = Он упрашивал, уговаривал, грозил, но напрасно.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	юасис	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	сёрнитӧдіс	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	грӧзитіс	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	но	_	_	_	_	_	_	_	_
+9	весьшӧрӧ	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.252
+# text = Повзьӧмысь йӧймӧмла тайӧ старикъясыс да нывбабаясыс некодлысь нин нинӧм эз кывзыны.
+# ft_rus = Обезумев от страха, эти старики и женщины уже не слушали никого и ничего.
+1	Повзьӧмысь	_	_	_	_	_	_	_	_
+2	йӧймӧмла	_	_	_	_	_	_	_	_
+3	тайӧ	_	_	_	_	_	_	_	_
+4	старикъясыс	_	_	_	_	11	nsubj	_	_
+5	да	_	_	_	_	_	_	_	_
+6	нывбабаясыс	_	_	_	_	_	_	_	_
+7	некодлысь	_	_	_	_	_	_	_	_
+8	нин	_	_	_	_	_	_	_	_
+9	нинӧм	_	_	_	_	11	obj	_	_
+10	эз	_	_	_	_	11	aux	_	_
+11	кывзыны	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.253
+# text = Ворошилов видзӧдліс лунвывлань, сылань, кодлань бергӧдчывлісны повзьӧм пышйысьяс.
+# ft_rus = Ворошилов взглянул на юг, туда, куда с ужасом оборачивались испуганные беглецы.
+1	Ворошилов	_	_	_	_	2	nsubj	_	_
+2	видзӧдліс	_	_	_	_	_	_	_	_
+3	лунвывлань	_	_	_	_	2	obl	_	_
+4	,	_	_	_	_	_	_	_	_
+5	сылань	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	кодлань	_	_	_	_	8	obl	_	_
+8	бергӧдчывлісны	_	_	_	_	_	_	_	_
+9	повзьӧм	_	_	_	_	_	_	_	_
+10	пышйысьяс	_	_	_	_	8	nsubj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.254
+# text = Да, делӧыс вӧлі лёк!
+# ft_rus = Да, дело было плохо!
+1	Да	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	делӧыс	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	_	_	_	_
+5	лёк	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.255
+# text = Станция гӧгӧр ылӧ степас вӧлі паськалӧма арся куш садъяс, пасьтӧмӧсь, коръястӧмӧсь.
+# ft_rus = Вокруг ﻿станции далеко в степь уходили пустые осенние сады, голые, без листьев.
+1	Станция	_	_	_	_	_	_	_	_
+2	гӧгӧр	_	_	_	_	_	_	_	_
+3	ылӧ	_	_	_	_	_	_	_	_
+4	степас	_	_	_	_	6	obl	_	_
+5	вӧлі	_	_	_	_	6	aux	_	_
+6	паськалӧма	_	_	_	_	_	_	_	_
+7	арся	_	_	_	_	_	_	_	_
+8	куш	_	_	_	_	_	_	_	_
+9	садъяс	_	_	_	_	6	nsubj	_	_
+10	,	_	_	_	_	_	_	_	_
+11	пасьтӧмӧсь	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	коръястӧмӧсь	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.256
+# text = И сэн, на сайын, пу увъяс костӧд сійӧ аддзис: сё, кыксё, витсё, он гӧгӧрво мындаӧн белӧйяс мыйвынсьыныс локтӧны станциялань.
+# ft_rus = И там, за ними, сквозь ветви деревьев он увидел: сто, двести, пятьсот, не поймешь сколько белых во весь опор несутся к станции…
+1	И	_	_	_	_	_	_	_	_
+2	сэн	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	на	_	_	_	_	_	_	_	_
+5	сайын	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	пу	_	_	_	_	_	_	_	_
+8	увъяс	_	_	_	_	_	_	_	_
+9	костӧд	_	_	_	_	_	_	_	_
+10	сійӧ	_	_	_	_	11	nsubj	_	_
+11	аддзис	_	_	_	_	_	_	_	_
+12	:	_	_	_	_	_	_	_	_
+13	сё	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	кыксё	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	витсё	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	он	_	_	_	_	20	aux	_	_
+20	гӧгӧрво	_	_	_	_	_	_	_	_
+21	мындаӧн	_	_	_	_	_	_	_	_
+22	белӧйяс	_	_	_	_	24	nsubj	_	_
+23	мыйвынсьыныс	_	_	_	_	_	_	_	_
+24	локтӧны	_	_	_	_	_	_	_	_
+25	станциялань	_	_	_	_	24	obl	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.258
+# text = Навернӧ, найӧ кыткӧ чеччыштісны миян тылӧ.
+# ft_rus = Наверное, они где-нибудь проскочили в наш тыл.
+1	Навернӧ	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	найӧ	_	_	_	_	5	nsubj	_	_
+4	кыткӧ	_	_	_	_	_	_	_	_
+5	чеччыштісны	_	_	_	_	_	_	_	_
+6	миян	_	_	_	_	_	_	_	_
+7	тылӧ	_	_	_	_	5	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.260
+# text = Мый жӧ ӧні вӧчны?
+# ft_rus = Что ж теперь делать?
+1	Мый	_	_	_	_	4	obj	_	_
+2	жӧ	_	_	_	_	_	_	_	_
+3	ӧні	_	_	_	_	_	_	_	_
+4	вӧчны	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.261
+# text = Защита абу.
+# ft_rus = Защиты нет.
+1	Защита	_	_	_	_	_	_	_	_
+2	абу	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.262
+# text = Мунны?
+# ft_rus = Уйти?
+1	Мунны	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.263
+# text = Оз позь, оз позь мунны.
+# ft_rus = Нет, нельзя уходить.
+1	Оз	_	_	_	_	2	aux	_	_
+2	позь	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	оз	_	_	_	_	5	aux	_	_
+5	позь	_	_	_	_	_	_	_	_
+6	мунны	_	_	_	_	5	xcomp	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.264
+# text = Позьӧ ӧмӧй кольны враг произвол улӧ тайӧ мирнӧй беззащитнӧй йӧзсӧ, старикъясӧс, челядьӧс да нывбабаясӧс?
+# ft_rus = Разве можно оставить на произвол врага эту толпу мирных беззащитных людей, стариков, детей и женщин?
+1	Позьӧ	_	_	_	_	_	_	_	_
+2	ӧмӧй	_	_	_	_	_	_	_	_
+3	кольны	_	_	_	_	1	xcomp	_	_
+4	враг	_	_	_	_	1	nsubj	_	_
+5	произвол	_	_	_	_	3	obl	_	_
+6	улӧ	_	_	_	_	5	case	_	_
+7	тайӧ	_	_	_	_	_	_	_	_
+8	мирнӧй	_	_	_	_	_	_	_	_
+9	беззащитнӧй	_	_	_	_	_	_	_	_
+10	йӧзсӧ	_	_	_	_	1	obj	_	_
+11	,	_	_	_	_	_	_	_	_
+12	старикъясӧс	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	челядьӧс	_	_	_	_	_	_	_	_
+15	да	_	_	_	_	_	_	_	_
+16	нывбабаясӧс	_	_	_	_	_	_	_	_
+17	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.265
+# text = Вӧлі кӧ эськӧ миян киын кӧть ӧти пулемёт…
+# ft_rus = Если бы был под руками хоть единственный пулемет…
+1	Вӧлі	_	_	_	_	_	_	_	_
+2	кӧ	_	_	_	_	_	_	_	_
+3	эськӧ	_	_	_	_	_	_	_	_
+4	миян	_	_	_	_	_	_	_	_
+5	киын	_	_	_	_	_	_	_	_
+6	кӧть	_	_	_	_	_	_	_	_
+7	ӧти	_	_	_	_	_	_	_	_
+8	пулемёт	_	_	_	_	_	_	_	_
+9	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.266
+# text = Но вӧд сійӧ эз вӧв!
+# ft_rus = Но ведь его не было!
+1	Но	_	_	_	_	_	_	_	_
+2	вӧд	_	_	_	_	_	_	_	_
+3	сійӧ	_	_	_	_	_	_	_	_
+4	эз	_	_	_	_	5	aux	_	_
+5	вӧв	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.267
+# text = Сідзкӧ — коли ӧтитор: кувны бойын.
+# ft_rus = Значит — оставалось одно: погибнуть в бою…
+1	Сідзкӧ	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	коли	_	_	_	_	_	_	_	_
+4	ӧтитор	_	_	_	_	3	nsubj	_	_
+5	:	_	_	_	_	_	_	_	_
+6	кувны	_	_	_	_	_	_	_	_
+7	бойын	_	_	_	_	6	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.268
+# text = Ворошилов аслас йӧзкӧд воча видзӧдчыліс и, юрнас довкнитӧмӧн, босьтіс пельпом вывсьыс ассьыс вежсьытӧм, любимӧй карабинсӧ, вернӧй ичӧтик кавалерийскӧй винтовкасӧ.
+# ft_rus = Ворошилов переглянулся со своими и, качнув головой, скинул с плеча свой неизменный, любимый карабин, верную маленькую кавалерийскую винтовку.
+1	Ворошилов	_	_	_	_	5	nsubj	_	_
+2	аслас	_	_	_	_	_	_	_	_
+3	йӧзкӧд	_	_	_	_	_	_	_	_
+4	воча	_	_	_	_	_	_	_	_
+5	видзӧдчыліс	_	_	_	_	_	_	_	_
+6	и	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	юрнас	_	_	_	_	_	_	_	_
+9	довкнитӧмӧн	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	босьтіс	_	_	_	_	_	_	_	_
+12	пельпом	_	_	_	_	11	obl	_	_
+13	вывсьыс	_	_	_	_	12	case	_	_
+14	ассьыс	_	_	_	_	_	_	_	_
+15	вежсьытӧм	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	любимӧй	_	_	_	_	_	_	_	_
+18	карабинсӧ	_	_	_	_	11	obj	_	_
+19	,	_	_	_	_	_	_	_	_
+20	вернӧй	_	_	_	_	_	_	_	_
+21	ичӧтик	_	_	_	_	_	_	_	_
+22	кавалерийскӧй	_	_	_	_	_	_	_	_
+23	винтовкасӧ	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.269
+# text = Белӧйяс — найӧ вӧлі тыдалӧны кипыдӧс вылын моз — скачитісны овраг дорӧдз, коді воӧ вӧлі степь кузя веськыда станция дорӧ, и ряд бӧрся ряд вошисны сэтчӧ.
+# ft_rus = Белые — они были видны как на ладони— доскакали до оврага, который тянулся по степи прямо к станции, и ряд за рядом исчезли в нем.
+1	Белӧйяс	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	найӧ	_	_	_	_	5	nsubj	_	_
+4	вӧлі	_	_	_	_	5	aux	_	_
+5	тыдалӧны	_	_	_	_	_	_	_	_
+6	кипыдӧс	_	_	_	_	_	_	_	_
+7	вылын	_	_	_	_	_	_	_	_
+8	моз	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	скачитісны	_	_	_	_	_	_	_	_
+11	овраг	_	_	_	_	10	obl	_	_
+12	дорӧдз	_	_	_	_	11	case	_	_
+13	,	_	_	_	_	_	_	_	_
+14	коді	_	_	_	_	15	nsubj	_	_
+15	воӧ	_	_	_	_	_	_	_	_
+16	вӧлі	_	_	_	_	15	aux	_	_
+17	степь	_	_	_	_	_	_	_	_
+18	кузя	_	_	_	_	_	_	_	_
+19	веськыда	_	_	_	_	_	_	_	_
+20	станция	_	_	_	_	15	obl	_	_
+21	дорӧ	_	_	_	_	20	case	_	_
+22	,	_	_	_	_	_	_	_	_
+23	и	_	_	_	_	_	_	_	_
+24	ряд	_	_	_	_	_	_	_	_
+25	бӧрся	_	_	_	_	_	_	_	_
+26	ряд	_	_	_	_	_	_	_	_
+27	вошисны	_	_	_	_	_	_	_	_
+28	сэтчӧ	_	_	_	_	27	obl	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.271
+# text = Кык-ӧ-куим минута мысти найӧ чеччыштасны тайӧ лощинасьыс дзик нин матӧ, вот сэні, эсійӧ кык пу дорас и сэки…
+# ft_rus = Через две-три минуты они выскочат из этой лощины совсем уже близко, вон там, у .тех двух деревьев, и тогда…
+1	Кык-ӧ-куим	_	_	_	_	_	_	_	_
+2	минута	_	_	_	_	_	_	_	_
+3	мысти	_	_	_	_	_	_	_	_
+4	найӧ	_	_	_	_	5	nsubj	_	_
+5	чеччыштасны	_	_	_	_	_	_	_	_
+6	тайӧ	_	_	_	_	_	_	_	_
+7	лощинасьыс	_	_	_	_	5	obl	_	_
+8	дзик	_	_	_	_	_	_	_	_
+9	нин	_	_	_	_	_	_	_	_
+10	матӧ	_	_	_	_	5	obl	_	_
+11	,	_	_	_	_	_	_	_	_
+12	вот	_	_	_	_	_	_	_	_
+13	сэні	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	эсійӧ	_	_	_	_	_	_	_	_
+16	кык	_	_	_	_	_	_	_	_
+17	пу	_	_	_	_	_	_	_	_
+18	дорас	_	_	_	_	_	_	_	_
+19	и	_	_	_	_	_	_	_	_
+20	сэки	_	_	_	_	_	_	_	_
+21	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.272
+# text = Кодкӧ штабнӧй красноармеецъяс пиысь, бӧрсяньыс матыстчӧмӧн, вӧрзьӧдіс Ворошиловӧс гырддзаӧдыс.
+# ft_rus = Кто-то из штабных красноармейцев, подойдя сзадй, тихонько тронул Ворошилова за локоть.
+1	Кодкӧ	_	_	_	_	9	nsubj	_	_
+2	штабнӧй	_	_	_	_	_	_	_	_
+3	красноармеецъяс	_	_	_	_	_	_	_	_
+4	пиысь	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	бӧрсяньыс	_	_	_	_	_	_	_	_
+7	матыстчӧмӧн	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	вӧрзьӧдіс	_	_	_	_	_	_	_	_
+10	Ворошиловӧс	_	_	_	_	9	obj	_	_
+11	гырддзаӧдыс	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.273
+# text = — Товарищ командир, — ньӧжйӧник вашкӧдіс сійӧ, — тіян вӧвныд бур.
+# ft_rus = — Товарищ командарм, — вполголоса пробормотал он,— у вас конь хороший.
+1	—	_	_	_	_	_	_	_	_
+2	Товарищ	_	_	_	_	_	_	_	_
+3	командир	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	—	_	_	_	_	_	_	_	_
+6	ньӧжйӧник	_	_	_	_	_	_	_	_
+7	вашкӧдіс	_	_	_	_	_	_	_	_
+8	сійӧ	_	_	_	_	7	nsubj	_	_
+9	,	_	_	_	_	_	_	_	_
+10	—	_	_	_	_	_	_	_	_
+11	тіян	_	_	_	_	_	_	_	_
+12	вӧвныд	_	_	_	_	_	_	_	_
+13	бур	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.274
+# text = Прикажитӧй — петкӧда вӧвтӧ.
+# ft_rus = Прикажите — выведу коня.
+1	Прикажитӧй	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	петкӧда	_	_	_	_	_	_	_	_
+4	вӧвтӧ	_	_	_	_	3	obj	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.275
+# text = Пуксьӧй, мӧдӧдчӧй!..
+# ft_rus = Садитесь» езжайте!..
+1	Пуксьӧй	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	мӧдӧдчӧй	_	_	_	_	_	_	_	_
+4	!..	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.276
+# text = Кыдзкӧ мунанныд.
+# ft_rus = Как-нибудь уйдете.
+1	Кыдзкӧ	_	_	_	_	_	_	_	_
+2	мунанныд	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.277
+# text = Чужӧмыс Ворошиловлӧн озйыштіс скӧрпетӧмысла.
+# ft_rus = Лицо Ворошилова вспыхнуло от гнева.
+1	Чужӧмыс	_	_	_	_	3	nsubj	_	_
+2	Ворошиловлӧн	_	_	_	_	_	_	_	_
+3	озйыштіс	_	_	_	_	_	_	_	_
+4	скӧрпетӧмысла	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.278
+# text = Сійӧ друг бергӧдчис сылань, коді тайӧс шуис.
+# ft_rus = Он резко обернулся к тому, кто это сказал.
+1	Сійӧ	_	_	_	_	3	nsubj	_	_
+2	друг	_	_	_	_	_	_	_	_
+3	бергӧдчис	_	_	_	_	_	_	_	_
+4	сылань	_	_	_	_	3	obl	_	_
+5	,	_	_	_	_	_	_	_	_
+6	коді	_	_	_	_	8	nsubj	_	_
+7	тайӧс	_	_	_	_	8	obj	_	_
+8	шуис	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.279
+# text = Сійӧ кӧсйис мыйкӧ вочавидзны и друг…
+# ft_rus = Он хотел ответить что-то и вдруг…
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	кӧсйис	_	_	_	_	_	_	_	_
+3	мыйкӧ	_	_	_	_	4	obj	_	_
+4	вочавидзны	_	_	_	_	2	xcomp	_	_
+5	и	_	_	_	_	_	_	_	_
+6	друг	_	_	_	_	_	_	_	_
+7	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.280
+# text = Друг ӧтчыд чеччыштӧмӧн сійӧ уськӧдчис платформа вылӧ.
+# ft_rus = Вдруг одним прыжком он бросился на платформу.
+1	Друг	_	_	_	_	_	_	_	_
+2	ӧтчыд	_	_	_	_	_	_	_	_
+3	чеччыштӧмӧн	_	_	_	_	_	_	_	_
+4	сійӧ	_	_	_	_	5	nsubj	_	_
+5	уськӧдчис	_	_	_	_	_	_	_	_
+6	платформа	_	_	_	_	5	obl	_	_
+7	вылӧ	_	_	_	_	6	case	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.281
+# text = Пулемёт!
+# ft_rus = Пулемет!
+1	Пулемёт	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.282
+# text = Сійӧ аддзис пулемёт!
+# ft_rus = Он увидел пулемет!
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	аддзис	_	_	_	_	_	_	_	_
+3	пулемёт	_	_	_	_	2	obj	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.283
+# text = Платформа вылас, пуан ва видзан виж бак дорын, дзик стен дорас сулаліс снаряженнӧй, тыш кежлӧ дасьтӧм пулемёт.
+# ft_rus = На платформе, около зеленого бака для кипяченой воды, у самой стены стоял снаряженный, готовый к бою пулемет.
+1	Платформа	_	_	_	_	_	_	_	_
+2	вылас	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	пуан	_	_	_	_	_	_	_	_
+5	ва	_	_	_	_	_	_	_	_
+6	видзан	_	_	_	_	_	_	_	_
+7	виж	_	_	_	_	_	_	_	_
+8	бак	_	_	_	_	_	_	_	_
+9	дорын	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	дзик	_	_	_	_	_	_	_	_
+12	стен	_	_	_	_	_	_	_	_
+13	дорас	_	_	_	_	_	_	_	_
+14	сулаліс	_	_	_	_	_	_	_	_
+15	снаряженнӧй	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	тыш	_	_	_	_	_	_	_	_
+18	кежлӧ	_	_	_	_	_	_	_	_
+19	дасьтӧм	_	_	_	_	_	_	_	_
+20	пулемёт	_	_	_	_	14	nsubj	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.285
+# text = Дерт, сійӧс сувтӧдіс татчӧ охрана, а сэсся, паникаын, ӧтвывъя суматокаын сы йылысь вунӧдісны.
+# ft_rus = Наверное, его поставила здесь охрана, а потом, в панике, в общей суматохе о нем забыли.
+1	Дерт	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	сійӧс	_	_	_	_	4	nsubj	_	_
+4	сувтӧдіс	_	_	_	_	_	_	_	_
+5	татчӧ	_	_	_	_	4	obl	_	_
+6	охрана	_	_	_	_	4	nsubj	_	_
+7	,	_	_	_	_	_	_	_	_
+8	а	_	_	_	_	_	_	_	_
+9	сэсся	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	паникаын	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ӧтвывъя	_	_	_	_	_	_	_	_
+14	суматокаын	_	_	_	_	_	_	_	_
+15	сы	_	_	_	_	17	obl	_	_
+16	йылысь	_	_	_	_	15	case	_	_
+17	вунӧдісны	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.286
+# text = Кык-куим секундаӧн Клим Ворошилов кватитіс пулемётсӧ дужкаӧдыс, гӧгыльтіс платформа помса канаваӧ, дулосӧ бергӧдіс овраглань, правитіс лентасӧ…
+# ft_rus = В какие-нибудь две-три секунды Клим Ворошилов схватил пулемет за дужку, подкатил к канавке в конце плат﻿﻿формы, повернул дульцем туда, к оврагу, заправил ленту…
+1	Кык-куим	_	_	_	_	_	_	_	_
+2	секундаӧн	_	_	_	_	_	_	_	_
+3	Клим	_	_	_	_	5	nsubj	_	_
+4	Ворошилов	_	_	_	_	3	flat:name	_	_
+5	кватитіс	_	_	_	_	_	_	_	_
+6	пулемётсӧ	_	_	_	_	5	obj	_	_
+7	дужкаӧдыс	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	гӧгыльтіс	_	_	_	_	_	_	_	_
+10	платформа	_	_	_	_	_	_	_	_
+11	помса	_	_	_	_	_	_	_	_
+12	канаваӧ	_	_	_	_	9	obl	_	_
+13	,	_	_	_	_	_	_	_	_
+14	дулосӧ	_	_	_	_	15	obj	_	_
+15	бергӧдіс	_	_	_	_	_	_	_	_
+16	овраглань	_	_	_	_	15	obl	_	_
+17	,	_	_	_	_	_	_	_	_
+18	правитіс	_	_	_	_	_	_	_	_
+19	лентасӧ	_	_	_	_	18	obj	_	_
+20	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.287
+# text = И вӧлі кад!..
+# ft_rus = И было пора!..
+1	И	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	кад	_	_	_	_	_	_	_	_
+4	!..	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.288
+# text = Воддза верзьӧмаясыс дзонь вӧв табунъясӧн, чукӧрӧн, шашкаяссӧ лэптӧмӧн лэбисны оврагсянь.
+# ft_rus = Передовые всадники целой конной толпой, лавой, с шашками наголо уже вылетели из оврага.
+1	Воддза	_	_	_	_	_	_	_	_
+2	верзьӧмаясыс	_	_	_	_	_	_	_	_
+3	дзонь	_	_	_	_	_	_	_	_
+4	вӧв	_	_	_	_	_	_	_	_
+5	табунъясӧн	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	чукӧрӧн	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	шашкаяссӧ	_	_	_	_	10	obj	_	_
+10	лэптӧмӧн	_	_	_	_	_	_	_	_
+11	лэбисны	_	_	_	_	_	_	_	_
+12	оврагсянь	_	_	_	_	11	obl	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.289
+# text = Туйыс на водзын беззащитнӧй станцияӧ вӧлі восьса.
+# ft_rus = Путь до беззащитной станции был перед ними открыт.
+1	Туйыс	_	_	_	_	_	_	_	_
+2	на	_	_	_	_	_	_	_	_
+3	водзын	_	_	_	_	_	_	_	_
+4	беззащитнӧй	_	_	_	_	_	_	_	_
+5	станцияӧ	_	_	_	_	_	_	_	_
+6	вӧлі	_	_	_	_	_	_	_	_
+7	восьса	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.290
+# text = Нӧшта минута — и найӧ лоӧны тані.
+# ft_rus = Еще минута — и они будут здесь.
+1	Нӧшта	_	_	_	_	_	_	_	_
+2	минута	_	_	_	_	_	_	_	_
+3	—	_	_	_	_	_	_	_	_
+4	и	_	_	_	_	_	_	_	_
+5	найӧ	_	_	_	_	_	_	_	_
+6	лоӧны	_	_	_	_	_	_	_	_
+7	тані	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.291
+# text = Но сійӧ жӧ здукнас чӧвлунсӧ торкис пулемётлӧн страшнӧя трачкӧм.
+# ft_rus = Но в тот же миг страшный сухой грохот пулеметной очереди прорезал тишину.
+1	Но	_	_	_	_	_	_	_	_
+2	сійӧ	_	_	_	_	_	_	_	_
+3	жӧ	_	_	_	_	_	_	_	_
+4	здукнас	_	_	_	_	_	_	_	_
+5	чӧвлунсӧ	_	_	_	_	6	obj	_	_
+6	торкис	_	_	_	_	_	_	_	_
+7	пулемётлӧн	_	_	_	_	_	_	_	_
+8	страшнӧя	_	_	_	_	_	_	_	_
+9	трачкӧм	_	_	_	_	6	nsubj	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.292
+# text = Командарм кужан киясӧн направитӧм пуляясыс стальнӧй, свинцовӧй веерӧн пырисны мунысь лаваӧ.
+# ft_rus = Направленные умелой рукой командарма, пули стальным, свинцовым веером врезались в несущуюся лаву.
+1	Командарм	_	_	_	_	_	_	_	_
+2	кужан	_	_	_	_	_	_	_	_
+3	киясӧн	_	_	_	_	_	_	_	_
+4	направитӧм	_	_	_	_	_	_	_	_
+5	пуляясыс	_	_	_	_	10	nsubj	_	_
+6	стальнӧй	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	свинцовӧй	_	_	_	_	_	_	_	_
+9	веерӧн	_	_	_	_	_	_	_	_
+10	пырисны	_	_	_	_	_	_	_	_
+11	мунысь	_	_	_	_	_	_	_	_
+12	лаваӧ	_	_	_	_	10	obl	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.293
+# text = Куимсё пуля минутаын.
+# ft_rus = Триста пуль в минуту.
+1	Куимсё	_	_	_	_	_	_	_	_
+2	пуля	_	_	_	_	_	_	_	_
+3	минутаын	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.294
+# text = Вит секундаын.
+# ft_rus = Пять в секунду.
+1	Вит	_	_	_	_	_	_	_	_
+2	секундаын	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.295
+# text = Аддзытӧм вернӧй смерть!
+# ft_rus = Невидимая верная смерть!
+1	Аддзытӧм	_	_	_	_	_	_	_	_
+2	вернӧй	_	_	_	_	_	_	_	_
+3	смерть	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.296
+# text = Белӧй конницаӧс быттьӧ орӧдіс вывті ыджыд бритва.
+# ft_rus = Белую конницу точно срезала огромная бритва.
+1	Белӧй	_	_	_	_	_	_	_	_
+2	конницаӧс	_	_	_	_	4	obj	_	_
+3	быттьӧ	_	_	_	_	_	_	_	_
+4	орӧдіс	_	_	_	_	_	_	_	_
+5	вывті	_	_	_	_	_	_	_	_
+6	ыджыд	_	_	_	_	_	_	_	_
+7	бритва	_	_	_	_	4	nsubj	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.297
+# text = Степыс овраг дінын пыр жӧ тупкысис ичӧтик сьӧд пятноясӧн — виӧмаясӧн, раненӧй йӧзӧн да вӧвъясӧн.
+# ft_rus = Степь у оврага сразу покрылась маленькими темными пятнами — убитыми, ранеными людьми и лошадьми.
+1	Степыс	_	_	_	_	6	nsubj	_	_
+2	овраг	_	_	_	_	_	_	_	_
+3	дінын	_	_	_	_	_	_	_	_
+4	пыр	_	_	_	_	_	_	_	_
+5	жӧ	_	_	_	_	_	_	_	_
+6	тупкысис	_	_	_	_	_	_	_	_
+7	ичӧтик	_	_	_	_	_	_	_	_
+8	сьӧд	_	_	_	_	_	_	_	_
+9	пятноясӧн	_	_	_	_	_	_	_	_
+10	—	_	_	_	_	_	_	_	_
+11	виӧмаясӧн	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	раненӧй	_	_	_	_	_	_	_	_
+14	йӧзӧн	_	_	_	_	_	_	_	_
+15	да	_	_	_	_	_	_	_	_
+16	вӧвъясӧн	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.298
+# text = Кӧнсюро сы кузя мунісны ылӧ, седлӧ дінас жмитчӧмӧн, ӧткымын верзьӧмаяс…
+# ft_rus = Кое-где по ней стремглав уносились в даль, низко прижавшись к седлам, отдельные всадники…
+1	Кӧнсюро	_	_	_	_	_	_	_	_
+2	сы	_	_	_	_	_	_	_	_
+3	кузя	_	_	_	_	_	_	_	_
+4	мунісны	_	_	_	_	_	_	_	_
+5	ылӧ	_	_	_	_	4	obl	_	_
+6	,	_	_	_	_	_	_	_	_
+7	седлӧ	_	_	_	_	_	_	_	_
+8	дінас	_	_	_	_	_	_	_	_
+9	жмитчӧмӧн	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ӧткымын	_	_	_	_	_	_	_	_
+12	верзьӧмаяс	_	_	_	_	_	_	_	_
+13	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.299
+# text = Быд боксянь ӧні Ворошилов дінӧ йӧз котӧртісны.
+# ft_rus = Со всех сторон к Ворошилову бежали теперь люди.
+1	Быд	_	_	_	_	_	_	_	_
+2	боксянь	_	_	_	_	7	obl	_	_
+3	ӧні	_	_	_	_	_	_	_	_
+4	Ворошилов	_	_	_	_	7	obl	_	_
+5	дінӧ	_	_	_	_	4	case	_	_
+6	йӧз	_	_	_	_	7	nsubj	_	_
+7	котӧртісны	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.300
+# text = Кытыськӧ кыскисны мӧд пулемёт.
+# ft_rus = Откуда-то тащили второй пулемет.
+1	Кытыськӧ	_	_	_	_	2	obl	_	_
+2	кыскисны	_	_	_	_	_	_	_	_
+3	мӧд	_	_	_	_	_	_	_	_
+4	пулемёт	_	_	_	_	2	obj	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.301
+# text = Но уджыс вӧлі вӧчӧма нин.
+# ft_rus = Но дело уже было сделано.
+1	Но	_	_	_	_	_	_	_	_
+2	уджыс	_	_	_	_	4	nsubj	_	_
+3	вӧлі	_	_	_	_	4	aux	_	_
+4	вӧчӧма	_	_	_	_	_	_	_	_
+5	нин	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.302
+# text = Тыш вӧлі выиграйтӧма.
+# ft_rus = Бой был выигран.
+1	Тыш	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	выиграйтӧма	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.303
+# text = Командуйтысь сувтіс пидзӧс вывсьыс, видзӧдліс врагъяслань да нюммуні.
+# ft_rus = Командующий поднялся с колен, посмотрел в сторону врага и улыбнулся.
+1	Командуйтысь	_	_	_	_	2	nsubj	_	_
+2	сувтіс	_	_	_	_	_	_	_	_
+3	пидзӧс	_	_	_	_	2	obl	_	_
+4	вывсьыс	_	_	_	_	3	case	_	_
+5	,	_	_	_	_	_	_	_	_
+6	видзӧдліс	_	_	_	_	_	_	_	_
+7	врагъяслань	_	_	_	_	6	obl	_	_
+8	да	_	_	_	_	_	_	_	_
+9	нюммуні	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.304
+# text = Но сэк жӧ плешкыс сылӧн чукыртчис.
+# ft_rus = Однако тотчас же лоб его нахмурился.
+1	Но	_	_	_	_	_	_	_	_
+2	сэк	_	_	_	_	_	_	_	_
+3	жӧ	_	_	_	_	_	_	_	_
+4	плешкыс	_	_	_	_	6	nsubj	_	_
+5	сылӧн	_	_	_	_	_	_	_	_
+6	чукыртчис	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.305
+# text = — Но вот! — шуис сійӧ.
+# ft_rus = — Ну вот! — сказал он.
+1	—	_	_	_	_	_	_	_	_
+2	Но	_	_	_	_	_	_	_	_
+3	вот	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	—	_	_	_	_	_	_	_	_
+6	шуис	_	_	_	_	_	_	_	_
+7	сійӧ	_	_	_	_	6	nsubj	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.306
+# text = — Тадзнад бурджык лоӧ.
+# ft_rus = — Так-то лучше будет.
+1	—	_	_	_	_	_	_	_	_
+2	Тадзнад	_	_	_	_	_	_	_	_
+3	бурджык	_	_	_	_	_	_	_	_
+4	лоӧ	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.307
+# text = Но кӧн жӧ вӧлі станциялӧн охрана?
+# ft_rus = Но где же все-таки была охрана станции?
+1	Но	_	_	_	_	_	_	_	_
+2	кӧн	_	_	_	_	_	_	_	_
+3	жӧ	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	_	_	_	_
+5	станциялӧн	_	_	_	_	_	_	_	_
+6	охрана	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.308
+# text = Тадз ӧмӧй охраняйтӧны?
+# ft_rus = Разве так охраняют?
+1	Тадз	_	_	_	_	_	_	_	_
+2	ӧмӧй	_	_	_	_	_	_	_	_
+3	охраняйтӧны	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.309
+# text = Товарищ начальник штаба, босьтчӧй тайӧ делӧас асьныд.
+# ft_rus = Товарищ начальник штаба, займитесь этим делом сами.
+1	Товарищ	_	_	_	_	_	_	_	_
+2	начальник	_	_	_	_	_	_	_	_
+3	штаба	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	босьтчӧй	_	_	_	_	_	_	_	_
+6	тайӧ	_	_	_	_	_	_	_	_
+7	делӧас	_	_	_	_	_	_	_	_
+8	асьныд	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.310
+# text = Колӧ бура видзӧдны.
+# ft_rus = Надо строго следить.
+1	Колӧ	_	_	_	_	_	_	_	_
+2	бура	_	_	_	_	_	_	_	_
+3	видзӧдны	_	_	_	_	1	xcomp	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.311
+# text = Найӧ вермасны лӧсьӧдчыны да бара лэбыштны.
+# ft_rus = Они могут оправиться и опять налететь.
+1	Найӧ	_	_	_	_	2	nsubj	_	_
+2	вермасны	_	_	_	_	_	_	_	_
+3	лӧсьӧдчыны	_	_	_	_	2	xcomp	_	_
+4	да	_	_	_	_	_	_	_	_
+5	бара	_	_	_	_	_	_	_	_
+6	лэбыштны	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.312
+# text = Ыстӧй ме дінӧ комендантӧс!…
+# ft_rus = Пошлите-ка ко мне коменданта!..
+1	Ыстӧй	_	_	_	_	_	_	_	v1
+2	ме	_	_	_	_	1	obl	_	_
+3	дінӧ	_	_	_	_	2	case	_	_
+4	комендантӧс	_	_	_	_	1	obj	_	_
+5	!…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.313
+# text = Сійӧ пыркнитіс пидзӧссьыс лыасӧ, шыбытіс мыш вылас карабин да бара муніс вагонас.
+# ft_rus = Он стряхнул с колен песок, закинул за спину карабин и снова пошел в вагон.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	пыркнитіс	_	_	_	_	_	_	_	_
+3	пидзӧссьыс	_	_	_	_	_	_	_	_
+4	лыасӧ	_	_	_	_	2	obj	_	_
+5	,	_	_	_	_	_	_	_	_
+6	шыбытіс	_	_	_	_	_	_	_	_
+7	мыш	_	_	_	_	6	obl	_	_
+8	вылас	_	_	_	_	7	case	_	_
+9	карабин	_	_	_	_	6	obj	_	_
+10	да	_	_	_	_	_	_	_	_
+11	бара	_	_	_	_	_	_	_	_
+12	муніс	_	_	_	_	_	_	_	_
+13	вагонас	_	_	_	_	12	obl	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.314
+# text = — Ёртъяс, пожалуйста ме дінӧ!
+# ft_rus = — Товарищи, пожалуйте ко мне!
+1	—	_	_	_	_	_	_	_	_
+2	Ёртъяс	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	пожалуйста	_	_	_	_	_	_	_	_
+5	ме	_	_	_	_	_	_	_	_
+6	дінӧ	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.315
+# text = Совещание эз на помась…
+# ft_rus = Совещание еще не кончилось…﻿
+1	Совещание	_	_	_	_	4	nsubj	_	_
+2	эз	_	_	_	_	4	aux	_	_
+3	на	_	_	_	_	_	_	_	_
+4	помась	_	_	_	_	_	_	_	_
+5	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.316
+# text = ЮРСИ ЙЫЛЫН
+# ft_rus = НА ВОЛОСКЕ
+1	ЮРСИ	_	_	_	_	_	_	_	_
+2	ЙЫЛЫН	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.317
+# text = Белӧйяскӧд война вӧлі помассьӧ.
+# ft_rus = Война с белыми подходила к концу.
+1	Белӧйяскӧд	_	_	_	_	_	_	_	_
+2	война	_	_	_	_	4	nsubj	_	_
+3	вӧлі	_	_	_	_	4	aux	_	_
+4	помассьӧ	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.318
+# text = Сӧветскӧй страна помалӧ вӧлі ассьыс медбӧръя страшнӧй врагсӧ — барон Врангельӧс.
+# ft_rus = Советская страна добивала одного из последних своих ’ страшных врагов — барона Врангеля.
+1	Сӧветскӧй	_	_	_	_	_	_	_	_
+2	страна	_	_	_	_	3	nsubj	_	_
+3	помалӧ	_	_	_	_	_	_	_	_
+4	вӧлі	_	_	_	_	3	aux	_	_
+5	ассьыс	_	_	_	_	_	_	_	_
+6	медбӧръя	_	_	_	_	_	_	_	_
+7	страшнӧй	_	_	_	_	_	_	_	_
+8	врагсӧ	_	_	_	_	3	obj	_	_
+9	—	_	_	_	_	_	_	_	_
+10	барон	_	_	_	_	_	_	_	_
+11	Врангельӧс	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.319
+# text = Первой Коннӧй армияса Будённовскӧй отрядъяс, противник бӧрся, мунігӧн, босьтісны Отрада селение.
+# ft_rus = Отряды Буденновской Первой Конной армии, идя по пятам за противником, заняли селение Отраду.
+1	Первой	_	_	_	_	_	_	_	_
+2	Коннӧй	_	_	_	_	_	_	_	_
+3	армияса	_	_	_	_	_	_	_	_
+4	Будённовскӧй	_	_	_	_	_	_	_	_
+5	отрядъяс	_	_	_	_	12	nsubj	_	_
+6	,	_	_	_	_	_	_	_	_
+7	противник	_	_	_	_	_	_	_	_
+8	бӧрся	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	мунігӧн	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	босьтісны	_	_	_	_	_	_	_	_
+13	Отрада	_	_	_	_	_	_	_	_
+14	селение	_	_	_	_	12	obj	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.320
+# text = Враг отступитіс.
+# ft_rus = Враг отступил.
+1	Враг	_	_	_	_	2	nsubj	_	_
+2	отступитіс	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.321
+# text = Асывнас Коннӧй командиръяс, Ворошилов да Будённый веськӧдлӧм улын, делӧяс видлавны чукӧртчисны сиктса ӧти керкаӧ.
+# ft_rus = Утром командиры Конной, во главе с Ворошиловым и Буденным, собрались обсудить дела в одной из деревенских изб.
+1	Асывнас	_	_	_	_	_	_	_	_
+2	Коннӧй	_	_	_	_	_	_	_	_
+3	командиръяс	_	_	_	_	13	nsubj	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Ворошилов	_	_	_	_	_	_	_	_
+6	да	_	_	_	_	_	_	_	_
+7	Будённый	_	_	_	_	_	_	_	_
+8	веськӧдлӧм	_	_	_	_	_	_	_	_
+9	улын	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	делӧяс	_	_	_	_	12	obj	_	_
+12	видлавны	_	_	_	_	13	xcomp	_	_
+13	чукӧртчисны	_	_	_	_	_	_	_	_
+14	сиктса	_	_	_	_	_	_	_	_
+15	ӧти	_	_	_	_	_	_	_	_
+16	керкаӧ	_	_	_	_	13	obl	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.322
+# text = Друг ортсысяньыс кылісны горзӧмъяс, винтовкаысь лыйсьӧм, трачкӧдчӧм.
+# ft_rus = Вдруг снаружи послышались крики, винтовочная стрельба, топот.
+1	Друг	_	_	_	_	_	_	_	_
+2	ортсысяньыс	_	_	_	_	_	_	_	_
+3	кылісны	_	_	_	_	_	_	_	_
+4	горзӧмъяс	_	_	_	_	3	nsubj	_	_
+5	,	_	_	_	_	_	_	_	_
+6	винтовкаысь	_	_	_	_	_	_	_	_
+7	лыйсьӧм	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	трачкӧдчӧм	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.323
+# text = Ставыс уськӧдчисны кильчӧ вылӧ.
+# ft_rus = Все выскочили на крыльцо.
+1	Ставыс	_	_	_	_	2	nsubj	_	_
+2	уськӧдчисны	_	_	_	_	_	_	_	_
+3	кильчӧ	_	_	_	_	2	obl	_	_
+4	вылӧ	_	_	_	_	3	case	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.324
+# text = Сиктса паськыд главнӧй уличаыс вӧлі тыртӧм.
+# ft_rus = Широкая главная улица деревни была пуста.
+1	Сиктса	_	_	_	_	_	_	_	_
+2	паськыд	_	_	_	_	_	_	_	_
+3	главнӧй	_	_	_	_	_	_	_	_
+4	уличаыс	_	_	_	_	_	_	_	_
+5	вӧлі	_	_	_	_	_	_	_	_
+6	тыртӧм	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.325
+# text = Сӧмын сэні, сійӧ помын ылын, вуджрасисны верзьӧмаяс, муніс отчаяннӧй лыйсьӧм.
+# ft_rus = Только там, далеко в ее конце, мелькали верховые, шла отчаянная стрельба.
+1	Сӧмын	_	_	_	_	_	_	_	_
+2	сэні	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	сійӧ	_	_	_	_	_	_	_	_
+5	помын	_	_	_	_	_	_	_	_
+6	ылын	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	вуджрасисны	_	_	_	_	_	_	_	_
+9	верзьӧмаяс	_	_	_	_	8	nsubj	_	_
+10	,	_	_	_	_	_	_	_	_
+11	муніс	_	_	_	_	_	_	_	_
+12	отчаяннӧй	_	_	_	_	_	_	_	_
+13	лыйсьӧм	_	_	_	_	11	nsubj	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.326
+# text = Вермас лоны, белӧй кавалеристъяс тӧдлытӧг пырисны миян войска линия пыр.
+# ft_rus = Должно быть, белые кавалеристы внезапно прорвались сквозь линию наших войск.
+1	Вермас	_	_	_	_	_	_	_	_
+2	лоны	_	_	_	_	1	xcomp	_	_
+3	,	_	_	_	_	_	_	_	_
+4	белӧй	_	_	_	_	_	_	_	_
+5	кавалеристъяс	_	_	_	_	7	nsubj	_	_
+6	тӧдлытӧг	_	_	_	VerbForm=Conv	7	advcl	_	_
+7	пырисны	_	_	_	_	_	_	_	_
+8	миян	_	_	_	_	_	_	_	_
+9	войска	_	_	_	_	_	_	_	_
+10	линия	_	_	_	_	7	obl	_	_
+11	пыр	_	_	_	_	10	case	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.327
+# text = Но унаӧн-ӧ найӧ — этша или уна.
+# ft_rus = Но сколько их — мало или много?
+1	Но	_	_	_	_	_	_	_	_
+2	унаӧн-ӧ	_	_	_	_	_	_	_	_
+3	найӧ	_	_	_	_	_	_	_	_
+4	—	_	_	_	_	_	_	_	_
+5	этша	_	_	_	_	_	_	_	_
+6	или	_	_	_	_	_	_	_	_
+7	уна	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.328
+# text = Кӧнӧсь найӧ — ставыс сэні?
+# ft_rus = Где они — все тут?
+1	Кӧнӧсь	_	_	_	_	_	_	_	_
+2	найӧ	_	_	_	_	_	_	_	_
+3	—	_	_	_	_	_	_	_	_
+4	ставыс	_	_	_	_	_	_	_	_
+5	сэні	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.329
+# text = Или сикт сайын виччысьӧны найӧс мукӧдъяс?
+# ft_rus = Или за деревней ждут их другие?
+1	Или	_	_	_	_	_	_	_	_
+2	сикт	_	_	_	_	_	_	_	_
+3	сайын	_	_	_	_	_	_	_	_
+4	виччысьӧны	_	_	_	_	_	_	_	_
+5	найӧс	_	_	_	_	4	obj	_	_
+6	мукӧдъяс	_	_	_	_	4	nsubj	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.330
+# text = Дінаныс йӧзыс вӧлі этша, кутшӧмкӧ кызь-комын морт.
+# ft_rus = Под руками было немного людей, каких-нибудь два-три десятка.
+1	Дінаныс	_	_	_	_	_	_	_	_
+2	йӧзыс	_	_	_	_	_	_	_	_
+3	вӧлі	_	_	_	_	_	_	_	_
+4	этша	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	кутшӧмкӧ	_	_	_	_	_	_	_	_
+7	кызь-комын	_	_	_	_	_	_	_	_
+8	морт	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.331
+# text = Будённый чеччыштіс вӧв вылӧ да став тайӧ йӧзыскӧд муніс разведкаӧ.
+# ft_rus = Буденный вскочил на коня и со всеми этими лго.цьми кинулся на разведку.
+1	Будённый	_	_	_	_	2	nsubj	_	_
+2	чеччыштіс	_	_	_	_	_	_	_	_
+3	вӧв	_	_	_	_	2	obl	_	_
+4	вылӧ	_	_	_	_	3	case	_	_
+5	да	_	_	_	_	_	_	_	_
+6	став	_	_	_	_	_	_	_	_
+7	тайӧ	_	_	_	_	_	_	_	_
+8	йӧзыскӧд	_	_	_	_	_	_	_	_
+9	муніс	_	_	_	_	_	_	_	_
+10	разведкаӧ	_	_	_	_	9	obl	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.332
+# text = Эз главнӧй уличаӧдыс, а бокитіыс, градйӧръясӧд — кытшӧмӧн.
+# ft_rus = Не главной улицей, а задворками, огородами—в обход.
+1	Эз	_	_	_	_	_	_	_	_
+2	главнӧй	_	_	_	_	_	_	_	_
+3	уличаӧдыс	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	а	_	_	_	_	_	_	_	_
+6	бокитіыс	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	градйӧръясӧд	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	кытшӧмӧн	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.333
+# text = Реввоенсоветса член Ворошилов эз жӧ кольччы штабӧ.
+# ft_rus = Член Реввоенсовета Ворошилов тоже не остался в штабе.
+1	Реввоенсоветса	_	_	_	_	_	_	_	_
+2	член	_	_	_	_	_	_	_	_
+3	Ворошилов	_	_	_	_	6	nsubj	_	_
+4	эз	_	_	_	_	6	aux	_	_
+5	жӧ	_	_	_	_	_	_	_	_
+6	кольччы	_	_	_	_	_	_	_	v1
+7	штабӧ	_	_	_	_	6	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.334
+# text = Ӧтнас, охранатӧг, сійӧ зэв ӧдйӧ скачитіс сикт кузя сэтчӧ, кӧні муніс лыйсьӧмыс.
+# ft_rus = Один, без всякой охраны, он во весь опор поскакал прямо по деревне туда, где шла перестрелка.﻿'.
+1	Ӧтнас	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	охранатӧг	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	сійӧ	_	_	_	_	8	nsubj	_	_
+6	зэв	_	_	_	_	_	_	_	_
+7	ӧдйӧ	_	_	_	_	_	_	_	_
+8	скачитіс	_	_	_	_	_	_	_	v1
+9	сикт	_	_	_	_	_	_	_	_
+10	кузя	_	_	_	_	_	_	_	_
+11	сэтчӧ	_	_	_	_	8	obl	_	_
+12	,	_	_	_	_	_	_	_	_
+13	кӧні	_	_	_	_	_	_	_	_
+14	муніс	_	_	_	_	_	_	_	v2
+15	лыйсьӧмыс	_	_	_	_	14	nsubj	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.335
+# text = И друг дзик виччысьтӧг, джын туяс штаб керка да сійӧ местасяньыс, кӧні тышкасисны, бокса переулоксяньыс сылань уськӧдчис дзонь верзьӧма эскадрон.
+# ft_rus = И вдруг совершенно неожиданно, на полдороге между штабной избой и тем местом, где дрались, наперерез ему вылетел из бокового переулка целый эскадрон всадников.
+1	И	_	_	_	_	_	_	_	_
+2	друг	_	_	_	_	_	_	_	_
+3	дзик	_	_	_	_	_	_	_	_
+4	виччысьтӧг	_	_	_	VerbForm=Conv	20	advcl	_	_
+5	,	_	_	_	_	_	_	_	_
+6	джын	_	_	_	_	_	_	_	_
+7	туяс	_	_	_	_	_	_	_	_
+8	штаб	_	_	_	_	_	_	_	_
+9	керка	_	_	_	_	_	_	_	_
+10	да	_	_	_	_	_	_	_	_
+11	сійӧ	_	_	_	_	_	_	_	_
+12	местасяньыс	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	кӧні	_	_	_	_	_	_	_	_
+15	тышкасисны	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	бокса	_	_	_	_	_	_	_	_
+18	переулоксяньыс	_	_	_	_	20	obl	_	_
+19	сылань	_	_	_	_	20	obl	_	_
+20	уськӧдчис	_	_	_	_	_	_	_	_
+21	дзонь	_	_	_	_	_	_	_	_
+22	верзьӧма	_	_	_	_	_	_	_	_
+23	эскадрон	_	_	_	_	20	nsubj	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.336
+# text = Будённый?
+# ft_rus = Буденный?
+1	Будённый	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.337
+# text = Абу.
+# ft_rus = Нет.
+1	Абу	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.338
+# text = Белӧйяс!
+# ft_rus = Белые!
+1	Белӧйяс	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.339
+# text = Врангелевецъяс!
+# ft_rus = Врангелевцы!
+1	Врангелевецъяс	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.340
+# text = Став ӧднас мунігӧн дзик пыр вӧлӧс сувтӧдны оз вӧлі позь.
+# ft_rus = Сдержать сразу коня на всем скаку было невозможно.
+1	Став	_	_	_	_	_	_	_	_
+2	ӧднас	_	_	_	_	_	_	_	_
+3	мунігӧн	_	_	_	_	_	_	_	_
+4	дзик	_	_	_	_	_	_	_	_
+5	пыр	_	_	_	_	_	_	_	_
+6	вӧлӧс	_	_	_	_	7	obj	_	_
+7	сувтӧдны	_	_	_	_	10	xcomp	_	_
+8	оз	_	_	_	_	10	aux	_	_
+9	вӧлі	_	_	_	_	10	aux	_	_
+10	позь	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.341
+# text = Ӧддзӧдчӧм йывсьыс сійӧ пырис веськыда врагъяс чукӧрӧ.
+# ft_rus = С разгону он врезался в самую гущу врагов.
+1	Ӧддзӧдчӧм	_	_	_	_	_	_	_	_
+2	йывсьыс	_	_	_	_	4	obl	_	_
+3	сійӧ	_	_	_	_	4	nsubj	_	_
+4	пырис	_	_	_	_	_	_	_	_
+5	веськыда	_	_	_	_	_	_	_	_
+6	врагъяс	_	_	_	_	_	_	_	_
+7	чукӧрӧ	_	_	_	_	4	obl	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.342
+# text = Кисьыс перчаткисӧ нетшыштіг, кӧсйис кватитны револьверсӧ…
+# ft_rus = Срывая с рук перчатки, Клим Ворошилов хотел схватиться за револьвер…
+1	Кисьыс	_	_	_	_	3	obl	_	_
+2	перчаткисӧ	_	_	_	_	3	obj	_	_
+3	нетшыштіг	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	кӧсйис	_	_	_	_	_	_	_	_
+6	кватитны	_	_	_	_	5	xcomp	_	_
+7	револьверсӧ	_	_	_	_	6	obj	_	_
+8	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.343
+# text = Он удит, сёр нин.
+# ft_rus = Нет, поздно, не успеть.
+1	Он	_	_	_	_	2	aux	_	_
+2	удит	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	сёр	_	_	_	_	_	_	_	_
+5	нин	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.344
+# text = Ас боксьыс аддзӧ нин врангелецлысь жергӧдӧм пиньяса, былялӧм синъяса чужӧмсӧ.
+# ft_rus = С боку от себя он уже видит оскалившееся, с выпученными глазами лицо врангелевца.
+1	Ас	_	_	_	_	_	_	_	_
+2	боксьыс	_	_	_	_	3	obl	_	_
+3	аддзӧ	_	_	_	_	_	_	_	_
+4	нин	_	_	_	_	_	_	_	_
+5	врангелецлысь	_	_	_	_	_	_	_	_
+6	жергӧдӧм	_	_	_	_	_	_	_	_
+7	пиньяса	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	былялӧм	_	_	_	_	_	_	_	_
+10	синъяса	_	_	_	_	_	_	_	_
+11	чужӧмсӧ	_	_	_	_	3	obj	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.345
+# text = Пикаӧн казак уськӧдчӧ Ворошилов вылӧ.
+# ft_rus = С пикой наперевес казак бросается на Ворошилова.
+1	Пикаӧн	_	_	_	_	_	_	_	_
+2	казак	_	_	_	_	3	nsubj	_	_
+3	уськӧдчӧ	_	_	_	_	_	_	_	_
+4	Ворошилов	_	_	_	_	3	obl	_	_
+5	вылӧ	_	_	_	_	4	case	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.346
+# text = Револьвер!
+# ft_rus = Револьвер!
+1	Револьвер	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.347
+# text = Ӧдйӧнджык револьвер!
+# ft_rus = Скорей револьвер!
+1	Ӧдйӧнджык	_	_	_	_	_	_	_	_
+2	револьвер	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.348
+# text = Наган!
+# ft_rus = Наган!
+1	Наган	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.349
+# text = Ворошилов веськыд кинас кутчысис кабур дінас, шуйганас дернитіс поводсӧ.
+# ft_rus = Правой рукой Ворошилов схватился за кобуру, левой натянул повод.
+1	Ворошилов	_	_	_	_	4	nsubj	_	_
+2	веськыд	_	_	_	_	_	_	_	_
+3	кинас	_	_	_	_	_	_	_	_
+4	кутчысис	_	_	_	_	_	_	_	_
+5	кабур	_	_	_	_	4	obl	_	_
+6	дінас	_	_	_	_	5	case	_	_
+7	,	_	_	_	_	_	_	_	_
+8	шуйганас	_	_	_	_	_	_	_	_
+9	дернитіс	_	_	_	_	_	_	_	_
+10	поводсӧ	_	_	_	_	9	obj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.350
+# text = Важся ёрт, боевӧй вӧв, пыр жӧ гӧгӧрвоис команда.
+# ft_rus = Старый товарищ, боевой конь, сразу понял команду.
+1	Важся	_	_	_	_	_	_	_	_
+2	ёрт	_	_	_	_	9	nsubj	_	_
+3	,	_	_	_	_	_	_	_	_
+4	боевӧй	_	_	_	_	_	_	_	_
+5	вӧв	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	пыр	_	_	_	_	_	_	_	_
+8	жӧ	_	_	_	_	_	_	_	_
+9	гӧгӧрвоис	_	_	_	_	_	_	_	v1
+10	команда	_	_	_	_	9	obj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.351
+# text = Гыжъяснас да пиньяснас встретитіс сійӧ врагӧс, торкис сылысь лӧсьӧдӧм кучкӧмсӧ.
+# ft_rus = Зубами и копытами встретил он врага, помешал ему нанести намеченный удар.
+1	Гыжъяснас	_	_	_	_	_	_	_	_
+2	да	_	_	_	_	_	_	_	_
+3	пиньяснас	_	_	_	_	_	_	_	_
+4	встретитіс	_	_	_	_	_	_	_	_
+5	сійӧ	_	_	_	_	4	nsubj	_	_
+6	врагӧс	_	_	_	_	4	obj	_	_
+7	,	_	_	_	_	_	_	_	_
+8	торкис	_	_	_	_	_	_	_	_
+9	сылысь	_	_	_	_	_	_	_	_
+10	лӧсьӧдӧм	_	_	_	_	_	_	_	_
+11	кучкӧмсӧ	_	_	_	_	8	obj	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.352
+# text = — А-а-а! Ах!
+# ft_rus = — А-а-а! Ах!
+1	—	_	_	_	_	_	_	_	_
+2	А-а-а	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	Ах	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.353
+# text = Ӧддзӧм вывсьыс пикаыс писькӧдіс Ворошиловлысь буркасӧ, чуть эз инмы телӧас, но дзугсис складкаясас.
+# ft_rus = Пика с размаху пробивает широкую Ворошиловскую бурку, проходит на волосок от тела, но запутывается в складках.
+1	Ӧддзӧм	_	_	_	_	_	_	_	_
+2	вывсьыс	_	_	_	_	_	_	_	_
+3	пикаыс	_	_	_	_	4	nsubj	_	_
+4	писькӧдіс	_	_	_	_	_	_	_	v1
+5	Ворошиловлысь	_	_	_	_	_	_	_	_
+6	буркасӧ	_	_	_	_	4	obj	_	_
+7	,	_	_	_	_	_	_	_	_
+8	чуть	_	_	_	_	_	_	_	_
+9	эз	_	_	_	_	10	aux	_	_
+10	инмы	_	_	_	_	_	_	_	_
+11	телӧас	_	_	_	_	10	obl	_	_
+12	,	_	_	_	_	_	_	_	_
+13	но	_	_	_	_	_	_	_	_
+14	дзугсис	_	_	_	_	_	_	_	_
+15	складкаясас	_	_	_	_	14	obl	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.354
+# text = Кыкнан вӧлыс гӧгралісны, йӧктісны места выланыс, прускайтісны, гырдмӧм синъяснаныс скӧра видзӧдігтыр.
+# ft_rus = Оба коня закружились, заплясали на месте бок о бок, храпя, злобно закатывая налитые кровью глаза.
+1	Кыкнан	_	_	_	_	_	_	_	_
+2	вӧлыс	_	_	_	_	3	nsubj	_	_
+3	гӧгралісны	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	йӧктісны	_	_	_	_	_	_	_	_
+6	места	_	_	_	_	5	obl	_	_
+7	выланыс	_	_	_	_	6	case	_	_
+8	,	_	_	_	_	_	_	_	_
+9	прускайтісны	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	гырдмӧм	_	_	_	_	_	_	_	_
+12	синъяснаныс	_	_	_	_	14	obl	_	_
+13	скӧра	_	_	_	_	_	_	_	_
+14	видзӧдігтыр	_	_	_	_	9	advcl	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.355
+# text = Врангелевенлӧн вежиньтӧма чужӧмыс дзик нин матын…
+# ft_rus = Перекошенное лицо врангелевца совсем близко…
+1	Врангелевенлӧн	_	_	_	_	_	_	_	_
+2	вежиньтӧма	_	_	_	_	_	_	_	_
+3	чужӧмыс	_	_	_	_	_	_	_	_
+4	дзик	_	_	_	_	_	_	_	_
+5	нин	_	_	_	_	_	_	_	_
+6	матын	_	_	_	_	_	_	_	_
+7	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.356
+# text = Сійӧ мыйкӧ киргӧмӧн горзӧ, броткӧ…
+# ft_rus = Он что-то хрипло кричит, бормочет…
+1	Сійӧ	_	_	_	_	4	nsubj	_	_
+2	мыйкӧ	_	_	_	_	_	_	_	_
+3	киргӧмӧн	_	_	_	_	_	_	_	_
+4	горзӧ	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	броткӧ	_	_	_	_	_	_	_	_
+7	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.357
+# text = Бӧрвыв нетшкӧ буркаӧ сибдӧм пикасӧ…
+# ft_rus = Рвет назад застрявшую в бурке пику…
+1	Бӧрвыв	_	_	_	_	_	_	_	_
+2	нетшкӧ	_	_	_	_	_	_	_	v1
+3	буркаӧ	_	_	_	_	4	obl	_	_
+4	сибдӧм	_	_	_	_	_	_	_	_
+5	пикасӧ	_	_	_	_	4	obj	_	_
+6	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.358
+# text = Наган, ӧдйӧнджык наган!…
+# ft_rus = Наган, скорее наган!..
+1	Наган	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ӧдйӧнджык	_	_	_	_	_	_	_	_
+4	наган	_	_	_	_	_	_	_	_
+5	!…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.359
+# text = Ворошилов кватитіс револьвер, чургӧдіс кисӧ.
+# ft_rus = Ворошилов выхватил револьвер, вскинул руку…
+1	Ворошилов	_	_	_	_	2	nsubj	_	_
+2	кватитіс	_	_	_	_	_	_	_	v1
+3	револьвер	_	_	_	_	2	obj	_	_
+4	,	_	_	_	_	_	_	_	_
+5	чургӧдіс	_	_	_	_	_	_	_	v2
+6	кисӧ	_	_	_	_	5	obj	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.360
+# text = Но тайӧ здукын друг кылӧ гора "ура".
+# ft_rus = Но в этот миг вдруг слышится громкое „ура“.
+1	Но	_	_	_	_	_	_	_	_
+2	тайӧ	_	_	_	_	_	_	_	_
+3	здукын	_	_	_	_	_	_	_	_
+4	друг	_	_	_	_	_	_	_	_
+5	кылӧ	_	_	_	_	_	_	_	v1
+6	гора	_	_	_	_	_	_	_	_
+7	""""	_	_	_	_	_	_	_	_
+8	ура	_	_	_	_	5	nsubj	_	_
+9	""""	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.361
+# text = Улича вылӧ бокысса переулоксянь петӧны будённовецъяс.
+# ft_rus = На улицу из боковых переулков вылетают буденновцы.
+1	Улича	_	_	_	_	5	obl	_	_
+2	вылӧ	_	_	_	_	1	case	_	_
+3	бокысса	_	_	_	_	_	_	_	_
+4	переулоксянь	_	_	_	_	5	obl	_	_
+5	петӧны	_	_	_	_	_	_	_	v1
+6	будённовецъяс	_	_	_	_	5	nsubj	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.362
+# text = Секунда — и белӧйяс абуӧсь нин.
+# ft_rus = Секунда — и белых нет уже и в помине.
+1	Секунда	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	и	_	_	_	_	_	_	_	_
+4	белӧйяс	_	_	_	_	_	_	_	_
+5	абуӧсь	_	_	_	_	_	_	_	_
+6	нин	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.363
+# text = Сьӧкыда лолалысь, скӧрмӧм боецъяс уськӧдчисны найӧс вӧтӧдны.
+# ft_rus = Тяжело дышащие, разгоряченные бойцы кидаются им вдогонку.
+1	Сьӧкыда	_	_	_	_	_	_	_	_
+2	лолалысь	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	скӧрмӧм	_	_	_	_	_	_	_	_
+5	боецъяс	_	_	_	_	6	nsubj	_	_
+6	уськӧдчисны	_	_	_	_	_	_	_	v1
+7	найӧс	_	_	_	_	8	obj	_	_
+8	вӧтӧдны	_	_	_	_	6	xcomp	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.364
+# text = Мукӧдъяс кытшалӧны топыд кругӧн ассьыныс командирсӧ.
+# ft_rus = Другие окружают тесным кольцом своего командира.
+1	Мукӧдъяс	_	_	_	_	2	nsubj	_	_
+2	кытшалӧны	_	_	_	_	_	_	_	v1
+3	топыд	_	_	_	_	_	_	_	_
+4	кругӧн	_	_	_	_	_	_	_	_
+5	ассьыныс	_	_	_	_	_	_	_	_
+6	командирсӧ	_	_	_	_	2	obj	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.365
+# text = Уна кияс чургӧлчисны сылань: видлыны, тӧдмавны — ранитчӧма или абу.
+# ft_rus = Десятки рук тянутся к нему: ощупать, узнать — не ранен ли.
+1	Уна	_	_	_	_	_	_	_	_
+2	кияс	_	_	_	_	3	nsubj	_	_
+3	чургӧлчисны	_	_	_	_	_	_	_	v1
+4	сылань	_	_	_	_	3	obl	_	_
+5	:	_	_	_	_	_	_	_	_
+6	видлыны	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	тӧдмавны	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	ранитчӧма	_	_	_	_	_	_	_	_
+11	или	_	_	_	_	_	_	_	_
+12	абу	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.366
+# text = Дас синъяс тревогаӧн да радпырысь видзӧдӧны сы чужӧм вылӧ.
+# ft_rus = Десятки глаз с тревогой и радостью смотрят ему в лицо.
+1	Дас	_	_	_	_	_	_	_	_
+2	синъяс	_	_	_	_	6	nsubj	_	_
+3	тревогаӧн	_	_	_	_	_	_	_	_
+4	да	_	_	_	_	_	_	_	_
+5	радпырысь	_	_	_	_	_	_	_	_
+6	видзӧдӧны	_	_	_	_	_	_	_	v1
+7	сы	_	_	_	_	_	_	_	_
+8	чужӧм	_	_	_	_	6	obl	_	_
+9	вылӧ	_	_	_	_	8	case	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.367
+# text = Ловъя?
+# ft_rus = Жив?
+1	Ловъя	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.368
+# text = Дзоньвидза?
+# ft_rus = Цел?
+1	Дзоньвидза	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.369
+# text = Абу ранитчӧма?
+# ft_rus = Не ранен?
+1	Абу	_	_	_	_	_	_	_	_
+2	ранитчӧма	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.370
+# text = — Но кыдз, Климент Ефремович?
+# ft_rus = Ну как, Климент Ефремович?
+1	—	_	_	_	_	_	_	_	_
+2	Но	_	_	_	_	_	_	_	_
+3	кыдз	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Климент	_	_	_	_	_	_	_	_
+6	Ефремович	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.371
+# text = Кыдзнӧ ті тайӧ?
+# ft_rus = Как же это вы?
+1	Кыдзнӧ	_	_	_	_	_	_	_	_
+2	ті	_	_	_	_	_	_	_	_
+3	тайӧ	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.372
+# text = А Климент Ефремович ӧдва кыскӧ врагӧн кольӧм пикасӧ бурка складкасьыс, кытчӧ сійӧ вӧлі дзугсьӧма.
+# ft_rus = А Климент Ефремович с трудом вынимает оставленную врагом пику из складок бурки, в которой она запуталась.
+1	А	_	_	_	_	_	_	_	_
+2	Климент	_	_	_	_	5	nsubj	_	_
+3	Ефремович	_	_	_	_	_	_	_	_
+4	ӧдва	_	_	_	_	_	_	_	_
+5	кыскӧ	_	_	_	_	_	_	_	v1
+6	врагӧн	_	_	_	_	_	_	_	_
+7	кольӧм	_	_	_	_	_	_	_	_
+8	пикасӧ	_	_	_	_	5	obj	_	_
+9	бурка	_	_	_	_	_	_	_	_
+10	складкасьыс	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	кытчӧ	_	_	_	_	15	obl	_	_
+13	сійӧ	_	_	_	_	15	nsubj	_	_
+14	вӧлі	_	_	_	_	15	aux	_	_
+15	дзугсьӧма	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.373
+# text = Сійӧ чышкалӧ плешсьыс пӧсьсӧ.
+# ft_rus = Он вытирает пот со лба.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	чышкалӧ	_	_	_	_	_	_	_	v1
+3	плешсьыс	_	_	_	_	_	_	_	_
+4	пӧсьсӧ	_	_	_	_	2	obj	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.374
+# text = Сійӧ нюмъялӧ ёртъясыслы…
+# ft_rus = Он улыбается товарищам…
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	нюмъялӧ	_	_	_	_	_	_	_	v1
+3	ёртъясыслы	_	_	_	_	2	obl	_	_
+4	…	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.375
+# text = — Нинӧм, нинӧм, ребята! — шуӧ сійӧ.
+# ft_rus = — Ничего, ничего, ребятки! — говорит он,
+1	—	_	_	_	_	_	_	_	_
+2	Нинӧм	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	нинӧм	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ребята	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	—	_	_	_	_	_	_	_	_
+9	шуӧ	_	_	_	_	_	_	_	_
+10	сійӧ	_	_	_	_	9	nsubj	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.376
+# text = — Нинӧм, спокойнӧя!
+# ft_rus = — Ничего, спокойно!
+1	—	_	_	_	_	_	_	_	_
+2	Нинӧм	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	спокойнӧя	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.377
+# text = Воюйтам на нӧшта!
+# ft_rus = Еще повоюем!
+1	Воюйтам	_	_	_	_	_	_	_	_
+2	на	_	_	_	_	_	_	_	_
+3	нӧшта	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.378
+# text = Тадзн вӧлі уна во сайын.
+# ft_rus = Так было много лет тому назад.
+1	Тадзн	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	уна	_	_	_	_	_	_	_	_
+4	во	_	_	_	_	_	_	_	_
+5	сайын	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.379
+# text = Тадзи вӧлі.
+# ft_rus = Так было.
+1	Тадзи	_	_	_	_	_	_	_	_
+2	вӧлі	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.380
+# text = А ӧні, кор Оборона кузя Нарком дінті прӧйдитӧны Май Первой лунӧ миян великӧй армияса частьяс, быд боец, медся пӧрысьсяньыс медся томӧдзыс, тӧдса ён фигура вылӧ видзӧдӧмӧн, коді спокойнӧя пукалӧ седлӧ вылын, думайтӧны:
+# ft_rus = А теперь, когда мимо Наркома Обороны проходят Первого мая части нашей великой армии, каждый боец, от самого старого до самого молодого, глядя на крепкую знакомую фигуру вождя, спокойно сидящего в седле, думает:
+1	А	_	_	_	_	_	_	_	_
+2	ӧні	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	кор	_	_	_	_	_	_	_	_
+5	Оборона	_	_	_	_	_	_	_	_
+6	кузя	_	_	_	_	_	_	_	_
+7	Нарком	_	_	_	_	_	_	_	_
+8	дінті	_	_	_	_	_	_	_	_
+9	прӧйдитӧны	_	_	_	_	_	_	_	_
+10	Май	_	_	_	_	_	_	_	_
+11	Первой	_	_	_	_	_	_	_	_
+12	лунӧ	_	_	_	_	_	_	_	_
+13	миян	_	_	_	_	_	_	_	_
+14	великӧй	_	_	_	_	_	_	_	_
+15	армияса	_	_	_	_	_	_	_	_
+16	частьяс	_	_	_	_	9	nsubj	_	_
+17	,	_	_	_	_	_	_	_	_
+18	быд	_	_	_	_	_	_	_	_
+19	боец	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	медся	_	_	_	_	_	_	_	_
+22	пӧрысьсяньыс	_	_	_	_	_	_	_	_
+23	медся	_	_	_	_	_	_	_	_
+24	томӧдзыс	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	тӧдса	_	_	_	_	_	_	_	_
+27	ён	_	_	_	_	_	_	_	_
+28	фигура	_	_	_	_	_	_	_	_
+29	вылӧ	_	_	_	_	_	_	_	_
+30	видзӧдӧмӧн	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	коді	_	_	_	_	34	nsubj	_	_
+33	спокойнӧя	_	_	_	_	_	_	_	_
+34	пукалӧ	_	_	_	_	_	_	_	_
+35	седлӧ	_	_	_	_	34	obl	_	_
+36	вылын	_	_	_	_	35	case	_	_
+37	,	_	_	_	_	_	_	_	_
+38	думайтӧны	_	_	_	_	_	_	_	_
+39	:	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.381
+# text = Да, вот сійӧ, миян Клим Ворошилов!
+# ft_rus = „Да, вот он, наш Клим Ворошилов!
+1	Да	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	вот	_	_	_	_	_	_	_	_
+4	сійӧ	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	миян	_	_	_	_	_	_	_	_
+7	Клим	_	_	_	_	_	_	_	_
+8	Ворошилов	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.382
+# text = Уна заслуга сылӧн революция да страна водзын.
+# ft_rus = Много заслуг у него перед революцией и страной.
+1	Уна	_	_	_	_	_	_	_	_
+2	заслуга	_	_	_	_	_	_	_	_
+3	сылӧн	_	_	_	_	_	_	_	_
+4	революция	_	_	_	_	_	_	_	_
+5	да	_	_	_	_	_	_	_	_
+6	страна	_	_	_	_	_	_	_	_
+7	водзын	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.383
+# text = Мудрӧя да кужӧмӧн сійӧ веськӧдлӧ миянӧн.
+# ft_rus = Мудро и умело руководит он нами.
+1	Мудрӧя	_	_	_	_	_	_	_	_
+2	да	_	_	_	_	_	_	_	_
+3	кужӧмӧн	_	_	_	_	_	_	_	_
+4	сійӧ	_	_	_	_	5	nsubj	_	_
+5	веськӧдлӧ	_	_	_	_	_	_	_	v1
+6	миянӧн	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.384
+# text = Но ӧд сійӧ кужӧ не сӧмын веськӧдлыны.
+# ft_rus = Но ведь он умеет не только руководить.
+1	Но	_	_	_	_	_	_	_	_
+2	ӧд	_	_	_	_	_	_	_	_
+3	сійӧ	_	_	_	_	4	nsubj	_	_
+4	кужӧ	_	_	_	_	_	_	_	_
+5	не	_	_	_	_	_	_	_	_
+6	сӧмын	_	_	_	_	_	_	_	_
+7	веськӧдлыны	_	_	_	_	4	xcomp	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.385
+# text = Сійӧ кужӧ, ковмас кӧ и тышкасьны врагкӧд чужӧмысь чужӧмӧ.
+# ft_rus = Он умеет, если нужно, и драться лицом к лицу с врагом.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	кужӧ	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ковмас	_	_	_	_	_	_	_	_
+5	кӧ	_	_	_	_	_	_	_	_
+6	и	_	_	_	_	_	_	_	_
+7	тышкасьны	_	_	_	_	4	xcomp	_	_
+8	врагкӧд	_	_	_	_	_	_	_	_
+9	чужӧмысь	_	_	_	_	7	obl	_	_
+10	чужӧмӧ	_	_	_	_	7	obl	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.386
+# text = Сійӧ кужӧ веськыда, дрӧгниттӧг, видзӧдлыны смертьлы синмас.
+# ft_rus = Он умеет прямо, не дрогнув, взглянуть в глаза смерти.
+1	Сійӧ	_	_	_	_	2	nsubj	_	_
+2	кужӧ	_	_	_	_	_	_	_	_
+3	веськыда	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	дрӧгниттӧг	_	_	_	VerbForm=Conv	7	advcl	_	_
+6	,	_	_	_	_	_	_	_	_
+7	видзӧдлыны	_	_	_	_	2	xcomp	_	_
+8	смертьлы	_	_	_	_	_	_	_	_
+9	синмас	_	_	_	_	7	obl	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.387
+# text = Сійӧ ӧттшӧтш и Нарком и красноармеец.
+# ft_rus = Он одновременно и Нарком и красноармеец.
+1	Сійӧ	_	_	_	_	_	_	_	_
+2	ӧттшӧтш	_	_	_	_	_	_	_	_
+3	и	_	_	_	_	_	_	_	_
+4	Нарком	_	_	_	_	_	_	_	_
+5	и	_	_	_	_	_	_	_	_
+6	красноармеец	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.388
+# text = Мед олас Клим Ворошилов!
+# ft_rus = Да здравствует Клим Ворошилов!
+1	Мед	_	_	_	_	_	_	_	_
+2	олас	_	_	_	_	_	_	_	v1
+3	Клим	_	_	_	_	2	nsubj	_	_
+4	Ворошилов	_	_	_	_	3	flat:name	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = kpv_four_battles.389
+# text = Мед олас миян первой боец!
+# ft_rus = Да здравствует наш первый боец!“
+1	Мед	_	_	_	_	_	_	_	_
+2	олас	_	_	_	_	_	_	_	v1
+3	миян	_	_	_	_	_	_	_	_
+4	первой	_	_	_	_	_	_	_	_
+5	боец	_	_	_	_	2	nsubj	_	_
+6	!	_	_	_	_	_	_	_	_
+
