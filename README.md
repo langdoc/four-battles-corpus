@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/p/mark/1.0/88x31.png" /></a></a>
+
 # Four Battles corpus
 
 This corpus contain line-by-line aligned parallel text in several Uralic languages. The organisation of materials is still on-going, and especially Erzya needs to be converted to CoNLL-U format. Also the language tags need to be imported to CoNLL-U files of the other languages.
