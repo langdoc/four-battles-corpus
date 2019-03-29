@@ -1,6 +1,12 @@
 # Four Battles corpus
 
-Release volga-ural contains partially annotated materials used in Jeremy Bradley's, Alexandra Kellner's and Niko Partanen's paper *Variation in word order in Permic and Mari varieties: a corpus-based investigation* at symposium "Language contacts of the nations of Volga-Ural region", Cheboksary, 21–24.5.2018.
+This corpus contain line-by-line aligned parallel text in several Uralic languages. The organisation of materials is still on-going, and especially Erzya needs to be converted to CoNLL-U format. Also the language tags need to be imported to CoNLL-U files of the other languages.
+
+The corpus has been used in following works: 
+
+> Bradley Jeremy, Kellner Alexandra & Partanen Niko 2018: Variation in word order in Permic and Mari varieties: a corpus-based investigation. *Proceedings of the symposium "Language contacts of the nations of Volga-Ural region", Cheboksary, 21–24.5.2018.*
+
+> Janurik Boglarka, Kantele Simo & Partanen Niko 2017:  Three Uralic languages walk into a bar. Presentation in SLE 2017, Zurich.
 
 Part of the Komi annotations are also in the Universal Dependencies [Komi-Zyrian treebank](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice/).
 
